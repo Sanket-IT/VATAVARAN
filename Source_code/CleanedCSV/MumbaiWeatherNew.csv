@@ -1,0 +1,749 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,"Well, at least the weather is good. #MumbaiWeather","Well, at least the weather is good. #MumbaiWeather","Well, at least the weather is good. #MumbaiWeather","Well, at least the weather is good. #MumbaiWeather",Well at least the weather is good MumbaiWeather,"['Well', 'least', 'weather', 'good', 'MumbaiWeather']"
+1,"RT @fpjindia: #Mumbai weather update: Monsoon revives after a two weeks lull; reports @diptivsingh 
+#MumbaiRains #MumbaiWeather 
+https://t.…","RT  #Mumbai weather update: Monsoon revives after a two weeks lull; reports  
+#MumbaiRains #MumbaiWeather 
+https://t.…","RT  #Mumbai weather update: Monsoon revives after a two weeks lull; reports  
+#MumbaiRains #MumbaiWeather 
+","  #Mumbai weather update: Monsoon revives after a two weeks lull; reports  
+#Mumbaiains #MumbaiWeather 
+","  Mumbai weather update Monsoon revives after a two weeks lull reports  
+Mumbaiains MumbaiWeather 
+","['Mumbai', 'weather', 'update', 'Monsoon', 'revives', 'two', 'weeks', 'lull', 'reports', 'Mumbaiains', 'MumbaiWeather']"
+2,"#Mumbai weather update: Monsoon revives after a two weeks lull; reports @diptivsingh 
+#MumbaiRains #MumbaiWeather… https://t.co/9NAvFaP6io","#Mumbai weather update: Monsoon revives after a two weeks lull; reports  
+#MumbaiRains #MumbaiWeather… https://t.co/9NAvFaP6io","#Mumbai weather update: Monsoon revives after a two weeks lull; reports  
+#MumbaiRains #MumbaiWeather… ","#Mumbai weather update: Monsoon revives after a two weeks lull; reports  
+#Mumbaiains #MumbaiWeather… ","Mumbai weather update Monsoon revives after a two weeks lull reports  
+Mumbaiains MumbaiWeather… ","['Mumbai', 'weather', 'update', 'Monsoon', 'revives', 'two', 'weeks', 'lull', 'reports', 'Mumbaiains', 'MumbaiWeather…']"
+3,"RT @mybmc: #MumbaiWeather forecast 16 Aug, 2021: MODERATE RAIN IN CITY AND SUBURBS WITH POSSIBILITY OF HEAVY FALLS AT ISOLATED PLACES.
+
+Hig…","RT  #MumbaiWeather forecast 16 Aug, 2021: MODERATE RAIN IN CITY AND SUBURBS WITH POSSIBILITY OF HEAVY FALLS AT ISOLATED PLACES.
+
+Hig…","RT  #MumbaiWeather forecast 16 Aug, 2021: MODERATE RAIN IN CITY AND SUBURBS WITH POSSIBILITY OF HEAVY FALLS AT ISOLATED PLACES.
+
+Hig…","  #MumbaiWeather forecast  Aug, : MODEAE AIN IN CIY AND SUBUBS WIH POSSIBILIY OF HEAVY FALLS A ISOLAED PLACES.
+
+Hig…","  MumbaiWeather forecast  Aug  MODEAE AIN IN CIY AND SUBUBS WIH POSSIBILIY OF HEAVY FALLS A ISOLAED PLACES
+
+Hig…","['MumbaiWeather', 'forecast', 'Aug', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'WIH', 'POSSIBILIY', 'OF', 'HEAVY', 'FALLS', 'A', 'ISOLAED', 'PLACES', 'Hig…']"
+4,"Cycling in the City!
+#MondayMood #mumbaiweather https://t.co/WouBBfwe7O","Cycling in the City!
+#MondayMood #mumbaiweather https://t.co/WouBBfwe7O","Cycling in the City!
+#MondayMood #mumbaiweather ","Cycling in the City!
+#MondayMood #mumbaiweather ","Cycling in the City
+MondayMood mumbaiweather ","['Cycling', 'City', 'MondayMood', 'mumbaiweather']"
+5,"#MumbaiWeather forecast 16 Aug, 2021: MODERATE RAIN IN CITY AND SUBURBS WITH POSSIBILITY OF HEAVY FALLS AT ISOLATED… https://t.co/9vJzcLu4p5","#MumbaiWeather forecast 16 Aug, 2021: MODERATE RAIN IN CITY AND SUBURBS WITH POSSIBILITY OF HEAVY FALLS AT ISOLATED… https://t.co/9vJzcLu4p5","#MumbaiWeather forecast 16 Aug, 2021: MODERATE RAIN IN CITY AND SUBURBS WITH POSSIBILITY OF HEAVY FALLS AT ISOLATED… ","#MumbaiWeather forecast  Aug, : MODEAE AIN IN CIY AND SUBUBS WIH POSSIBILIY OF HEAVY FALLS A ISOLAED… ",MumbaiWeather forecast  Aug  MODEAE AIN IN CIY AND SUBUBS WIH POSSIBILIY OF HEAVY FALLS A ISOLAED… ,"['MumbaiWeather', 'forecast', 'Aug', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'WIH', 'POSSIBILIY', 'OF', 'HEAVY', 'FALLS', 'A', 'ISOLAED…']"
+6,#MumbaiWeather PM Thunderstorms today! With a high of 30C and a low of 26C.,#MumbaiWeather PM Thunderstorms today! With a high of 30C and a low of 26C.,#MumbaiWeather PM Thunderstorms today! With a high of 30C and a low of 26C.,#MumbaiWeather PM hunderstorms today! With a high of C and a low of C.,MumbaiWeather PM hunderstorms today With a high of C and a low of C,"['MumbaiWeather', 'PM', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'C']"
+7,"#MumbaiWeather - Sunrise: August 16, 2021 at 06:19AM AM Thunderstorms today! With a high of: 29C and a low of:26C… https://t.co/66XPJGXS5k","#MumbaiWeather - Sunrise: August 16, 2021 at 06:19AM AM Thunderstorms today! With a high of: 29C and a low of:26C… https://t.co/66XPJGXS5k","#MumbaiWeather - Sunrise: August 16, 2021 at 06:19AM AM Thunderstorms today! With a high of: 29C and a low of:26C… ","#MumbaiWeather - Sunrise: August ,  at :AM AM hunderstorms today! With a high of: C and a low of:C… ",MumbaiWeather  Sunrise August   at AM AM hunderstorms today With a high of C and a low ofC… ,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'AM', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'ofC…']"
+8,RT @thewarriergal: The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,  he beautiful western railway head office in #Mumbai    #photography #Mumbaiain…,  he beautiful western railway head office in Mumbai    photography Mumbaiain…,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography', 'Mumbaiain…']"
+9,RT @thewarriergal: The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,  he beautiful western railway head office in #Mumbai    #photography #Mumbaiain…,  he beautiful western railway head office in Mumbai    photography Mumbaiain…,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography', 'Mumbaiain…']"
+10,"RT @Dreamitbig135: #mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)…","RT  #mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)…","RT  #mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)…","  #mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)…",  mumbaiweather today is pure Sunday bliss Such days deserve nothing but good food home comfort and couch loyalties …,"['mumbaiweather', 'today', 'pure', 'Sunday', 'bliss', 'Such', 'days', 'deserve', 'nothing', 'good', 'food', 'home', 'comfort', 'couch', 'loyalties', '…']"
+11,"#mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)
+#Mumbai #mumbaiRains","#mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)
+#Mumbai #mumbaiRains","#mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)
+#Mumbai #mumbaiRains","#mumbaiweather today is pure Sunday bliss. Such days deserve nothing but good food, home comfort and couch loyalties :)
+#Mumbai #mumbaiains","mumbaiweather today is pure Sunday bliss Such days deserve nothing but good food home comfort and couch loyalties 
+Mumbai mumbaiains","['mumbaiweather', 'today', 'pure', 'Sunday', 'bliss', 'Such', 'days', 'deserve', 'nothing', 'good', 'food', 'home', 'comfort', 'couch', 'loyalties', 'Mumbai', 'mumbaiains']"
+12,Watching @modernlovetv season 1 on #IndependenceDay . May be little late in joining the party..But here I am. And t… https://t.co/PMQivsfiB2,Watching  season 1 on #IndependenceDay . May be little late in joining the party..But here I am. And t… https://t.co/PMQivsfiB2,Watching  season 1 on #IndependenceDay . May be little late in joining the party..But here I am. And t… ,Watching  season  on #IndependenceDay . May be little late in joining the party..But here I am. And t… ,Watching  season  on IndependenceDay  May be little late in joining the partyBut here I am And t… ,"['Watching', 'season', 'IndependenceDay', 'May', 'little', 'late', 'joining', 'partyBut', 'I', 'And', 't…']"
+13,"RT @ya_maddy12: The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","RT  The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","RT  The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","  he rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","  he rain is falling and so I am❤️
+
+lonavala mumbai mumbaimaharastra lonavalarain lonavaladiary amachimumbai mumba…","['rain', 'falling', 'I', 'am❤️', 'lonavala', 'mumbai', 'mumbaimaharastra', 'lonavalarain', 'lonavaladiary', 'amachimumbai', 'mumba…']"
+14,#MumbaiWeather Rain today! With a high of 29C and a low of 26C.,#MumbaiWeather Rain today! With a high of 29C and a low of 26C.,#MumbaiWeather Rain today! With a high of 29C and a low of 26C.,#MumbaiWeather ain today! With a high of C and a low of C.,MumbaiWeather ain today With a high of C and a low of C,"['MumbaiWeather', 'today', 'With', 'high', 'C', 'low', 'C']"
+15,"RT @RoarWeather: #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","RT  #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","RT  #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","  #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","  India IndianAirForce IndianArmy IndianNavy IndiaAt
+
+mumbairain Mumbai Goa amrutmahotsav
+Maharashtra mumbaiwea…","['India', 'IndianAirForce', 'IndianArmy', 'IndianNavy', 'IndiaAt', 'mumbairain', 'Mumbai', 'Goa', 'amrutmahotsav', 'Maharashtra', 'mumbaiwea…']"
+16,"RT @RoarWeather: #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","RT  #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","RT  #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","  #India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra #mumbaiwea…","  India IndianAirForce IndianArmy IndianNavy IndiaAt
+
+mumbairain Mumbai Goa amrutmahotsav
+Maharashtra mumbaiwea…","['India', 'IndianAirForce', 'IndianArmy', 'IndianNavy', 'IndiaAt', 'mumbairain', 'Mumbai', 'Goa', 'amrutmahotsav', 'Maharashtra', 'mumbaiwea…']"
+17,"#India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra… https://t.co/lkBIAIgydt","#India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra… https://t.co/lkBIAIgydt","#India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt75
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra… ","#India #IndianAirForce #IndianArmy #IndianNavy #IndiaAt
+
+#mumbairain #Mumbai #Goa #amrutmahotsav
+#Maharashtra… ","India IndianAirForce IndianArmy IndianNavy IndiaAt
+
+mumbairain Mumbai Goa amrutmahotsav
+Maharashtra… ","['India', 'IndianAirForce', 'IndianArmy', 'IndianNavy', 'IndiaAt', 'mumbairain', 'Mumbai', 'Goa', 'amrutmahotsav', 'Maharashtra…']"
+18,"#MumbaiWeather - Sunrise: August 15, 2021 at 06:19AM Heavy Rain today! With a high of: 29C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 15, 2021 at 06:19AM Heavy Rain today! With a high of: 29C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 15, 2021 at 06:19AM Heavy Rain today! With a high of: 29C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Heavy ain today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Heavy ain today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Heavy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+19,"RT @SkymetWeather: Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather https://t.co/6p2mALJytA","RT  Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather https://t.co/6p2mALJytA","RT  Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather ","  Such a pleasant start to a Sunday morning. 
+#Mumbaiains #Mumbai #mumbaiweather ","  Such a pleasant start to a Sunday morning 
+Mumbaiains Mumbai mumbaiweather ","['Such', 'pleasant', 'start', 'Sunday', 'morning', 'Mumbaiains', 'Mumbai', 'mumbaiweather']"
+20,"RT @SkymetWeather: Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather https://t.co/6p2mALJytA","RT  Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather https://t.co/6p2mALJytA","RT  Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather ","  Such a pleasant start to a Sunday morning. 
+#Mumbaiains #Mumbai #mumbaiweather ","  Such a pleasant start to a Sunday morning 
+Mumbaiains Mumbai mumbaiweather ","['Such', 'pleasant', 'start', 'Sunday', 'morning', 'Mumbaiains', 'Mumbai', 'mumbaiweather']"
+21,"Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather https://t.co/6p2mALJytA","Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather https://t.co/6p2mALJytA","Such a pleasant start to a Sunday morning. 
+#MumbaiRains #Mumbai #mumbaiweather ","Such a pleasant start to a Sunday morning. 
+#Mumbaiains #Mumbai #mumbaiweather ","Such a pleasant start to a Sunday morning 
+Mumbaiains Mumbai mumbaiweather ","['Such', 'pleasant', 'start', 'Sunday', 'morning', 'Mumbaiains', 'Mumbai', 'mumbaiweather']"
+22,"RT @ya_maddy12: The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","RT  The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","RT  The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","  he rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary #amachimumbai #mumba…","  he rain is falling and so I am❤️
+
+lonavala mumbai mumbaimaharastra lonavalarain lonavaladiary amachimumbai mumba…","['rain', 'falling', 'I', 'am❤️', 'lonavala', 'mumbai', 'mumbaimaharastra', 'lonavalarain', 'lonavaladiary', 'amachimumbai', 'mumba…']"
+23,"The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary… https://t.co/jWAldl61mx","The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary… https://t.co/jWAldl61mx","The rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary… ","he rain is falling and so I am...❤️
+
+#lonavala #mumbai #mumbaimaharastra #lonavalarain #lonavaladiary… ","he rain is falling and so I am❤️
+
+lonavala mumbai mumbaimaharastra lonavalarain lonavaladiary… ","['rain', 'falling', 'I', 'am❤️', 'lonavala', 'mumbai', 'mumbaimaharastra', 'lonavalarain', 'lonavaladiary…']"
+24,Insane rain in Mumbai region right now. Pleasant weather back again! #MumbaiRains #rain #mumbaiweather #navimumbai https://t.co/XX8P1pDM1L,Insane rain in Mumbai region right now. Pleasant weather back again! #MumbaiRains #rain #mumbaiweather #navimumbai https://t.co/XX8P1pDM1L,Insane rain in Mumbai region right now. Pleasant weather back again! #MumbaiRains #rain #mumbaiweather #navimumbai ,Insane rain in Mumbai region right now. Pleasant weather back again! #Mumbaiains #rain #mumbaiweather #navimumbai ,Insane rain in Mumbai region right now Pleasant weather back again Mumbaiains rain mumbaiweather navimumbai ,"['Insane', 'rain', 'Mumbai', 'region', 'right', 'Pleasant', 'weather', 'back', 'Mumbaiains', 'rain', 'mumbaiweather', 'navimumbai']"
+25,#MumbaiWeather Cloudy today! With a high of 29C and a low of 26C.,#MumbaiWeather Cloudy today! With a high of 29C and a low of 26C.,#MumbaiWeather Cloudy today! With a high of 29C and a low of 26C.,#MumbaiWeather Cloudy today! With a high of C and a low of C.,MumbaiWeather Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+26,"RT @fpjindia: #Mumbai: Latest updates on August 14 
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID19 
+https://t.co/qTSo…","RT  #Mumbai: Latest updates on August 14 
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID19 
+https://t.co/qTSo…","RT  #Mumbai: Latest updates on August 14 
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID19 
+","  #Mumbai: Latest updates on August  
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID 
+","  Mumbai Latest updates on August  
+mumbairain MumbaiPolice MumbaiWeather Maharashtra Pune COVID 
+","['Mumbai', 'Latest', 'updates', 'August', 'mumbairain', 'MumbaiPolice', 'MumbaiWeather', 'Maharashtra', 'Pune', 'COVID']"
+27,"#MumbaiWeather - Sunrise: August 14, 2021 at 06:19AM AM Rain today! With a high of: 30C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 14, 2021 at 06:19AM AM Rain today! With a high of: 30C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 14, 2021 at 06:19AM AM Rain today! With a high of: 30C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM AM ain today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM AM ain today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'AM', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+28,"#Mumbai: Latest updates on August 14 
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID19… https://t.co/rAiyBClA7a","#Mumbai: Latest updates on August 14 
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID19… https://t.co/rAiyBClA7a","#Mumbai: Latest updates on August 14 
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID19… ","#Mumbai: Latest updates on August  
+#mumbairain #MumbaiPolice #MumbaiWeather #Maharashtra #Pune #COVID… ","Mumbai Latest updates on August  
+mumbairain MumbaiPolice MumbaiWeather Maharashtra Pune COVID… ","['Mumbai', 'Latest', 'updates', 'August', 'mumbairain', 'MumbaiPolice', 'MumbaiWeather', 'Maharashtra', 'Pune', 'COVID…']"
+29,"RT @SkymetWeather: Passing showers in parts of #Mumbai, not likely to last for a very long time. #MumbaiRains #mumbaiweather","RT  Passing showers in parts of #Mumbai, not likely to last for a very long time. #MumbaiRains #mumbaiweather","RT  Passing showers in parts of #Mumbai, not likely to last for a very long time. #MumbaiRains #mumbaiweather","  Passing showers in parts of #Mumbai, not likely to last for a very long time. #Mumbaiains #mumbaiweather",  Passing showers in parts of Mumbai not likely to last for a very long time Mumbaiains mumbaiweather,"['Passing', 'showers', 'parts', 'Mumbai', 'likely', 'last', 'long', 'time', 'Mumbaiains', 'mumbaiweather']"
+30,"Passing showers in parts of #Mumbai, not likely to last for a very long time. #MumbaiRains #mumbaiweather","Passing showers in parts of #Mumbai, not likely to last for a very long time. #MumbaiRains #mumbaiweather","Passing showers in parts of #Mumbai, not likely to last for a very long time. #MumbaiRains #mumbaiweather","Passing showers in parts of #Mumbai, not likely to last for a very long time. #Mumbaiains #mumbaiweather",Passing showers in parts of Mumbai not likely to last for a very long time Mumbaiains mumbaiweather,"['Passing', 'showers', 'parts', 'Mumbai', 'likely', 'last', 'long', 'time', 'Mumbaiains', 'mumbaiweather']"
+31,"RT @mybmc: #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","RT  #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","RT  #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS. 
+
+High tide
+: hrs – . mtr 
+
+Low tide :
+:…","  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS 
+
+High tide
+ hrs –  mtr 
+
+Low tide 
+…","['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'High', 'tide', 'hrs', '–', 'mtr', 'Low', 'tide', '…']"
+32,"RT @mybmc: #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","  #MumbaiWeather Forecast Aug  : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+: - . mtr
+
+Low tide :
+: - .m…","  MumbaiWeather Forecast Aug   Light to moderate rain in City amp Suburbs
+
+High tide
+   mtr
+
+Low tide 
+  m…","['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'City', 'amp', 'Suburbs', 'High', 'tide', 'mtr', 'Low', 'tide', 'm…']"
+33,"RT @mybmc: #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","RT  #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","RT  #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS. 
+
+High tide
+: hrs – . mtr 
+
+Low tide :
+:…","  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS 
+
+High tide
+ hrs –  mtr 
+
+Low tide 
+…","['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'High', 'tide', 'hrs', '–', 'mtr', 'Low', 'tide', '…']"
+34,"RT @fpjindia: #Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 13
+#MumbaiRains #mumbaiweather 
+https:/…","RT  #Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 13
+#MumbaiRains #mumbaiweather 
+https:/…","RT  #Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 13
+#MumbaiRains #mumbaiweather 
+https:/…","  #Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 
+#Mumbaiains #mumbaiweather 
+https:/…","  Mumbai Click here for water level in citys seven lakes as issued by BMC on August 
+Mumbaiains mumbaiweather 
+https…","['Mumbai', 'Click', 'water', 'level', 'citys', 'seven', 'lakes', 'issued', 'BMC', 'August', 'Mumbaiains', 'mumbaiweather', 'https…']"
+35,"#Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 13
+#MumbaiRains… https://t.co/9acC38LtLZ","#Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 13
+#MumbaiRains… https://t.co/9acC38LtLZ","#Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 13
+#MumbaiRains… ","#Mumbai: Click here for water level in city's seven lakes as issued by #BMC on August 
+#Mumbaiains… ","Mumbai Click here for water level in citys seven lakes as issued by BMC on August 
+Mumbaiains… ","['Mumbai', 'Click', 'water', 'level', 'citys', 'seven', 'lakes', 'issued', 'BMC', 'August', 'Mumbaiains…']"
+36,"RT @mybmc: #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","RT  #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","RT  #MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low tide :
+21:10…","  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS. 
+
+High tide
+: hrs – . mtr 
+
+Low tide :
+:…","  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS 
+
+High tide
+ hrs –  mtr 
+
+Low tide 
+…","['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'High', 'tide', 'hrs', '–', 'mtr', 'Low', 'tide', '…']"
+37,"#MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low… https://t.co/fKo8Ps4TUS","#MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low… https://t.co/fKo8Ps4TUS","#MumbaiWeather Forecast Aug 13 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS. 
+
+High tide
+15:09 hrs – 4.28 mtr 
+
+Low… ","#MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS. 
+
+High tide
+: hrs – . mtr 
+
+Low… ","MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS 
+
+High tide
+ hrs –  mtr 
+
+Low… ","['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'High', 'tide', 'hrs', '–', 'mtr', 'Low…']"
+38,"RT @iVishvendra: Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon Maharashtra  Goa have some amazing ghats to look at Nature at its best
+
+mon…","['Absolutely', 'stunning', 'visual', 'monsoon', 'Maharashtra', 'Goa', 'amazing', 'ghats', 'look', 'Nature', 'best', 'mon…']"
+39,#MumbaiWeather Mostly Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of C and a low of C.,MumbaiWeather Mostly Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Mostly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+40,"#MumbaiWeather - Sunrise: August 13, 2021 at 06:18AM AM Rain today! With a high of: 29C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 13, 2021 at 06:18AM AM Rain today! With a high of: 29C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 13, 2021 at 06:18AM AM Rain today! With a high of: 29C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM AM ain today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM AM ain today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'AM', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+41,"RT @mybmc: #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","  #MumbaiWeather Forecast Aug  : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+: - . mtr
+
+Low tide :
+: - .m…","  MumbaiWeather Forecast Aug   Light to moderate rain in City amp Suburbs
+
+High tide
+   mtr
+
+Low tide 
+  m…","['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'City', 'amp', 'Suburbs', 'High', 'tide', 'mtr', 'Low', 'tide', 'm…']"
+42,"@UpdateDisaster Disastrous tauktae cyclone 🌀
+Mumbai Takute cyclone view
+Takute attack Mumbai #cycloneyaas… https://t.co/nsZJqX5izh"," Disastrous tauktae cyclone 🌀
+Mumbai Takute cyclone view
+Takute attack Mumbai #cycloneyaas… https://t.co/nsZJqX5izh"," Disastrous tauktae cyclone 🌀
+Mumbai Takute cyclone view
+Takute attack Mumbai #cycloneyaas… "," Disastrous tauktae cyclone 🌀
+Mumbai akute cyclone view
+akute attack Mumbai #cycloneyaas… "," Disastrous tauktae cyclone 🌀
+Mumbai akute cyclone view
+akute attack Mumbai cycloneyaas… ","['Disastrous', 'tauktae', 'cyclone', '🌀', 'Mumbai', 'akute', 'cyclone', 'view', 'akute', 'attack', 'Mumbai', 'cycloneyaas…']"
+43,"RT @mybmc: #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","  #MumbaiWeather Forecast Aug  : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+: - . mtr
+
+Low tide :
+: - .m…","  MumbaiWeather Forecast Aug   Light to moderate rain in City amp Suburbs
+
+High tide
+   mtr
+
+Low tide 
+  m…","['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'City', 'amp', 'Suburbs', 'High', 'tide', 'mtr', 'Low', 'tide', 'm…']"
+44,"RT @Manisha3005: IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","  IMD : rainfall to pick in north , Maharashtra, Gujarat from August .
+ainfall ill now  : 
+Overall :-%
+June +%
+July -…","  IMD  rainfall to pick in north  Maharashtra Gujarat from August 
+ainfall ill now   
+Overall 
+June 
+July …","['IMD', 'rainfall', 'pick', 'north', 'Maharashtra', 'Gujarat', 'August', 'ainfall', 'ill', 'Overall', 'June', 'July', '…']"
+45,"RT @Manisha3005: IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","  IMD : rainfall to pick in north , Maharashtra, Gujarat from August .
+ainfall ill now  : 
+Overall :-%
+June +%
+July -…","  IMD  rainfall to pick in north  Maharashtra Gujarat from August 
+ainfall ill now   
+Overall 
+June 
+July …","['IMD', 'rainfall', 'pick', 'north', 'Maharashtra', 'Gujarat', 'August', 'ainfall', 'ill', 'Overall', 'June', 'July', '…']"
+46,"Romantic weather😍
+
+#MumbaiWeather","Romantic weather😍
+
+#MumbaiWeather","Romantic weather😍
+
+#MumbaiWeather","omantic weather😍
+
+#MumbaiWeather","omantic weather😍
+
+MumbaiWeather","['omantic', 'weather😍', 'MumbaiWeather']"
+47,"RT @Manisha3005: IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","  IMD : rainfall to pick in north , Maharashtra, Gujarat from August .
+ainfall ill now  : 
+Overall :-%
+June +%
+July -…","  IMD  rainfall to pick in north  Maharashtra Gujarat from August 
+ainfall ill now   
+Overall 
+June 
+July …","['IMD', 'rainfall', 'pick', 'north', 'Maharashtra', 'Gujarat', 'August', 'ainfall', 'ill', 'Overall', 'June', 'July', '…']"
+48,"RT @Manisha3005: IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","RT  IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%
+July -…","  IMD : rainfall to pick in north , Maharashtra, Gujarat from August .
+ainfall ill now  : 
+Overall :-%
+June +%
+July -…","  IMD  rainfall to pick in north  Maharashtra Gujarat from August 
+ainfall ill now   
+Overall 
+June 
+July …","['IMD', 'rainfall', 'pick', 'north', 'Maharashtra', 'Gujarat', 'August', 'ainfall', 'ill', 'Overall', 'June', 'July', '…']"
+49,"IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%… https://t.co/21U3h90NUE","IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%… https://t.co/21U3h90NUE","IMD : rainfall to pick in north , Maharashtra, Gujarat from August 15.
+Rainfall Till now  : 
+Overall :-5%
+June +10%… ","IMD : rainfall to pick in north , Maharashtra, Gujarat from August .
+ainfall ill now  : 
+Overall :-%
+June +%… ","IMD  rainfall to pick in north  Maharashtra Gujarat from August 
+ainfall ill now   
+Overall 
+June … ","['IMD', 'rainfall', 'pick', 'north', 'Maharashtra', 'Gujarat', 'August', 'ainfall', 'ill', 'Overall', 'June', '…']"
+50,"RT @SkymetWeather: #Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions, how…","RT  #Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions, how…","RT  #Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions, how…","  #Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions, how…",  Mumbai may see some on and off rainfall activity which may provide marginal relief from sultry weather conditions how…,"['Mumbai', 'may', 'see', 'rainfall', 'activity', 'may', 'provide', 'marginal', 'relief', 'sultry', 'weather', 'conditions', 'how…']"
+51,"#Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions… https://t.co/v0CUmCDWcD","#Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions… https://t.co/v0CUmCDWcD","#Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions… ","#Mumbai may see some on and off rainfall activity, which may provide marginal relief from sultry weather conditions… ",Mumbai may see some on and off rainfall activity which may provide marginal relief from sultry weather conditions… ,"['Mumbai', 'may', 'see', 'rainfall', 'activity', 'may', 'provide', 'marginal', 'relief', 'sultry', 'weather', 'conditions…']"
+52,"RT @mybmc: #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","  #MumbaiWeather Forecast Aug  : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+: - . mtr
+
+Low tide :
+: - .m…","  MumbaiWeather Forecast Aug   Light to moderate rain in City amp Suburbs
+
+High tide
+   mtr
+
+Low tide 
+  m…","['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'City', 'amp', 'Suburbs', 'High', 'tide', 'mtr', 'Low', 'tide', 'm…']"
+53,#MumbaiWeather Mostly Cloudy today! With a high of 29C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of 29C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of 29C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of C and a low of C.,MumbaiWeather Mostly Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Mostly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+54,"RT @mybmc: #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","RT  #MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :
+20:32 - 1.00m…","  #MumbaiWeather Forecast Aug  : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+: - . mtr
+
+Low tide :
+: - .m…","  MumbaiWeather Forecast Aug   Light to moderate rain in City amp Suburbs
+
+High tide
+   mtr
+
+Low tide 
+  m…","['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'City', 'amp', 'Suburbs', 'High', 'tide', 'mtr', 'Low', 'tide', 'm…']"
+55,"#MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :… https://t.co/M9S86Yv9nx","#MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :… https://t.co/M9S86Yv9nx","#MumbaiWeather Forecast Aug 12 : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+14:31 - 4.44 mtr
+
+Low tide :… ","#MumbaiWeather Forecast Aug  : Light to moderate rain in City &amp; Suburbs.
+
+High tide
+: - . mtr
+
+Low tide :… ","MumbaiWeather Forecast Aug   Light to moderate rain in City amp Suburbs
+
+High tide
+   mtr
+
+Low tide … ","['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'City', 'amp', 'Suburbs', 'High', 'tide', 'mtr', 'Low', 'tide', '…']"
+56,"RT @fpjindia: #Mumbai: Latest updates on August 12
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+https://t.co/11W2SiglIm","RT  #Mumbai: Latest updates on August 12
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+https://t.co/11W2SiglIm","RT  #Mumbai: Latest updates on August 12
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+","  #Mumbai: Latest updates on August 
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+","  Mumbai Latest updates on August 
+mumbaiweather MumbaiLocal BMC Maharashtra
+","['Mumbai', 'Latest', 'updates', 'August', 'mumbaiweather', 'MumbaiLocal', 'BMC', 'Maharashtra']"
+57,"#Mumbai: Latest updates on August 12
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+https://t.co/11W2SiglIm","#Mumbai: Latest updates on August 12
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+https://t.co/11W2SiglIm","#Mumbai: Latest updates on August 12
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+","#Mumbai: Latest updates on August 
+#mumbaiweather #MumbaiLocal #BMC #Maharashtra
+","Mumbai Latest updates on August 
+mumbaiweather MumbaiLocal BMC Maharashtra
+","['Mumbai', 'Latest', 'updates', 'August', 'mumbaiweather', 'MumbaiLocal', 'BMC', 'Maharashtra']"
+58,RT @Jaiswal_geo_pol: #NASA envisages 12 coastal cities of India including Mumbai and Chennai that will be submerged under the sea water in…,RT  #NASA envisages 12 coastal cities of India including Mumbai and Chennai that will be submerged under the sea water in…,RT  #NASA envisages 12 coastal cities of India including Mumbai and Chennai that will be submerged under the sea water in…,  #NASA envisages  coastal cities of India including Mumbai and Chennai that will be submerged under the sea water in…,  NASA envisages  coastal cities of India including Mumbai and Chennai that will be submerged under the sea water in…,"['NASA', 'envisages', 'coastal', 'cities', 'India', 'including', 'Mumbai', 'Chennai', 'submerged', 'sea', 'water', 'in…']"
+59,#NASA envisages 12 coastal cities of India including Mumbai and Chennai that will be submerged under the sea water… https://t.co/dwxQDnHxuk,#NASA envisages 12 coastal cities of India including Mumbai and Chennai that will be submerged under the sea water… https://t.co/dwxQDnHxuk,#NASA envisages 12 coastal cities of India including Mumbai and Chennai that will be submerged under the sea water… ,#NASA envisages  coastal cities of India including Mumbai and Chennai that will be submerged under the sea water… ,NASA envisages  coastal cities of India including Mumbai and Chennai that will be submerged under the sea water… ,"['NASA', 'envisages', 'coastal', 'cities', 'India', 'including', 'Mumbai', 'Chennai', 'submerged', 'sea', 'water…']"
+60,"#MumbaiWeather - Sunrise: August 12, 2021 at 06:18AM Isolated Thunderstorms today! With a high of: 30C and a low of… https://t.co/EYa2T8L9RK","#MumbaiWeather - Sunrise: August 12, 2021 at 06:18AM Isolated Thunderstorms today! With a high of: 30C and a low of… https://t.co/EYa2T8L9RK","#MumbaiWeather - Sunrise: August 12, 2021 at 06:18AM Isolated Thunderstorms today! With a high of: 30C and a low of… ","#MumbaiWeather - Sunrise: August ,  at :AM Isolated hunderstorms today! With a high of: C and a low of… ",MumbaiWeather  Sunrise August   at AM Isolated hunderstorms today With a high of C and a low of… ,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Isolated', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'of…']"
+61,"RT @RakshitaPathak: City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai https://t.co/yq1lS27Adf","RT  City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai https://t.co/yq1lS27Adf","RT  City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai ","  City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai ","  City that literally never sleeps Bombay
+
+mumbai maharashtra mumbaiweather Mumbai ","['City', 'literally', 'never', 'sleeps', 'Bombay', 'mumbai', 'maharashtra', 'mumbaiweather', 'Mumbai']"
+62,"RT @RakshitaPathak: City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai https://t.co/yq1lS27Adf","RT  City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai https://t.co/yq1lS27Adf","RT  City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai ","  City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai ","  City that literally never sleeps Bombay
+
+mumbai maharashtra mumbaiweather Mumbai ","['City', 'literally', 'never', 'sleeps', 'Bombay', 'mumbai', 'maharashtra', 'mumbaiweather', 'Mumbai']"
+63,"City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai https://t.co/yq1lS27Adf","City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai https://t.co/yq1lS27Adf","City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai ","City that literally never sleeps! #Bombay
+.
+#mumbai #maharashtra #mumbaiweather #Mumbai ","City that literally never sleeps Bombay
+
+mumbai maharashtra mumbaiweather Mumbai ","['City', 'literally', 'never', 'sleeps', 'Bombay', 'mumbai', 'maharashtra', 'mumbaiweather', 'Mumbai']"
+64,#MumbaiWeather Partly Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Partly Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Partly Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Partly Cloudy today! With a high of C and a low of C.,MumbaiWeather Partly Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Partly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+65,"#MumbaiWeather - Sunrise: August 11, 2021 at 06:18AM Partly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 11, 2021 at 06:18AM Partly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 11, 2021 at 06:18AM Partly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Partly Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Partly Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Partly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+66,"RT @mumbaitez: #MumbaiRains | #WATCH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage Rd, #Mumbai of people fal…","RT  #MumbaiRains | #WATCH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage Rd, #Mumbai of people fal…","RT  #MumbaiRains | #WATCH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage Rd, #Mumbai of people fal…","  #Mumbaiains | #WACH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage d, #Mumbai of people fal…",  Mumbaiains  WACH Latest Visuals of VIDEO going Viral on SocialMedia from Bhandup Villeage d Mumbai of people fal…,"['Mumbaiains', 'WACH', 'Latest', 'Visuals', 'VIDEO', 'going', 'Viral', 'SocialMedia', 'Bhandup', 'Villeage', 'Mumbai', 'people', 'fal…']"
+67,"RT @mumbaitez: #MumbaiRains | #WATCH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage Rd, #Mumbai of people fal…","RT  #MumbaiRains | #WATCH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage Rd, #Mumbai of people fal…","RT  #MumbaiRains | #WATCH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage Rd, #Mumbai of people fal…","  #Mumbaiains | #WACH Latest Visuals of #VIDEO going #Viral on #SocialMedia from #Bhandup Villeage d, #Mumbai of people fal…",  Mumbaiains  WACH Latest Visuals of VIDEO going Viral on SocialMedia from Bhandup Villeage d Mumbai of people fal…,"['Mumbaiains', 'WACH', 'Latest', 'Visuals', 'VIDEO', 'going', 'Viral', 'SocialMedia', 'Bhandup', 'Villeage', 'Mumbai', 'people', 'fal…']"
+68,What kind of silly vibe is this? #mumbaiweather https://t.co/RVtPpDPgFM,What kind of silly vibe is this? #mumbaiweather https://t.co/RVtPpDPgFM,What kind of silly vibe is this? #mumbaiweather ,What kind of silly vibe is this? #mumbaiweather ,What kind of silly vibe is this mumbaiweather ,"['What', 'kind', 'silly', 'vibe', 'mumbaiweather']"
+69,#MumbaiWeather Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 26C.,#MumbaiWeather Cloudy today! With a high of C and a low of C.,MumbaiWeather Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+70,Expect below normal #MumbaiRains to continue for another week at least. Significant rains still not in sight for no… https://t.co/u8nReGGCUD,Expect below normal #MumbaiRains to continue for another week at least. Significant rains still not in sight for no… https://t.co/u8nReGGCUD,Expect below normal #MumbaiRains to continue for another week at least. Significant rains still not in sight for no… ,Expect below normal #Mumbaiains to continue for another week at least. Significant rains still not in sight for no… ,Expect below normal Mumbaiains to continue for another week at least Significant rains still not in sight for no… ,"['Expect', 'normal', 'Mumbaiains', 'continue', 'another', 'week', 'least', 'Significant', 'rains', 'still', 'sight', 'no…']"
+71,"#MumbaiWeather - Sunrise: August 10, 2021 at 06:17AM Mostly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 10, 2021 at 06:17AM Mostly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 10, 2021 at 06:17AM Mostly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Mostly Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Mostly Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Mostly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+72,"RT @ompsyram: Sunday Long Drive 🚗 🌧 
+.
+Happy Rainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","RT  Sunday Long Drive 🚗 🌧 
+.
+Happy Rainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","RT  Sunday Long Drive 🚗 🌧 
+.
+Happy Rainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","  Sunday Long Drive 🚗 🌧 
+.
+Happy ainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","  Sunday Long Drive 🚗 🌧 
+
+Happy ainy Sunday 
+
+mumbai mumbairains sunday MumbaiWeather rains sky clouds monsoon 
+…","['Sunday', 'Long', 'Drive', '🚗', '🌧', 'Happy', 'ainy', 'Sunday', 'mumbai', 'mumbairains', 'sunday', 'MumbaiWeather', 'rains', 'sky', 'clouds', 'monsoon', '…']"
+73,"RT @ompsyram: Sunday Long Drive 🚗 🌧 
+.
+Happy Rainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","RT  Sunday Long Drive 🚗 🌧 
+.
+Happy Rainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","RT  Sunday Long Drive 🚗 🌧 
+.
+Happy Rainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","  Sunday Long Drive 🚗 🌧 
+.
+Happy ainy Sunday 
+.
+#mumbai #mumbairains #sunday #MumbaiWeather #rains #sky #clouds #monsoon 
+____…","  Sunday Long Drive 🚗 🌧 
+
+Happy ainy Sunday 
+
+mumbai mumbairains sunday MumbaiWeather rains sky clouds monsoon 
+…","['Sunday', 'Long', 'Drive', '🚗', '🌧', 'Happy', 'ainy', 'Sunday', 'mumbai', 'mumbairains', 'sunday', 'MumbaiWeather', 'rains', 'sky', 'clouds', 'monsoon', '…']"
+74,RT @ninadb: @IndiaWeatherMan So now this has been the case for past years in #Mumbai. A deluge in a week or 3-4 days in June and July and j…,RT   So now this has been the case for past years in #Mumbai. A deluge in a week or 3-4 days in June and July and j…,RT   So now this has been the case for past years in #Mumbai. A deluge in a week or 3-4 days in June and July and j…,   So now this has been the case for past years in #Mumbai. A deluge in a week or - days in June and July and j…,   So now this has been the case for past years in Mumbai A deluge in a week or  days in June and July and j…,"['So', 'case', 'past', 'years', 'Mumbai', 'A', 'deluge', 'week', 'days', 'June', 'July', 'j…']"
+75,@IndiaWeatherMan So now this has been the case for past years in #Mumbai. A deluge in a week or 3-4 days in June an… https://t.co/bMe3PdKvQq, So now this has been the case for past years in #Mumbai. A deluge in a week or 3-4 days in June an… https://t.co/bMe3PdKvQq, So now this has been the case for past years in #Mumbai. A deluge in a week or 3-4 days in June an… , So now this has been the case for past years in #Mumbai. A deluge in a week or - days in June an… , So now this has been the case for past years in Mumbai A deluge in a week or  days in June an… ,"['So', 'case', 'past', 'years', 'Mumbai', 'A', 'deluge', 'week', 'days', 'June', 'an…']"
+76,#MumbaiWeather Mostly Cloudy today! With a high of 31C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of 31C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of 31C and a low of 26C.,#MumbaiWeather Mostly Cloudy today! With a high of C and a low of C.,MumbaiWeather Mostly Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Mostly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+77,"#MumbaiWeather - Sunrise: August 9, 2021 at 06:17AM Mostly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 9, 2021 at 06:17AM Mostly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 9, 2021 at 06:17AM Mostly Cloudy today! With a high of: 31C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Mostly Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Mostly Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Mostly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"

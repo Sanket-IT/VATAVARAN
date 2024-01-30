@@ -1,0 +1,840 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,"RT @PneumaThe: #Rainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #Twitter https://t.co/Ixt79LfqRI","RT  #Rainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #Twitter https://t.co/Ixt79LfqRI","RT  #Rainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #Twitter ","  #ainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #witter ","  ainy Vibes Check🌧⛈ 
+
+mumbaiweather mumbai green macro witter ","['ainy', 'Vibes', 'Check🌧⛈', 'mumbaiweather', 'mumbai', 'green', 'macro', 'witter']"
+1,"#Rainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #Twitter https://t.co/Ixt79LfqRI","#Rainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #Twitter https://t.co/Ixt79LfqRI","#Rainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #Twitter ","#ainy #Vibes Check🌧⛈ 
+
+#mumbaiweather #mumbai #green #macro #witter ","ainy Vibes Check🌧⛈ 
+
+mumbaiweather mumbai green macro witter ","['ainy', 'Vibes', 'Check🌧⛈', 'mumbaiweather', 'mumbai', 'green', 'macro', 'witter']"
+2,"@RanveerOfficial to @deepikapadukone : Socho ki jheelo me shehar ho, Lahro me apna ghar ho🙄...
+
+@deepikapadukone to… https://t.co/EA5eBO6xFH"," to  : Socho ki jheelo me shehar ho, Lahro me apna ghar ho🙄...
+
+ to… https://t.co/EA5eBO6xFH"," to  : Socho ki jheelo me shehar ho, Lahro me apna ghar ho🙄...
+
+ to… "," to  : Socho ki jheelo me shehar ho, Lahro me apna ghar ho🙄...
+
+ to… "," to   Socho ki jheelo me shehar ho Lahro me apna ghar ho🙄
+
+ to… ","['Socho', 'ki', 'jheelo', 'shehar', 'ho', 'Lahro', 'apna', 'ghar', 'ho🙄', 'to…']"
+3,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+4,"RT @ZamorinofBombay: This picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail #familytou…","RT  This picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail #familytou…","RT  This picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail #familytou…","  his picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail #familytou…","  his picture says a lot about Bombay as a city
+tourswithconscience connectingtheworld attentiontodetail familytou…","['picture', 'says', 'lot', 'Bombay', 'city', 'tourswithconscience', 'connectingtheworld', 'attentiontodetail', 'familytou…']"
+5,"This picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail… https://t.co/FDf86fU7Lu","This picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail… https://t.co/FDf86fU7Lu","This picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail… ","his picture says a lot about Bombay as a city.
+#tourswithconscience #connectingtheworld #attentiontodetail… ","his picture says a lot about Bombay as a city
+tourswithconscience connectingtheworld attentiontodetail… ","['picture', 'says', 'lot', 'Bombay', 'city', 'tourswithconscience', 'connectingtheworld', 'attentiontodetail…']"
+6,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+7,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+8,Come home to where your heart belongs where the chirping birds will be your neighbors and you will have people who… https://t.co/UvHoChPCex,Come home to where your heart belongs where the chirping birds will be your neighbors and you will have people who… https://t.co/UvHoChPCex,Come home to where your heart belongs where the chirping birds will be your neighbors and you will have people who… ,Come home to where your heart belongs where the chirping birds will be your neighbors and you will have people who… ,Come home to where your heart belongs where the chirping birds will be your neighbors and you will have people who… ,"['Come', 'home', 'heart', 'belongs', 'chirping', 'birds', 'neighbors', 'people', 'who…']"
+9,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+10,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+11,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+12,RT @mybmc: #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,RT  #MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  #MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibility of occasi…,  MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibility of occasi…,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasi…']"
+13,#MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibil… https://t.co/T7WpWK449q,#MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibil… https://t.co/T7WpWK449q,#MumbaiWeather Forecast Aug 5 : Light to moderate rain in city and suburbs with occasional intense spells. Possibil… ,#MumbaiWeather Forecast Aug  : Light to moderate rain in city and suburbs with occasional intense spells. Possibil… ,MumbaiWeather Forecast Aug   Light to moderate rain in city and suburbs with occasional intense spells Possibil… ,"['MumbaiWeather', 'Forecast', 'Aug', 'Light', 'moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibil…']"
+14,"RT @heychiku: Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️
+#mumbai #…","RT  Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️
+#mumbai #…","RT  Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️
+#mumbai #…","  Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️
+#mumbai #…","  Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️
+mumbai …","['Morning', 'walk', 'middle', 'Mumbai', 'City', '🌆', 'like', 'listening', 'alarm', 'snooze', 'around', 'rather', 'chirping', 'birds✌️', 'mumbai', '…']"
+15,Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️… https://t.co/C0vuSdvj4Y,Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️… https://t.co/C0vuSdvj4Y,Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️… ,Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️… ,Morning walk in the middle of Mumbai City 🌆 is like listening alarm snooze around rather than chirping with birds✌️… ,"['Morning', 'walk', 'middle', 'Mumbai', 'City', '🌆', 'like', 'listening', 'alarm', 'snooze', 'around', 'rather', 'chirping', 'birds✌️…']"
+16,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of C and a low of C.,MumbaiWeather Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+17,"#MumbaiWeather - Sunrise: August 5, 2021 at 06:16AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 5, 2021 at 06:16AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 5, 2021 at 06:16AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+18,RT @priyankasareen1: meanwhile this happens when u decide to take a break and go for a walk #MumbaiRains #MumbaiWeather #evening #walking #…,RT  meanwhile this happens when u decide to take a break and go for a walk #MumbaiRains #MumbaiWeather #evening #walking #…,RT  meanwhile this happens when u decide to take a break and go for a walk #MumbaiRains #MumbaiWeather #evening #walking #…,  meanwhile this happens when u decide to take a break and go for a walk #Mumbaiains #MumbaiWeather #evening #walking #…,  meanwhile this happens when u decide to take a break and go for a walk Mumbaiains MumbaiWeather evening walking …,"['meanwhile', 'happens', 'u', 'decide', 'take', 'break', 'go', 'walk', 'Mumbaiains', 'MumbaiWeather', 'evening', 'walking', '…']"
+19,meanwhile this happens when u decide to take a break and go for a walk #MumbaiRains #MumbaiWeather #evening… https://t.co/B9QNVGmlgJ,meanwhile this happens when u decide to take a break and go for a walk #MumbaiRains #MumbaiWeather #evening… https://t.co/B9QNVGmlgJ,meanwhile this happens when u decide to take a break and go for a walk #MumbaiRains #MumbaiWeather #evening… ,meanwhile this happens when u decide to take a break and go for a walk #Mumbaiains #MumbaiWeather #evening… ,meanwhile this happens when u decide to take a break and go for a walk Mumbaiains MumbaiWeather evening… ,"['meanwhile', 'happens', 'u', 'decide', 'take', 'break', 'go', 'walk', 'Mumbaiains', 'MumbaiWeather', 'evening…']"
+20,RT @mybmc: #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,  #MumbaiWeather Forecast Aug : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELLS. OCCASIONAL…,  MumbaiWeather Forecast Aug  LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELLS OCCASIONAL…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELLS', 'OCCASIONAL…']"
+21,RT @mybmc: #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+22,RT @mybmc: #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+23,RT @mybmc: #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,  #MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPELLS. OCCASSION…,  MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPELLS OCCASSION…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPELLS', 'OCCASSION…']"
+24,RT @mybmc: #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,  #MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPELLS. OCCASSION…,  MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPELLS OCCASSION…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPELLS', 'OCCASSION…']"
+25,"Chana Dal Pakora
+https://t.co/WAx6bDzF4G
+A best dish in this #MumbaiWeather in #mumbairain to try #foodie #healthy… https://t.co/jbTt5RgpBw","Chana Dal Pakora
+https://t.co/WAx6bDzF4G
+A best dish in this #MumbaiWeather in #mumbairain to try #foodie #healthy… https://t.co/jbTt5RgpBw","Chana Dal Pakora
+
+A best dish in this #MumbaiWeather in #mumbairain to try #foodie #healthy… ","Chana Dal Pakora
+
+A best dish in this #MumbaiWeather in #mumbairain to try #foodie #healthy… ","Chana Dal Pakora
+
+A best dish in this MumbaiWeather in mumbairain to try foodie healthy… ","['Chana', 'Dal', 'Pakora', 'A', 'best', 'dish', 'MumbaiWeather', 'mumbairain', 'try', 'foodie', 'healthy…']"
+26,RT @mybmc: #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,  #MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPELLS. OCCASSION…,  MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPELLS OCCASSION…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPELLS', 'OCCASSION…']"
+27,RT @mybmc: #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,  #MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPELLS. OCCASSION…,  MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPELLS OCCASSION…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPELLS', 'OCCASSION…']"
+28,RT @mybmc: #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,  #MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPELLS. OCCASSION…,  MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPELLS OCCASSION…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPELLS', 'OCCASSION…']"
+29,RT @mybmc: #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,RT  #MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPELLS. OCCASSION…,  #MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPELLS. OCCASSION…,  MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPELLS OCCASSION…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPELLS', 'OCCASSION…']"
+30,#MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPEL… https://t.co/aMQF6owBzX,#MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPEL… https://t.co/aMQF6owBzX,#MumbaiWeather Forecast Aug 4 :  LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASIONAL INTENSE SPEL… ,#MumbaiWeather Forecast Aug  :  LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASIONAL INENSE SPEL… ,MumbaiWeather Forecast Aug    LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASIONAL INENSE SPEL… ,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASIONAL', 'INENSE', 'SPEL…']"
+31,#MumbaiWeather Mostly Cloudy today! With a high of 29C and a low of 27C.,#MumbaiWeather Mostly Cloudy today! With a high of 29C and a low of 27C.,#MumbaiWeather Mostly Cloudy today! With a high of 29C and a low of 27C.,#MumbaiWeather Mostly Cloudy today! With a high of C and a low of C.,MumbaiWeather Mostly Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Mostly', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+32,"#MumbaiWeather - Sunrise: August 4, 2021 at 06:16AM Cloudy today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 4, 2021 at 06:16AM Cloudy today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 4, 2021 at 06:16AM Cloudy today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+33,"RT @iVishvendra: Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon Maharashtra  Goa have some amazing ghats to look at Nature at its best
+
+mon…","['Absolutely', 'stunning', 'visual', 'monsoon', 'Maharashtra', 'Goa', 'amazing', 'ghats', 'look', 'Nature', 'best', 'mon…']"
+34,RT @mybmc: #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+35,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+36,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+37,RT @mybmc: #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+38,RT @mybmc: #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+39,"Excess Rainfall in Mumbai is No Longer a Rare Occurrence Due to Climate Change
+
+@IMDWeather #MumbaiWeather… https://t.co/iJNgLpzXrj","Excess Rainfall in Mumbai is No Longer a Rare Occurrence Due to Climate Change
+
+ #MumbaiWeather… https://t.co/iJNgLpzXrj","Excess Rainfall in Mumbai is No Longer a Rare Occurrence Due to Climate Change
+
+ #MumbaiWeather… ","Excess ainfall in Mumbai is No Longer a are Occurrence Due to Climate Change
+
+ #MumbaiWeather… ","Excess ainfall in Mumbai is No Longer a are Occurrence Due to Climate Change
+
+ MumbaiWeather… ","['Excess', 'ainfall', 'Mumbai', 'No', 'Longer', 'Occurrence', 'Due', 'Climate', 'Change', 'MumbaiWeather…']"
+40,RT @mybmc: #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+41,#MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPEL… https://t.co/M8P0MphIH2,#MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPEL… https://t.co/M8P0MphIH2,#MumbaiWeather Forecast Aug 3 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPEL… ,#MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPEL… ,MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPEL… ,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPEL…']"
+42,RT @MumbaiWeatherm1: Heavy rains will start from around 25th-26th august these will be flooding rains  also a short spell  of rain from 7-8…,RT  Heavy rains will start from around 25th-26th august these will be flooding rains  also a short spell  of rain from 7-8…,RT  Heavy rains will start from around 25th-26th august these will be flooding rains  also a short spell  of rain from 7-8…,  Heavy rains will start from around th-th august these will be flooding rains  also a short spell  of rain from -…,  Heavy rains will start from around thth august these will be flooding rains  also a short spell  of rain from …,"['Heavy', 'rains', 'start', 'around', 'thth', 'august', 'flooding', 'rains', 'also', 'short', 'spell', 'rain', '…']"
+43,Heavy rains will start from around 25th-26th august these will be flooding rains  also a short spell  of rain from… https://t.co/jGQ9FY9cJr,Heavy rains will start from around 25th-26th august these will be flooding rains  also a short spell  of rain from… https://t.co/jGQ9FY9cJr,Heavy rains will start from around 25th-26th august these will be flooding rains  also a short spell  of rain from… ,Heavy rains will start from around th-th august these will be flooding rains  also a short spell  of rain from… ,Heavy rains will start from around thth august these will be flooding rains  also a short spell  of rain from… ,"['Heavy', 'rains', 'start', 'around', 'thth', 'august', 'flooding', 'rains', 'also', 'short', 'spell', 'rain', 'from…']"
+44,#MumbaiWeather PM Thunderstorms today! With a high of 29C and a low of 27C.,#MumbaiWeather PM Thunderstorms today! With a high of 29C and a low of 27C.,#MumbaiWeather PM Thunderstorms today! With a high of 29C and a low of 27C.,#MumbaiWeather PM hunderstorms today! With a high of C and a low of C.,MumbaiWeather PM hunderstorms today With a high of C and a low of C,"['MumbaiWeather', 'PM', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'C']"
+45,"#MumbaiWeather - Sunrise: August 3, 2021 at 06:15AM Thunderstorms today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 3, 2021 at 06:15AM Thunderstorms today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 3, 2021 at 06:15AM Thunderstorms today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM hunderstorms today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM hunderstorms today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+46,Mood! #MumbaiRains #MumbaiWeather #rains https://t.co/k4TPHInmLk,Mood! #MumbaiRains #MumbaiWeather #rains https://t.co/k4TPHInmLk,Mood! #MumbaiRains #MumbaiWeather #rains ,Mood! #Mumbaiains #MumbaiWeather #rains ,Mood Mumbaiains MumbaiWeather rains ,"['Mood', 'Mumbaiains', 'MumbaiWeather', 'rains']"
+47,"RT @iVishvendra: Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon Maharashtra  Goa have some amazing ghats to look at Nature at its best
+
+mon…","['Absolutely', 'stunning', 'visual', 'monsoon', 'Maharashtra', 'Goa', 'amazing', 'ghats', 'look', 'Nature', 'best', 'mon…']"
+48,Nothing good then #coffee #metime #AloneTogether #LoveIsland #MumbaiWeather #backtomumbai https://t.co/ySL2A537FV,Nothing good then #coffee #metime #AloneTogether #LoveIsland #MumbaiWeather #backtomumbai https://t.co/ySL2A537FV,Nothing good then #coffee #metime #AloneTogether #LoveIsland #MumbaiWeather #backtomumbai ,Nothing good then #coffee #metime #Aloneogether #LoveIsland #MumbaiWeather #backtomumbai ,Nothing good then coffee metime Aloneogether LoveIsland MumbaiWeather backtomumbai ,"['Nothing', 'good', 'coffee', 'metime', 'Aloneogether', 'LoveIsland', 'MumbaiWeather', 'backtomumbai']"
+49,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+50,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+51,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+52,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+53,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+54,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+55,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+56,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+57,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+58,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+59,"Why Land Rate in Alibag is Sky Rocketing?
+
+https://t.co/v2d5kHJHvZ
+
+#mumbairain #MumbaiWeather  #MumbaiIndians… https://t.co/B1J1O9JPDL","Why Land Rate in Alibag is Sky Rocketing?
+
+https://t.co/v2d5kHJHvZ
+
+#mumbairain #MumbaiWeather  #MumbaiIndians… https://t.co/B1J1O9JPDL","Why Land Rate in Alibag is Sky Rocketing?
+
+
+
+#mumbairain #MumbaiWeather  #MumbaiIndians… ","Why Land ate in Alibag is Sky ocketing?
+
+
+
+#mumbairain #MumbaiWeather  #MumbaiIndians… ","Why Land ate in Alibag is Sky ocketing
+
+
+
+mumbairain MumbaiWeather  MumbaiIndians… ","['Why', 'Land', 'ate', 'Alibag', 'Sky', 'ocketing', 'mumbairain', 'MumbaiWeather', 'MumbaiIndians…']"
+60,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+61,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+62,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+63,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+64,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+65,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+66,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+67,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+68,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+69,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+70,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+71,"RT @Deepak_YT_: Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","RT  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain #MumbaiWeathe…","  Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain MumbaiWeathe…","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain', 'MumbaiWeathe…']"
+72,"Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain… https://t.co/rWiaCJe22N","Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain… https://t.co/rWiaCJe22N","Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain… ","Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain… ","Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain… ","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain…']"
+73,"Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain… https://t.co/np4zDwBYS2","Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain… https://t.co/np4zDwBYS2","Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #Trending #PhotoOfTheDay #mumbairain… ","Image captured by me of lightning tonight. What a scene. 🤗🥰
+
+#AkashVaani #rending #PhotoOfheDay #mumbairain… ","Image captured by me of lightning tonight What a scene 🤗🥰
+
+AkashVaani rending PhotoOfheDay mumbairain… ","['Image', 'captured', 'lightning', 'tonight', 'What', 'scene', '🤗🥰', 'AkashVaani', 'rending', 'PhotoOfheDay', 'mumbairain…']"
+74,RT @sahiljoshii: When it rains like this.... #MumbaiWeather #monsoon https://t.co/qbyqiKD8tO,RT  When it rains like this.... #MumbaiWeather #monsoon https://t.co/qbyqiKD8tO,RT  When it rains like this.... #MumbaiWeather #monsoon ,  When it rains like this.... #MumbaiWeather #monsoon ,  When it rains like this MumbaiWeather monsoon ,"['When', 'rains', 'like', 'MumbaiWeather', 'monsoon']"
+75,When it rains like this.... #MumbaiWeather #monsoon https://t.co/qbyqiKD8tO,When it rains like this.... #MumbaiWeather #monsoon https://t.co/qbyqiKD8tO,When it rains like this.... #MumbaiWeather #monsoon ,When it rains like this.... #MumbaiWeather #monsoon ,When it rains like this MumbaiWeather monsoon ,"['When', 'rains', 'like', 'MumbaiWeather', 'monsoon']"
+76,@IndiaToday Very brave job done but that person. #MumbaiWeather, Very brave job done but that person. #MumbaiWeather, Very brave job done but that person. #MumbaiWeather, Very brave job done but that person. #MumbaiWeather, Very brave job done but that person MumbaiWeather,"['Very', 'brave', 'job', 'done', 'person', 'MumbaiWeather']"
+77,RT @mybmc: #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+78,"RT @SstarNation: #Maharashtra: Chief Minister @OfficeofUT visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","RT  #Maharashtra: Chief Minister  visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","RT  #Maharashtra: Chief Minister  visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","  #Maharashtra: Chief Minister  visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","  Maharashtra Chief Minister  visited floodhit Sangli district
+MumbaiWeather Mumbai","['Maharashtra', 'Chief', 'Minister', 'visited', 'floodhit', 'Sangli', 'district', 'MumbaiWeather', 'Mumbai']"
+79,"#Maharashtra: Chief Minister @OfficeofUT visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","#Maharashtra: Chief Minister  visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","#Maharashtra: Chief Minister  visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","#Maharashtra: Chief Minister  visited flood-hit Sangli district.
+#MumbaiWeather #Mumbai","Maharashtra Chief Minister  visited floodhit Sangli district
+MumbaiWeather Mumbai","['Maharashtra', 'Chief', 'Minister', 'visited', 'floodhit', 'Sangli', 'district', 'MumbaiWeather', 'Mumbai']"
+80,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+81,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+82,RT @AndForway: Are you Looking for Home Relocation Services in Mumbai . Our team of friendly and professional packers and movers will alway…,RT  Are you Looking for Home Relocation Services in Mumbai . Our team of friendly and professional packers and movers will alway…,RT  Are you Looking for Home Relocation Services in Mumbai . Our team of friendly and professional packers and movers will alway…,  Are you Looking for Home elocation Services in Mumbai . Our team of friendly and professional packers and movers will alway…,  Are you Looking for Home elocation Services in Mumbai  Our team of friendly and professional packers and movers will alway…,"['Are', 'Looking', 'Home', 'elocation', 'Services', 'Mumbai', 'Our', 'team', 'friendly', 'professional', 'packers', 'movers', 'alway…']"
+83,Are you Looking for Home Relocation Services in Mumbai . Our team of friendly and professional packers and movers w… https://t.co/sLm5S4pwyi,Are you Looking for Home Relocation Services in Mumbai . Our team of friendly and professional packers and movers w… https://t.co/sLm5S4pwyi,Are you Looking for Home Relocation Services in Mumbai . Our team of friendly and professional packers and movers w… ,Are you Looking for Home elocation Services in Mumbai . Our team of friendly and professional packers and movers w… ,Are you Looking for Home elocation Services in Mumbai  Our team of friendly and professional packers and movers w… ,"['Are', 'Looking', 'Home', 'elocation', 'Services', 'Mumbai', 'Our', 'team', 'friendly', 'professional', 'packers', 'movers', 'w…']"
+84,RT @mybmc: #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+85,RT @mybmc: #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+86,RT @mybmc: #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,RT  #MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL. OCCASSIONA…,  #MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL. OCCASSIONA…,  MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL OCCASSIONA…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL', 'OCCASSIONA…']"
+87,#MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPEL… https://t.co/GiAwF0zk6r,#MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPEL… https://t.co/GiAwF0zk6r,#MumbaiWeather Forecast Aug 2 : LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPEL… ,#MumbaiWeather Forecast Aug  : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPEL… ,MumbaiWeather Forecast Aug   LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPEL… ,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPEL…']"
+88,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of C and a low of C.,MumbaiWeather Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+89,"#MumbaiWeather - Sunrise: August 2, 2021 at 06:15AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 2, 2021 at 06:15AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 2, 2021 at 06:15AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+90,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+91,RT @MumbaiWeatherm1: Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some above…,RT  Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some above…,RT  Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some above…,  Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some above…,  Break monsoon period for Mumbai atleast for first half of August even later August doesnt look excess just some above…,"['Break', 'monsoon', 'period', 'Mumbai', 'atleast', 'first', 'half', 'August', 'even', 'later', 'August', 'doesnt', 'look', 'excess', 'above…']"
+92,Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some ab… https://t.co/HX0D9gvhR7,Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some ab… https://t.co/HX0D9gvhR7,Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some ab… ,Break monsoon period for Mumbai atleast for first half of August even later August doesn't look excess just some ab… ,Break monsoon period for Mumbai atleast for first half of August even later August doesnt look excess just some ab… ,"['Break', 'monsoon', 'period', 'Mumbai', 'atleast', 'first', 'half', 'August', 'even', 'later', 'August', 'doesnt', 'look', 'excess', 'ab…']"
+93,RT @MumbaiWeather2: What's your favorite season #mumbaikars #Mumbai  #MumbaiRains #mumbaiweather,RT  What's your favorite season #mumbaikars #Mumbai  #MumbaiRains #mumbaiweather,RT  What's your favorite season #mumbaikars #Mumbai  #MumbaiRains #mumbaiweather,  What's your favorite season #mumbaikars #Mumbai  #Mumbaiains #mumbaiweather,  Whats your favorite season mumbaikars Mumbai  Mumbaiains mumbaiweather,"['Whats', 'favorite', 'season', 'mumbaikars', 'Mumbai', 'Mumbaiains', 'mumbaiweather']"
+94,What's your favorite season #mumbaikars #Mumbai  #MumbaiRains #mumbaiweather,What's your favorite season #mumbaikars #Mumbai  #MumbaiRains #mumbaiweather,What's your favorite season #mumbaikars #Mumbai  #MumbaiRains #mumbaiweather,What's your favorite season #mumbaikars #Mumbai  #Mumbaiains #mumbaiweather,Whats your favorite season mumbaikars Mumbai  Mumbaiains mumbaiweather,"['Whats', 'favorite', 'season', 'mumbaikars', 'Mumbai', 'Mumbaiains', 'mumbaiweather']"
+95,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+96,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+97,RT @sarangsspeaks: Mumbai and #NaviMumbaikar take care #Mumbai recorded over 250 mm of #Rains in just three hours (between midnight and 3 a…,RT  Mumbai and #NaviMumbaikar take care #Mumbai recorded over 250 mm of #Rains in just three hours (between midnight and 3 a…,RT  Mumbai and #NaviMumbaikar take care #Mumbai recorded over 250 mm of #Rains in just three hours (between midnight and 3 a…,  Mumbai and #NaviMumbaikar take care #Mumbai recorded over  mm of #ains in just three hours (between midnight and  a…,  Mumbai and NaviMumbaikar take care Mumbai recorded over  mm of ains in just three hours between midnight and  a…,"['Mumbai', 'NaviMumbaikar', 'take', 'care', 'Mumbai', 'recorded', 'mm', 'ains', 'three', 'hours', 'midnight', 'a…']"
+98,"RT @MumbaiMet: 🔹I expect Monsoon revival over #Mumbai by 3rd week of August while will give a final push to recover from the poor start.
+🔹W…","RT  🔹I expect Monsoon revival over #Mumbai by 3rd week of August while will give a final push to recover from the poor start.
+🔹W…","RT  🔹I expect Monsoon revival over #Mumbai by 3rd week of August while will give a final push to recover from the poor start.
+🔹W…","  🔹I expect Monsoon revival over #Mumbai by rd week of August while will give a final push to recover from the poor start.
+🔹W…","  🔹I expect Monsoon revival over Mumbai by rd week of August while will give a final push to recover from the poor start
+🔹W…","['🔹I', 'expect', 'Monsoon', 'revival', 'Mumbai', 'rd', 'week', 'August', 'give', 'final', 'push', 'recover', 'poor', 'start', '🔹W…']"
+99,🔹I expect Monsoon revival over #Mumbai by 3rd week of August while will give a final push to recover from the poor… https://t.co/oB95n9ZAfb,🔹I expect Monsoon revival over #Mumbai by 3rd week of August while will give a final push to recover from the poor… https://t.co/oB95n9ZAfb,🔹I expect Monsoon revival over #Mumbai by 3rd week of August while will give a final push to recover from the poor… ,🔹I expect Monsoon revival over #Mumbai by rd week of August while will give a final push to recover from the poor… ,🔹I expect Monsoon revival over Mumbai by rd week of August while will give a final push to recover from the poor… ,"['🔹I', 'expect', 'Monsoon', 'revival', 'Mumbai', 'rd', 'week', 'August', 'give', 'final', 'push', 'recover', 'poor…']"
+100,"when can I wear my sweatshirts🥺🥺
+
+#Mumbaiweather","when can I wear my sweatshirts🥺🥺
+
+#Mumbaiweather","when can I wear my sweatshirts🥺🥺
+
+#Mumbaiweather","when can I wear my sweatshirts🥺🥺
+
+#Mumbaiweather","when can I wear my sweatshirts🥺🥺
+
+Mumbaiweather","['I', 'wear', 'sweatshirts🥺🥺', 'Mumbaiweather']"
+101,RT @gadadeep701: @mybmc @MumbaiPolice @BJP4Mumbai @BJP4Maharashtra @BJYM @BJYM4MH @BJYM4Mumbai COVID social distance norms are not followed…,RT         COVID social distance norms are not followed…,RT         COVID social distance norms are not followed…,         COVID social distance norms are not followed…,         COVID social distance norms are not followed…,"['COVID', 'social', 'distance', 'norms', 'followed…']"
+102,@mybmc @MumbaiPolice @BJP4Mumbai @BJP4Maharashtra @BJYM @BJYM4MH @BJYM4Mumbai COVID social distance norms are not f… https://t.co/koJETO5gv7,       COVID social distance norms are not f… https://t.co/koJETO5gv7,       COVID social distance norms are not f… ,       COVID social distance norms are not f… ,       COVID social distance norms are not f… ,"['COVID', 'social', 'distance', 'norms', 'f…']"
+103,RT @mybmc: #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,  #MumbaiWeather Forecast Aug : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELLS. OCCASIONAL…,  MumbaiWeather Forecast Aug  LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELLS OCCASIONAL…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELLS', 'OCCASIONAL…']"
+104,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+105,RT @sarangsspeaks: Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,RT  Due to  #HeavyRainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  #HeavyainFall many people facing problems if anybody want food materials #Mumbai and #Navi_Mumbai. Please don't…,  Due to  HeavyainFall many people facing problems if anybody want food materials Mumbai and NaviMumbai Please dont…,"['Due', 'HeavyainFall', 'many', 'people', 'facing', 'problems', 'anybody', 'want', 'food', 'materials', 'Mumbai', 'NaviMumbai', 'Please', 'dont…']"
+106,RT @mybmc: #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,  #MumbaiWeather Forecast Aug : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELLS. OCCASIONAL…,  MumbaiWeather Forecast Aug  LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELLS OCCASIONAL…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELLS', 'OCCASIONAL…']"
+107,RT @mybmc: #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,  #MumbaiWeather Forecast Aug : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELLS. OCCASIONAL…,  MumbaiWeather Forecast Aug  LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELLS OCCASIONAL…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELLS', 'OCCASIONAL…']"
+108,RT @mybmc: #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,RT  #MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELLS. OCCASIONAL…,  #MumbaiWeather Forecast Aug : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELLS. OCCASIONAL…,  MumbaiWeather Forecast Aug  LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELLS OCCASIONAL…,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELLS', 'OCCASIONAL…']"
+109,#MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL… https://t.co/GVyeGYxYsQ,#MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL… https://t.co/GVyeGYxYsQ,#MumbaiWeather Forecast Aug 1: LIGHT TO MODERATE RAIN IN CITY AND SUBURBS; POSSIBILITY OF OCCASSIONAL INTENSE SPELL… ,#MumbaiWeather Forecast Aug : LIGH O MODEAE AIN IN CIY AND SUBUBS; POSSIBILIY OF OCCASSIONAL INENSE SPELL… ,MumbaiWeather Forecast Aug  LIGH O MODEAE AIN IN CIY AND SUBUBS POSSIBILIY OF OCCASSIONAL INENSE SPELL… ,"['MumbaiWeather', 'Forecast', 'Aug', 'LIGH', 'O', 'MODEAE', 'AIN', 'IN', 'CIY', 'AND', 'SUBUBS', 'POSSIBILIY', 'OF', 'OCCASSIONAL', 'INENSE', 'SPELL…']"
+110,#MumbaiWeather Isolated Thunderstorms today! With a high of 30C and a low of 27C.,#MumbaiWeather Isolated Thunderstorms today! With a high of 30C and a low of 27C.,#MumbaiWeather Isolated Thunderstorms today! With a high of 30C and a low of 27C.,#MumbaiWeather Isolated hunderstorms today! With a high of C and a low of C.,MumbaiWeather Isolated hunderstorms today With a high of C and a low of C,"['MumbaiWeather', 'Isolated', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'C']"
+111,"#MumbaiWeather - Sunrise: August 1, 2021 at 06:15AM Cloudy today! With a high of: 30C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 1, 2021 at 06:15AM Cloudy today! With a high of: 30C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August 1, 2021 at 06:15AM Cloudy today! With a high of: 30C and a low of:26C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: August ,  at :AM Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise August   at AM Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'August', 'AM', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+112,"RT @Ankitgarg784: By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty #natu…","RT  By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty #natu…","RT  By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty #natu…","  By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty #natu…","  By discovering nature you discover yourself 
+
+Location  Badlapur Maharashtra
+
+NaturePhotography NatureBeauty natu…","['By', 'discovering', 'nature', 'discover', 'Location', 'Badlapur', 'Maharashtra', 'NaturePhotography', 'NatureBeauty', 'natu…']"
+113,"By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty… https://t.co/CstT3kmT4h","By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty… https://t.co/CstT3kmT4h","By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty… ","By discovering nature, you discover yourself. 
+
+Location - Badlapur, Maharashtra.
+
+#NaturePhotography #NatureBeauty… ","By discovering nature you discover yourself 
+
+Location  Badlapur Maharashtra
+
+NaturePhotography NatureBeauty… ","['By', 'discovering', 'nature', 'discover', 'Location', 'Badlapur', 'Maharashtra', 'NaturePhotography', 'NatureBeauty…']"
+114,AQI below 50 is bliss in Mumbai. All thanks to downpour in past two weeks. #MumbaiRains #MumbaiWeather,AQI below 50 is bliss in Mumbai. All thanks to downpour in past two weeks. #MumbaiRains #MumbaiWeather,AQI below 50 is bliss in Mumbai. All thanks to downpour in past two weeks. #MumbaiRains #MumbaiWeather,AQI below  is bliss in Mumbai. All thanks to downpour in past two weeks. #Mumbaiains #MumbaiWeather,AQI below  is bliss in Mumbai All thanks to downpour in past two weeks Mumbaiains MumbaiWeather,"['AQI', 'bliss', 'Mumbai', 'All', 'thanks', 'downpour', 'past', 'two', 'weeks', 'Mumbaiains', 'MumbaiWeather']"
+115,"Floods are happened in Germany,china, Mumbai,and many other regions.
+#chinaflood 
+#germanyfloods 
+#MumbaiWeather","Floods are happened in Germany,china, Mumbai,and many other regions.
+#chinaflood 
+#germanyfloods 
+#MumbaiWeather","Floods are happened in Germany,china, Mumbai,and many other regions.
+#chinaflood 
+#germanyfloods 
+#MumbaiWeather","Floods are happened in Germany,china, Mumbai,and many other regions.
+#chinaflood 
+#germanyfloods 
+#MumbaiWeather","Floods are happened in Germanychina Mumbaiand many other regions
+chinaflood 
+germanyfloods 
+MumbaiWeather","['Floods', 'happened', 'Germanychina', 'Mumbaiand', 'many', 'regions', 'chinaflood', 'germanyfloods', 'MumbaiWeather']"
+116,"RT @shanpati: @firoz_mody You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#MumbaiRains #Mumbai #MumbaiWea…","RT   You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#MumbaiRains #Mumbai #MumbaiWea…","RT   You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#MumbaiRains #Mumbai #MumbaiWea…","   You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#Mumbaiains #Mumbai #MumbaiWea…","   You can expect some nice sunshine in coming hours 
+Windy conditions to continue
+Mumbaiains Mumbai MumbaiWea…","['You', 'expect', 'nice', 'sunshine', 'coming', 'hours', 'Windy', 'conditions', 'continue', 'Mumbaiains', 'Mumbai', 'MumbaiWea…']"
+117,"@firoz_mody You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#MumbaiRains #Mumbai #MumbaiWeather"," You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#MumbaiRains #Mumbai #MumbaiWeather"," You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#MumbaiRains #Mumbai #MumbaiWeather"," You can expect some nice sunshine in coming hours. 
+Windy conditions to continue.
+#Mumbaiains #Mumbai #MumbaiWeather"," You can expect some nice sunshine in coming hours 
+Windy conditions to continue
+Mumbaiains Mumbai MumbaiWeather","['You', 'expect', 'nice', 'sunshine', 'coming', 'hours', 'Windy', 'conditions', 'continue', 'Mumbaiains', 'Mumbai', 'MumbaiWeather']"
+118,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 30C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of C and a low of C.,MumbaiWeather Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+119,"#MumbaiWeather - Sunrise: July 31, 2021 at 06:14AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: July 31, 2021 at 06:14AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: July 31, 2021 at 06:14AM Cloudy today! With a high of: 30C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: July ,  at :AM Cloudy today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise July   at AM Cloudy today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'July', 'AM', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+120,"RT @iVishvendra: Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","  Monsoon Mayhem:
+
+his is absolutely stunning. itanic . Where's Jack and ose.
+
+#Monsoon #MumbaiainUpdate #Mumbai…","  Monsoon Mayhem
+
+his is absolutely stunning itanic  Wheres Jack and ose
+
+Monsoon MumbaiainUpdate Mumbai…","['Monsoon', 'Mayhem', 'absolutely', 'stunning', 'itanic', 'Wheres', 'Jack', 'ose', 'Monsoon', 'MumbaiainUpdate', 'Mumbai…']"
+121,RT @thewarriergal: The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,  he beautiful western railway head office in #Mumbai    #photography #Mumbaiain…,  he beautiful western railway head office in Mumbai    photography Mumbaiain…,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography', 'Mumbaiain…']"
+122,RT @thewarriergal: The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,  he beautiful western railway head office in #Mumbai    #photography #Mumbaiain…,  he beautiful western railway head office in Mumbai    photography Mumbaiain…,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography', 'Mumbaiain…']"
+123,RT @thewarriergal: The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,  he beautiful western railway head office in #Mumbai    #photography #Mumbaiain…,  he beautiful western railway head office in Mumbai    photography Mumbaiain…,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography', 'Mumbaiain…']"
+124,RT @thewarriergal: The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,RT  The beautiful western railway head office in #Mumbai    #photography #MumbaiRain…,  he beautiful western railway head office in #Mumbai    #photography #Mumbaiain…,  he beautiful western railway head office in Mumbai    photography Mumbaiain…,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography', 'Mumbaiain…']"
+125,The beautiful western railway head office in #Mumbai @incredibleindia @maha_tourism @WesternRly #photography… https://t.co/o5QJA9GzP8,The beautiful western railway head office in #Mumbai    #photography… https://t.co/o5QJA9GzP8,The beautiful western railway head office in #Mumbai    #photography… ,he beautiful western railway head office in #Mumbai    #photography… ,he beautiful western railway head office in Mumbai    photography… ,"['beautiful', 'western', 'railway', 'head', 'office', 'Mumbai', 'photography…']"
+126,"Maharashtra battles the incessant rains, IMD issues alert
+Read more about
+it:https://t.co/hwNxNWnxyk
+#IMD #Maharashtra #rains #MumbaiWeather","Maharashtra battles the incessant rains, IMD issues alert
+Read more about
+it:https://t.co/hwNxNWnxyk
+#IMD #Maharashtra #rains #MumbaiWeather","Maharashtra battles the incessant rains, IMD issues alert
+Read more about
+it:
+#IMD #Maharashtra #rains #MumbaiWeather","Maharashtra battles the incessant rains, IMD issues alert
+ead more about
+it:
+#IMD #Maharashtra #rains #MumbaiWeather","Maharashtra battles the incessant rains IMD issues alert
+ead more about
+it
+IMD Maharashtra rains MumbaiWeather","['Maharashtra', 'battles', 'incessant', 'rains', 'IMD', 'issues', 'alert', 'ead', 'IMD', 'Maharashtra', 'rains', 'MumbaiWeather']"
+127,"RT @SstarNation: #Maharashtra: Chief Minister @OfficeofUT  visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#MumbaiRains #MumbaiWeath…","RT  #Maharashtra: Chief Minister   visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#MumbaiRains #MumbaiWeath…","RT  #Maharashtra: Chief Minister   visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#MumbaiRains #MumbaiWeath…","  #Maharashtra: Chief Minister   visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#Mumbaiains #MumbaiWeath…","  Maharashtra Chief Minister   visits floodaffected Nrusinhawadi Shirol in Kolhapur
+Mumbaiains MumbaiWeath…","['Maharashtra', 'Chief', 'Minister', 'visits', 'floodaffected', 'Nrusinhawadi', 'Shirol', 'Kolhapur', 'Mumbaiains', 'MumbaiWeath…']"
+128,"#Maharashtra: Chief Minister @OfficeofUT  visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#MumbaiRains… https://t.co/EX1KsWXY3i","#Maharashtra: Chief Minister   visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#MumbaiRains… https://t.co/EX1KsWXY3i","#Maharashtra: Chief Minister   visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#MumbaiRains… ","#Maharashtra: Chief Minister   visits flood-affected Nrusinhawadi, Shirol in Kolhapur
+#Mumbaiains… ","Maharashtra Chief Minister   visits floodaffected Nrusinhawadi Shirol in Kolhapur
+Mumbaiains… ","['Maharashtra', 'Chief', 'Minister', 'visits', 'floodaffected', 'Nrusinhawadi', 'Shirol', 'Kolhapur', 'Mumbaiains…']"
+129,"RT @iVishvendra: Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","  Monsoon Mayhem:
+
+his is absolutely stunning. itanic . Where's Jack and ose.
+
+#Monsoon #MumbaiainUpdate #Mumbai…","  Monsoon Mayhem
+
+his is absolutely stunning itanic  Wheres Jack and ose
+
+Monsoon MumbaiainUpdate Mumbai…","['Monsoon', 'Mayhem', 'absolutely', 'stunning', 'itanic', 'Wheres', 'Jack', 'ose', 'Monsoon', 'MumbaiainUpdate', 'Mumbai…']"
+130,#MumbaiWeather Cloudy today! With a high of 29C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 29C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of 29C and a low of 27C.,#MumbaiWeather Cloudy today! With a high of C and a low of C.,MumbaiWeather Cloudy today With a high of C and a low of C,"['MumbaiWeather', 'Cloudy', 'today', 'With', 'high', 'C', 'low', 'C']"
+131,"#MumbaiWeather - Sunrise: July 30, 2021 at 06:14AM PM Thunderstorms today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: July 30, 2021 at 06:14AM PM Thunderstorms today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: July 30, 2021 at 06:14AM PM Thunderstorms today! With a high of: 29C and a low of:27C #DailyUpdate #WeatherReports","#MumbaiWeather - Sunrise: July ,  at :AM PM hunderstorms today! With a high of: C and a low of:C #DailyUpdate #Weathereports",MumbaiWeather  Sunrise July   at AM PM hunderstorms today With a high of C and a low ofC DailyUpdate Weathereports,"['MumbaiWeather', 'Sunrise', 'July', 'AM', 'PM', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'ofC', 'DailyUpdate', 'Weathereports']"
+132,"RT @iVishvendra: Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","  Monsoon Mayhem:
+
+his is absolutely stunning. itanic . Where's Jack and ose.
+
+#Monsoon #MumbaiainUpdate #Mumbai…","  Monsoon Mayhem
+
+his is absolutely stunning itanic  Wheres Jack and ose
+
+Monsoon MumbaiainUpdate Mumbai…","['Monsoon', 'Mayhem', 'absolutely', 'stunning', 'itanic', 'Wheres', 'Jack', 'ose', 'Monsoon', 'MumbaiainUpdate', 'Mumbai…']"
+133,"RT @iVishvendra: Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","RT  Monsoon Mayhem:
+
+This is absolutely stunning. Titanic 2021. Where's Jack and Rose.
+
+#Monsoon2021 #MumbaiRainUpdate #Mumbai…","  Monsoon Mayhem:
+
+his is absolutely stunning. itanic . Where's Jack and ose.
+
+#Monsoon #MumbaiainUpdate #Mumbai…","  Monsoon Mayhem
+
+his is absolutely stunning itanic  Wheres Jack and ose
+
+Monsoon MumbaiainUpdate Mumbai…","['Monsoon', 'Mayhem', 'absolutely', 'stunning', 'itanic', 'Wheres', 'Jack', 'ose', 'Monsoon', 'MumbaiainUpdate', 'Mumbai…']"
+134,"RT @Statist91555987: Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon2021 #IMD #Konkan #Mumbai #Mumb…","RT  Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon2021 #IMD #Konkan #Mumbai #Mumb…","RT  Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon2021 #IMD #Konkan #Mumbai #Mumb…","  Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon #IMD #Konkan #Mumbai #Mumb…","  Forecast track path of the low pressure area
+
+Odisha India Weather Monsoon Monsoon IMD Konkan Mumbai Mumb…","['Forecast', 'track', 'path', 'low', 'pressure', 'area', 'Odisha', 'India', 'Weather', 'Monsoon', 'Monsoon', 'IMD', 'Konkan', 'Mumbai', 'Mumb…']"
+135,"Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon2021 #IMD #Konkan #Mumbai… https://t.co/JQ4Cqorloa","Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon2021 #IMD #Konkan #Mumbai… https://t.co/JQ4Cqorloa","Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon2021 #IMD #Konkan #Mumbai… ","Forecast track path of the low pressure area
+
+#Odisha #India #Weather #Monsoon #Monsoon #IMD #Konkan #Mumbai… ","Forecast track path of the low pressure area
+
+Odisha India Weather Monsoon Monsoon IMD Konkan Mumbai… ","['Forecast', 'track', 'path', 'low', 'pressure', 'area', 'Odisha', 'India', 'Weather', 'Monsoon', 'Monsoon', 'IMD', 'Konkan', 'Mumbai…']"
+136,#memunbaikar #munbaikar #things2doinmumbai #MumbaiRains #MumbaiWeather #MumbaiRainUpdate #MumbaiWeather… https://t.co/hsD1luCnWv,#memunbaikar #munbaikar #things2doinmumbai #MumbaiRains #MumbaiWeather #MumbaiRainUpdate #MumbaiWeather… https://t.co/hsD1luCnWv,#memunbaikar #munbaikar #things2doinmumbai #MumbaiRains #MumbaiWeather #MumbaiRainUpdate #MumbaiWeather… ,#memunbaikar #munbaikar #thingsdoinmumbai #Mumbaiains #MumbaiWeather #MumbaiainUpdate #MumbaiWeather… ,memunbaikar munbaikar thingsdoinmumbai Mumbaiains MumbaiWeather MumbaiainUpdate MumbaiWeather… ,"['memunbaikar', 'munbaikar', 'thingsdoinmumbai', 'Mumbaiains', 'MumbaiWeather', 'MumbaiainUpdate', 'MumbaiWeather…']"
+137,"RT @Streetobserver9: Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo https://t.co/xdIJQKlrBe","RT  Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo https://t.co/xdIJQKlrBe","RT  Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo ","  Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo ","  Unreal bliss😍😍😍
+
+Mumbai MumbaiWeather mumbaikar csmt skies beautiful photography photo ","['Unreal', 'bliss😍😍😍', 'Mumbai', 'MumbaiWeather', 'mumbaikar', 'csmt', 'skies', 'beautiful', 'photography', 'photo']"
+138,"Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo https://t.co/xdIJQKlrBe","Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo https://t.co/xdIJQKlrBe","Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo ","Unreal bliss😍😍😍
+.
+#Mumbai #MumbaiWeather #mumbaikar #csmt #skies #beautiful #photography #photo ","Unreal bliss😍😍😍
+
+Mumbai MumbaiWeather mumbaikar csmt skies beautiful photography photo ","['Unreal', 'bliss😍😍😍', 'Mumbai', 'MumbaiWeather', 'mumbaikar', 'csmt', 'skies', 'beautiful', 'photography', 'photo']"
+139,"RT @iVishvendra: Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","RT  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon. Maharashtra / Goa have some amazing ghats to look at. Nature at it's best
+
+#mon…","  Absolutely stunning visual during monsoon Maharashtra  Goa have some amazing ghats to look at Nature at its best
+
+mon…","['Absolutely', 'stunning', 'visual', 'monsoon', 'Maharashtra', 'Goa', 'amazing', 'ghats', 'look', 'Nature', 'best', 'mon…']"
+140,"RT @GautamGada: This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","RT  This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","RT  This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","  his is not germai or Belgium or Europe
+
+his is Mumbai India after heavy rains
+
+Bhandup hane Chembur landslide
+
+etweet…","  his is not germai or Belgium or Europe
+
+his is Mumbai India after heavy rains
+
+Bhandup hane Chembur landslide
+
+etweet…","['germai', 'Belgium', 'Europe', 'Mumbai', 'India', 'heavy', 'rains', 'Bhandup', 'hane', 'Chembur', 'landslide', 'etweet…']"
+141,"RT @GautamGada: This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","RT  This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","RT  This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","  his is not germai or Belgium or Europe
+
+his is Mumbai India after heavy rains
+
+Bhandup hane Chembur landslide
+
+etweet…","  his is not germai or Belgium or Europe
+
+his is Mumbai India after heavy rains
+
+Bhandup hane Chembur landslide
+
+etweet…","['germai', 'Belgium', 'Europe', 'Mumbai', 'India', 'heavy', 'rains', 'Bhandup', 'hane', 'Chembur', 'landslide', 'etweet…']"
+142,"RT @GautamGada: This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","RT  This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","RT  This is not germai or Belgium or Europe
+
+This is Mumbai India after heavy rains
+
+Bhandup Thane Chembur landslide
+
+Retweet…","  his is not germai or Belgium or Europe
+
+his is Mumbai India after heavy rains
+
+Bhandup hane Chembur landslide
+
+etweet…","  his is not germai or Belgium or Europe
+
+his is Mumbai India after heavy rains
+
+Bhandup hane Chembur landslide
+
+etweet…","['germai', 'Belgium', 'Europe', 'Mumbai', 'India', 'heavy', 'rains', 'Bhandup', 'hane', 'Chembur', 'landslide', 'etweet…']"
+143,RT @mybmc: #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  #MumbaiWeather forecast July  : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  MumbaiWeather forecast July   Moderate rain in city and suburbs with occasional intense spells Possibility of occasional gu…,"['MumbaiWeather', 'forecast', 'July', 'Moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasional', 'gu…']"
+144,#MumbaiWeather PM Thunderstorms today! With a high of 30C and a low of 27C.,#MumbaiWeather PM Thunderstorms today! With a high of 30C and a low of 27C.,#MumbaiWeather PM Thunderstorms today! With a high of 30C and a low of 27C.,#MumbaiWeather PM hunderstorms today! With a high of C and a low of C.,MumbaiWeather PM hunderstorms today With a high of C and a low of C,"['MumbaiWeather', 'PM', 'hunderstorms', 'today', 'With', 'high', 'C', 'low', 'C']"
+145,RT @mybmc: #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  #MumbaiWeather forecast July  : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  MumbaiWeather forecast July   Moderate rain in city and suburbs with occasional intense spells Possibility of occasional gu…,"['MumbaiWeather', 'forecast', 'July', 'Moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasional', 'gu…']"
+146,RT @mybmc: #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  #MumbaiWeather forecast July  : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  MumbaiWeather forecast July   Moderate rain in city and suburbs with occasional intense spells Possibility of occasional gu…,"['MumbaiWeather', 'forecast', 'July', 'Moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasional', 'gu…']"
+147,RT @mybmc: #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,RT  #MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  #MumbaiWeather forecast July  : Moderate rain in city and suburbs with occasional intense spells. Possibility of occasional gu…,  MumbaiWeather forecast July   Moderate rain in city and suburbs with occasional intense spells Possibility of occasional gu…,"['MumbaiWeather', 'forecast', 'July', 'Moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'occasional', 'gu…']"
+148,#MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of… https://t.co/IUPBYULW8A,#MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of… https://t.co/IUPBYULW8A,#MumbaiWeather forecast July 29 : Moderate rain in city and suburbs with occasional intense spells. Possibility of… ,#MumbaiWeather forecast July  : Moderate rain in city and suburbs with occasional intense spells. Possibility of… ,MumbaiWeather forecast July   Moderate rain in city and suburbs with occasional intense spells Possibility of… ,"['MumbaiWeather', 'forecast', 'July', 'Moderate', 'rain', 'city', 'suburbs', 'occasional', 'intense', 'spells', 'Possibility', 'of…']"

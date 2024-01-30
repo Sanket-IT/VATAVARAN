@@ -1,0 +1,152 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,"RT @moon_chandani: Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","RT  Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","RT  Nimgiri, Junnar, Pune ","  Nimgiri, Junnar, Pune ",  Nimgiri Junnar Pune ,"['Nimgiri', 'Junnar', 'Pune']"
+1,"@thebetterindia Reverse Waterfall Naneghat
+095456 20541
+https://t.co/qyWmIrVJG2"," Reverse Waterfall Naneghat
+095456 20541
+https://t.co/qyWmIrVJG2"," Reverse Waterfall Naneghat
+095456 20541
+"," everse Waterfall Naneghat
+ 
+"," everse Waterfall Naneghat
+ 
+","['everse', 'Waterfall', 'Naneghat']"
+2,"RT @moon_chandani: Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","RT  Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","RT  Nimgiri, Junnar, Pune ","  Nimgiri, Junnar, Pune ",  Nimgiri Junnar Pune ,"['Nimgiri', 'Junnar', 'Pune']"
+3,"RT @viralvdoz: Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+https://t.co/rjA6LHq7jN
+#Bullet #Pune #Nashik #P…","RT  Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+https://t.co/rjA6LHq7jN
+#Bullet #Pune #Nashik #P…","RT  Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+
+#Bullet #Pune #Nashik #P…","  Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+
+#Bullet #Pune #Nashik #P…","  Video Mysterious bike without rider spotted running on PuneNashik Highway
+
+Bullet Pune Nashik P…","['Video', 'Mysterious', 'bike', 'without', 'rider', 'spotted', 'running', 'PuneNashik', 'Highway', 'Bullet', 'Pune', 'Nashik', 'P…']"
+4,"Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+https://t.co/rjA6LHq7jN
+#Bullet #Pune… https://t.co/HbPlAP52tZ","Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+https://t.co/rjA6LHq7jN
+#Bullet #Pune… https://t.co/HbPlAP52tZ","Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+
+#Bullet #Pune… ","Video: Mysterious bike without rider spotted running on Pune-Nashik Highway
+
+#Bullet #Pune… ","Video Mysterious bike without rider spotted running on PuneNashik Highway
+
+Bullet Pune… ","['Video', 'Mysterious', 'bike', 'without', 'rider', 'spotted', 'running', 'PuneNashik', 'Highway', 'Bullet', 'Pune…']"
+5,RT @techmahindracsr: Some glimpses from our recent #COVIDRelief distribution drive held in the nearby areas of Junnar (Pune). Our location…,RT  Some glimpses from our recent #COVIDRelief distribution drive held in the nearby areas of Junnar (Pune). Our location…,RT  Some glimpses from our recent #COVIDRelief distribution drive held in the nearby areas of Junnar (Pune). Our location…,  Some glimpses from our recent #COVIDelief distribution drive held in the nearby areas of Junnar (Pune). Our location…,  Some glimpses from our recent COVIDelief distribution drive held in the nearby areas of Junnar Pune Our location…,"['Some', 'glimpses', 'recent', 'COVIDelief', 'distribution', 'drive', 'held', 'nearby', 'areas', 'Junnar', 'Pune', 'Our', 'location…']"
+6,Some glimpses from our recent #COVIDRelief distribution drive held in the nearby areas of Junnar (Pune). Our locati… https://t.co/vhw4Pwrcyn,Some glimpses from our recent #COVIDRelief distribution drive held in the nearby areas of Junnar (Pune). Our locati… https://t.co/vhw4Pwrcyn,Some glimpses from our recent #COVIDRelief distribution drive held in the nearby areas of Junnar (Pune). Our locati… ,Some glimpses from our recent #COVIDelief distribution drive held in the nearby areas of Junnar (Pune). Our locati… ,Some glimpses from our recent COVIDelief distribution drive held in the nearby areas of Junnar Pune Our locati… ,"['Some', 'glimpses', 'recent', 'COVIDelief', 'distribution', 'drive', 'held', 'nearby', 'areas', 'Junnar', 'Pune', 'Our', 'locati…']"
+7,"#Shri_Vighneshwar
+This temple located on the banks of River Kukdi, fortified on all four sides,is spiritually activ… https://t.co/opARYan3k6","#Shri_Vighneshwar
+This temple located on the banks of River Kukdi, fortified on all four sides,is spiritually activ… https://t.co/opARYan3k6","#Shri_Vighneshwar
+This temple located on the banks of River Kukdi, fortified on all four sides,is spiritually activ… ","#Shri_Vighneshwar
+his temple located on the banks of iver Kukdi, fortified on all four sides,is spiritually activ… ","ShriVighneshwar
+his temple located on the banks of iver Kukdi fortified on all four sidesis spiritually activ… ","['ShriVighneshwar', 'temple', 'located', 'banks', 'iver', 'Kukdi', 'fortified', 'four', 'sidesis', 'spiritually', 'activ…']"
+8,"RT @moon_chandani: Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","RT  Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","RT  Nimgiri, Junnar, Pune ","  Nimgiri, Junnar, Pune ",  Nimgiri Junnar Pune ,"['Nimgiri', 'Junnar', 'Pune']"
+9,"Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","Nimgiri, Junnar, Pune https://t.co/B2ZYapbEwS","Nimgiri, Junnar, Pune ","Nimgiri, Junnar, Pune ",Nimgiri Junnar Pune ,"['Nimgiri', 'Junnar', 'Pune']"
+10,Just posted a photo @ Junnar/जुन्नर https://t.co/0b0xjYOz03,Just posted a photo @ Junnar/जुन्नर https://t.co/0b0xjYOz03,Just posted a photo @ Junnar/जुन्नर ,Just posted a photo @ Junnar/जुन्नर ,Just posted a photo  Junnarजुन्नर ,"['Just', 'posted', 'photo', 'Junnarजुन्नर']"
+11,RT @WildlifeSOS: An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a  hr long  operation by…,  An adult male leopard broke into a school canteen in Maharashtra amp was successfully rescued in a  hr long  operation by…,"['An', 'adult', 'male', 'leopard', 'broke', 'school', 'canteen', 'Maharashtra', 'amp', 'successfully', 'rescued', 'hr', 'long', 'operation', 'by…']"
+12,"@MahaForest department's initiative to prevent Human animal conflict.
+#animals #wildlife #conflict #PUNE… https://t.co/hKUuYVaDxj"," department's initiative to prevent Human animal conflict.
+#animals #wildlife #conflict #PUNE… https://t.co/hKUuYVaDxj"," department's initiative to prevent Human animal conflict.
+#animals #wildlife #conflict #PUNE… "," department's initiative to prevent Human animal conflict.
+#animals #wildlife #conflict #PUNE… "," departments initiative to prevent Human animal conflict
+animals wildlife conflict PUNE… ","['departments', 'initiative', 'prevent', 'Human', 'animal', 'conflict', 'animals', 'wildlife', 'conflict', 'PUNE…']"
+13,"RT @SFVResort: Congratulations @Neeraj_chopra1 
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :- https://t.co/4jrJBO45DE…","RT  Congratulations  
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :- https://t.co/4jrJBO45DE…","RT  Congratulations  
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :- ","  Congratulations  
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :- ","  Congratulations  
+
+Visit once and Win a goldmedal of Peace and Serenity
+
+Visit  ","['Congratulations', 'Visit', 'Win', 'goldmedal', 'Peace', 'Serenity', 'Visit']"
+14,"Congratulations @Neeraj_chopra1 
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :-… https://t.co/IAIh1pTFzJ","Congratulations  
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :-… https://t.co/IAIh1pTFzJ","Congratulations  
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :-… ","Congratulations  
+
+Visit once and Win a #goldmedal of #Peace and #Serenity
+
+Visit :-… ","Congratulations  
+
+Visit once and Win a goldmedal of Peace and Serenity
+
+Visit … ","['Congratulations', 'Visit', 'Win', 'goldmedal', 'Peace', 'Serenity', 'Visit', '…']"
+15,"RT @Mybhumi_Resort_: Congratulations @Neeraj_chopra1 
+Win a Gold Medal of #Peace #Enjoyment #Relax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲
+@Mybhumi_Res…","RT  Congratulations  
+Win a Gold Medal of #Peace #Enjoyment #Relax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲
+","RT  Congratulations  
+Win a Gold Medal of #Peace #Enjoyment #Relax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲
+","  Congratulations  
+Win a Gold Medal of #Peace #Enjoyment #elax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲
+","  Congratulations  
+Win a Gold Medal of Peace Enjoyment elax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲
+","['Congratulations', 'Win', 'Gold', 'Medal', 'Peace', 'Enjoyment', 'elax', '𝗠𝗮𝗸𝗶𝗻𝗴', '𝘆𝗼𝘂𝗿', '𝘀𝘁𝗮𝘆', '𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲']"
+16,"Congratulations @Neeraj_chopra1 
+Win a Gold Medal of #Peace #Enjoyment #Relax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲… https://t.co/2SPKLNQFff","Congratulations  
+Win a Gold Medal of #Peace #Enjoyment #Relax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲… https://t.co/2SPKLNQFff","Congratulations  
+Win a Gold Medal of #Peace #Enjoyment #Relax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲… ","Congratulations  
+Win a Gold Medal of #Peace #Enjoyment #elax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲… ","Congratulations  
+Win a Gold Medal of Peace Enjoyment elax
+
+𝗠𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘁𝗮𝘆 𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲… ","['Congratulations', 'Win', 'Gold', 'Medal', 'Peace', 'Enjoyment', 'elax', '𝗠𝗮𝗸𝗶𝗻𝗴', '𝘆𝗼𝘂𝗿', '𝘀𝘁𝗮𝘆', '𝗺𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲…']"
+17,RT @WildlifeSOS: An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a  hr long  operation by…,  An adult male leopard broke into a school canteen in Maharashtra amp was successfully rescued in a  hr long  operation by…,"['An', 'adult', 'male', 'leopard', 'broke', 'school', 'canteen', 'Maharashtra', 'amp', 'successfully', 'rescued', 'hr', 'long', 'operation', 'by…']"
+18,RT @Krishnavallabhi: The self-materialized seat of #Shri_Girijatmaj is on the top of d mountain #Lenyadri in the midst of stone cave carvin…,RT  The self-materialized seat of #Shri_Girijatmaj is on the top of d mountain #Lenyadri in the midst of stone cave carvin…,RT  The self-materialized seat of #Shri_Girijatmaj is on the top of d mountain #Lenyadri in the midst of stone cave carvin…,  he self-materialized seat of #Shri_Girijatmaj is on the top of d mountain #Lenyadri in the midst of stone cave carvin…,  he selfmaterialized seat of ShriGirijatmaj is on the top of d mountain Lenyadri in the midst of stone cave carvin…,"['selfmaterialized', 'seat', 'ShriGirijatmaj', 'top', 'mountain', 'Lenyadri', 'midst', 'stone', 'cave', 'carvin…']"
+19,RT @WildlifeSOS: An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a  hr long  operation by…,  An adult male leopard broke into a school canteen in Maharashtra amp was successfully rescued in a  hr long  operation by…,"['An', 'adult', 'male', 'leopard', 'broke', 'school', 'canteen', 'Maharashtra', 'amp', 'successfully', 'rescued', 'hr', 'long', 'operation', 'by…']"
+20,"RT @MirrorNow: In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Maharashtra on…","RT  In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Maharashtra on…","RT  In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Maharashtra on…","  In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Maharashtra on…",  In a tragic incident a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Maharashtra on…,"['In', 'tragic', 'incident', 'Delhi', 'woman', 'died', 'fell', 'Jivdhan', 'fort', 'trekking', 'Pune', 'district', 'Maharashtra', 'on…']"
+21,"In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Mahara… https://t.co/lj8ZQfSIYe","In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Mahara… https://t.co/lj8ZQfSIYe","In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Mahara… ","In a tragic incident, a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Mahara… ",In a tragic incident a Delhi woman died after she fell from Jivdhan fort while trekking in Pune district of Mahara… ,"['In', 'tragic', 'incident', 'Delhi', 'woman', 'died', 'fell', 'Jivdhan', 'fort', 'trekking', 'Pune', 'district', 'Mahara…']"
+22,"@nitin_gadkari Great !!
+
+Maharashtra is great State but both Central and State Government needs to do more to impro… https://t.co/CRkCoQf2up"," Great !!
+
+Maharashtra is great State but both Central and State Government needs to do more to impro… https://t.co/CRkCoQf2up"," Great !!
+
+Maharashtra is great State but both Central and State Government needs to do more to impro… "," Great !!
+
+Maharashtra is great State but both Central and State Government needs to do more to impro… "," Great 
+
+Maharashtra is great State but both Central and State Government needs to do more to impro… ","['Great', 'Maharashtra', 'great', 'State', 'Central', 'State', 'Government', 'needs', 'impro…']"
+23,RT @WildlifeSOS: An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a  hr long  operation by…,  An adult male leopard broke into a school canteen in Maharashtra amp was successfully rescued in a  hr long  operation by…,"['An', 'adult', 'male', 'leopard', 'broke', 'school', 'canteen', 'Maharashtra', 'amp', 'successfully', 'rescued', 'hr', 'long', 'operation', 'by…']"
+24,#Pune: Develop Junnar’s Buddhist Caves As A World Tourist Destination: MP @MPGirishBapat Bapat… https://t.co/7w3Vbes5Eb,#Pune: Develop Junnar’s Buddhist Caves As A World Tourist Destination: MP  Bapat… https://t.co/7w3Vbes5Eb,#Pune: Develop Junnar’s Buddhist Caves As A World Tourist Destination: MP  Bapat… ,#Pune: Develop Junnar’s Buddhist Caves As A World ourist Destination: MP  Bapat… ,Pune Develop Junnar’s Buddhist Caves As A World ourist Destination MP  Bapat… ,"['Pune', 'Develop', 'Junnar’s', 'Buddhist', 'Caves', 'As', 'A', 'World', 'ourist', 'Destination', 'MP', 'Bapat…']"
+25,RT @WildlifeSOS: An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,RT  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a 4 hr long  operation by…,  An adult male #leopard broke into a school canteen in #Maharashtra &amp; was successfully rescued in a  hr long  operation by…,  An adult male leopard broke into a school canteen in Maharashtra amp was successfully rescued in a  hr long  operation by…,"['An', 'adult', 'male', 'leopard', 'broke', 'school', 'canteen', 'Maharashtra', 'amp', 'successfully', 'rescued', 'hr', 'long', 'operation', 'by…']"

@@ -1,0 +1,711 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,$DELL new insider selling: 111095 shares. https://t.co/eeRwGZJly9,$DELL new insider selling: 111095 shares. https://t.co/eeRwGZJly9,"['$DELL', 'new', 'insider', 'selling:', '111095', 'shares.']",$DELLnewinsiderselling:shares.,DELLnewinsidersellingshares,['DELLnewinsidersellingshares']
+1,"@justanothertown Raw...
+Thelma
+Green Inferno"," Raw...
+Thelma
+Green Inferno","['Raw...', 'Thelma', 'Green', 'Inferno']",Raw...ThelmaGreenInferno,RawThelmaGreenInferno,['RawThelmaGreenInferno']
+2,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+3,"RT @TWEETORACLE: Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","RT  Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","['RT', 'Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD', '8GB', 'RA…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…']
+4,"Dell Inspiron 11 (3153) Motherboard System Board with Intel i3 2.3GHz CPU - 04R7J
+https://t.co/VOM8w64pMA https://t.co/uhSvfkWc7C","Dell Inspiron 11 (3153) Motherboard System Board with Intel i3 2.3GHz CPU - 04R7J
+https://t.co/VOM8w64pMA https://t.co/uhSvfkWc7C","['Dell', 'Inspiron', '11', '(3153)', 'Motherboard', 'System', 'Board', 'Intel', 'i3', '2.3GHz', 'CPU', '-', '04R7J']",DellInspiron()MotherboardSystemBoardInteli.GHzCPU-RJ,DellInspironMotherboardSystemBoardInteliGHzCPURJ,['DellInspironMotherboardSystemBoardInteliGHzCPURJ']
+5,"Morning #WritingCommunity. I've not been on here for a few days, it's been a busy week for me. But back to the edit… https://t.co/X1eWFrKEaq","Morning #WritingCommunity. I've not been on here for a few days, it's been a busy week for me. But back to the edit… https://t.co/X1eWFrKEaq","['Morning', '#WritingCommunity.', ""I've"", 'days,', 'busy', 'week', 'me.', 'But', 'back', 'edit…']","Morning#WritingCommunity.I'vedays,busyweekme.Butbackedit…",MorningWritingCommunityIvedaysbusyweekmeButbackedit…,['MorningWritingCommunityIvedaysbusyweekmeButbackedit…']
+6,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+7,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+8,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+9,"@___yummii @thaonlyfetty A new phone and a new dell alienware laptop.......with that, more money is assured 😁","  A new phone and a new dell alienware laptop.......with that, more money is assured 😁","['A', 'new', 'phone', 'new', 'dell', 'alienware', 'laptop.......with', 'that,', 'money', 'assured', '😁']","Anewphonenewdellalienwarelaptop.......withthat,moneyassured😁",Anewphonenewdellalienwarelaptopwiththatmoneyassured😁,['Anewphonenewdellalienwarelaptopwiththatmoneyassured😁']
+10,"@AshNicholsArt @AshNicholsArt uh.... Get this one... I have this at work. ASH, THE COLOR IS SO UNREAL, IT'S THE SHA… https://t.co/FgcqMPKbeg","  uh.... Get this one... I have this at work. ASH, THE COLOR IS SO UNREAL, IT'S THE SHA… https://t.co/FgcqMPKbeg","['uh....', 'Get', 'one...', 'I', 'work.', 'ASH,', 'THE', 'COLOR', 'IS', 'SO', 'UNREAL,', ""IT'S"", 'THE', 'SHA…']","uh....Getone...Iwork.ASH,THECOLORISSOUNREAL,IT'STHESHA…",uhGetoneIworkASHTHECOLORISSOUNREALITSTHESHA…,['uhGetoneIworkASHTHECOLORISSOUNREALITSTHESHA…']
+11,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+12,"RT @TWEETORACLE: Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","RT  Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","['RT', 'Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD', '8GB', 'RA…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…']
+13,With Dell Technologies Cloud ☁️ you have 🧘 flexible consumption options that help your organization to reduce total… https://t.co/5SozcE7esE,With Dell Technologies Cloud ☁️ you have 🧘 flexible consumption options that help your organization to reduce total… https://t.co/5SozcE7esE,"['With', 'Dell', 'Technologies', 'Cloud', '☁️', '🧘', 'flexible', 'consumption', 'options', 'help', 'organization', 'reduce', 'total…']",WithDellTechnologiesCloud☁️🧘flexibleconsumptionoptionshelporganizationreducetotal…,WithDellTechnologiesCloud☁️🧘flexibleconsumptionoptionshelporganizationreducetotal…,['WithDellTechnologiesCloud☁️🧘flexibleconsumptionoptionshelporganizationreducetotal…']
+14,@jooniebinie Dell https://t.co/aXf7B407X1, Dell https://t.co/aXf7B407X1,['Dell'],Dell,Dell,['Dell']
+15,@Mrwhosetheboss @SamsungMobileUS @SamsungUS @SamsungUK @Huawei_Europe @HuaweiMobile @HuaweiMobileUK @HuaweiUSA… https://t.co/QCdOLOJSpe,        https://t.co/QCdOLOJSpe,[],,,[]
+16,"@vijayhardaha I've been thinking about this, but I want to run it locally. So I'll need to upgrade my home server a… https://t.co/aNzPpbnirg"," I've been thinking about this, but I want to run it locally. So I'll need to upgrade my home server a… https://t.co/aNzPpbnirg","[""I've"", 'thinking', 'this,', 'I', 'want', 'run', 'locally.', 'So', ""I'll"", 'need', 'upgrade', 'home', 'server', 'a…']","I'vethinkingthis,Iwantrunlocally.SoI'llneedupgradehomeservera…",IvethinkingthisIwantrunlocallySoIllneedupgradehomeservera…,['IvethinkingthisIwantrunlocallySoIllneedupgradehomeservera…']
+17,The first match I ever saw was against Newcastle (Jan 97). The atmosphere at The Dell that day was unbelievable. St… https://t.co/HneypLySx6,The first match I ever saw was against Newcastle (Jan 97). The atmosphere at The Dell that day was unbelievable. St… https://t.co/HneypLySx6,"['The', 'first', 'match', 'I', 'ever', 'saw', 'Newcastle', '(Jan', '97).', 'The', 'atmosphere', 'The', 'Dell', 'day', 'unbelievable.', 'St…']",ThefirstmatchIeversawNewcastle(Jan).TheatmosphereTheDelldayunbelievable.St…,ThefirstmatchIeversawNewcastleJanTheatmosphereTheDelldayunbelievableSt…,['ThefirstmatchIeversawNewcastleJanTheatmosphereTheDelldayunbelievableSt…']
+18,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+19,RT @DellEMCHealth: .@DellTech medical imaging solutions allow healthcare providers to integrate their PACS and digital pathology images in…,RT  . medical imaging solutions allow healthcare providers to integrate their PACS and digital pathology images in…,"['RT', '.', 'medical', 'imaging', 'solutions', 'allow', 'healthcare', 'providers', 'integrate', 'PACS', 'digital', 'pathology', 'images', 'in…']",.medicalimagingsolutionsallowhealthcareprovidersintegratePACSdigitalpathologyimagesin…,medicalimagingsolutionsallowhealthcareprovidersintegratePACSdigitalpathologyimagesin…,['medicalimagingsolutionsallowhealthcareprovidersintegratePACSdigitalpathologyimagesin…']
+20,Dell Home &amp; Office Promo Code (Verified Daily): $229 Off Inspiron 15 3000 Laptop + Free Shipping. Valid thru 03/13/… https://t.co/EpOw6zueJt,Dell Home &amp; Office Promo Code (Verified Daily): $229 Off Inspiron 15 3000 Laptop + Free Shipping. Valid thru 03/13/… https://t.co/EpOw6zueJt,"['Dell', 'Home', '&amp;', 'Office', 'Promo', 'Code', '(Verified', 'Daily):', '$229', 'Off', 'Inspiron', '15', '3000', 'Laptop', '+', 'Free', 'Shipping.', 'Valid', 'thru', '03/13/…']",DellHome&amp;OfficePromoCode(VerifiedDaily):$OffInspironLaptop+FreeShipping.Validthru//…,DellHomeampOfficePromoCodeVerifiedDailyOffInspironLaptopFreeShippingValidthru…,['DellHomeampOfficePromoCodeVerifiedDailyOffInspironLaptopFreeShippingValidthru…']
+21,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+22,@LILUZIVERT All of em, All of em,"['All', 'em']",Allem,Allem,['Allem']
+23,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+24,"RT @SweetDell: Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Earth's Survi…","RT  Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Earth's Survi…","['RT', 'Borderline:', 'Collected', 'Short', 'Stories', 'Dell', 'Sweet', 'All', 'Dell', ""Sweet's"", 'books', 'Kobo,', ""Earth's"", 'Survi…']","Borderline:CollectedShortStoriesDellSweetAllDellSweet'sbooksKobo,Earth'sSurvi…",BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEarthsSurvi…,['BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEarthsSurvi…']
+25,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+26,"RT @TWEETORACLE: Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","RT  Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","['RT', 'Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD', '8GB', 'RA…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…']
+27,"RT @TWEETORACLE: Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","RT  Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","['RT', 'Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD', '8GB', 'RA…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…']
+28,"RT @TWEETORACLE: Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","RT  Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","['RT', 'Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD', '8GB', 'RA…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…']
+29,"RT @TWEETORACLE: Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","RT  Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD
+8GB RA…","['RT', 'Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD', '8GB', 'RA…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSDGBRA…']
+30,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+31,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+32,"Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD… https://t.co/OBWdcsR919","Get yourself one of these Impeccably functional Lappy.
+Dell LATITUDE 5480
+MANUFACTURED 2018
+Intel core i5
+256GB SSD… https://t.co/OBWdcsR919","['Get', 'one', 'Impeccably', 'functional', 'Lappy.', 'Dell', 'LATITUDE', '5480', 'MANUFACTURED', '2018', 'Intel', 'core', 'i5', '256GB', 'SSD…']",GetoneImpeccablyfunctionalLappy.DellLATITUDEMANUFACTUREDIntelcoreiGBSSD…,GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSD…,['GetoneImpeccablyfunctionalLappyDellLATITUDEMANUFACTUREDIntelcoreiGBSSD…']
+33,Dell Small Business Coupon (100% Working): $229 Off Inspiron 15 3000 Laptop + Free Shipping. Expires 03/13/2020 https://t.co/cOSCUavsDG,Dell Small Business Coupon (100% Working): $229 Off Inspiron 15 3000 Laptop + Free Shipping. Expires 03/13/2020 https://t.co/cOSCUavsDG,"['Dell', 'Small', 'Business', 'Coupon', '(100%', 'Working):', '$229', 'Off', 'Inspiron', '15', '3000', 'Laptop', '+', 'Free', 'Shipping.', 'Expires', '03/13/2020']",DellSmallBusinessCoupon(%Working):$OffInspironLaptop+FreeShipping.Expires//,DellSmallBusinessCouponWorkingOffInspironLaptopFreeShippingExpires,['DellSmallBusinessCouponWorkingOffInspironLaptopFreeShippingExpires']
+34,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+35,"@BenediktRitter @bertschneider @TUXEDOComputers I tried a @TUXEDOComputers once, service and compatibility were gre… https://t.co/b1XMDPbZZu","   I tried a  once, service and compatibility were gre… https://t.co/b1XMDPbZZu","['I', 'tried', 'once,', 'service', 'compatibility', 'gre…']","Itriedonce,servicecompatibilitygre…",Itriedonceservicecompatibilitygre…,['Itriedonceservicecompatibilitygre…']
+36,"$VLO $DELL Tiger Still Not Ready, Will Miss The Players Championship via https://t.co/dU2ohMsCEH","$VLO $DELL Tiger Still Not Ready, Will Miss The Players Championship via https://t.co/dU2ohMsCEH","['$VLO', '$DELL', 'Tiger', 'Still', 'Not', 'Ready,', 'Will', 'Miss', 'The', 'Players', 'Championship', 'via']","$VLO$DELLTigerStillNotReady,WillMissThePlayersChampionshipvia",VLODELLTigerStillNotReadyWillMissThePlayersChampionshipvia,['VLODELLTigerStillNotReadyWillMissThePlayersChampionshipvia']
+37,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+38,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+39,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+40,"Dell Latitude 3550 for sale
+
+Item: Dell Latitude 3550 Intel Core i5 15.6"" 500GB Notebook
+Age: 3 years
+Price: R3500… https://t.co/8QAkPaRsnZ","Dell Latitude 3550 for sale
+
+Item: Dell Latitude 3550 Intel Core i5 15.6"" 500GB Notebook
+Age: 3 years
+Price: R3500… https://t.co/8QAkPaRsnZ","['Dell', 'Latitude', '3550', 'sale', 'Item:', 'Dell', 'Latitude', '3550', 'Intel', 'Core', 'i5', '15.6""', '500GB', 'Notebook', 'Age:', '3', 'years', 'Price:', 'R3500…']","DellLatitudesaleItem:DellLatitudeIntelCorei.""GBNotebookAge:yearsPrice:R…",DellLatitudesaleItemDellLatitudeIntelCoreiGBNotebookAgeyearsPriceR…,['DellLatitudesaleItemDellLatitudeIntelCoreiGBNotebookAgeyearsPriceR…']
+41,@ghussain93 Dell, Dell,['Dell'],Dell,Dell,['Dell']
+42,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+43,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+44,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+45,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+46,@BeartikalRBLX Dell XPS 13., Dell XPS 13.,"['Dell', 'XPS', '13.']",DellXPS.,DellXPS,['DellXPS']
+47,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+48,@pringles_20 @sumayalhn @SQUCOFFEE Dell or surface pro,   Dell or surface pro,"['Dell', 'surface', 'pro']",Dellsurfacepro,Dellsurfacepro,['Dellsurfacepro']
+49,https://t.co/Lf4PAu4YMl PGA Tour says Dell Match Play still on for later this month #ATX,https://t.co/Lf4PAu4YMl PGA Tour says Dell Match Play still on for later this month #ATX,"['PGA', 'Tour', 'says', 'Dell', 'Match', 'Play', 'still', 'later', 'month', '#ATX']",PGAToursaysDellMatchPlaystilllatermonth#ATX,PGAToursaysDellMatchPlaystilllatermonthATX,['PGAToursaysDellMatchPlaystilllatermonthATX']
+50,@JimBrowning11 sir i manish kumar from bihar india .on 12th apr 2019 night my laptop was stolen. can u help me to f… https://t.co/4TScTNc9uX, sir i manish kumar from bihar india .on 12th apr 2019 night my laptop was stolen. can u help me to f… https://t.co/4TScTNc9uX,"['sir', 'manish', 'kumar', 'bihar', 'india', '.on', '12th', 'apr', '2019', 'night', 'laptop', 'stolen.', 'u', 'help', 'f…']",sirmanishkumarbiharindia.onthaprnightlaptopstolen.uhelpf…,sirmanishkumarbiharindiaonthaprnightlaptopstolenuhelpf…,['sirmanishkumarbiharindiaonthaprnightlaptopstolenuhelpf…']
+51,@Ape_Dell Its okey to be not okey💞, Its okey to be not okey💞,"['Its', 'okey', 'okey💞']",Itsokeyokey💞,Itsokeyokey💞,['Itsokeyokey💞']
+52,CVE-2020-5328 Dell EMC Isilon OneFS versions prior to 8.2.0 contain an unauthorized access vulnerability due to a l… https://t.co/cmcC8G2psx,CVE-2020-5328 Dell EMC Isilon OneFS versions prior to 8.2.0 contain an unauthorized access vulnerability due to a l… https://t.co/cmcC8G2psx,"['CVE-2020-5328', 'Dell', 'EMC', 'Isilon', 'OneFS', 'versions', 'prior', '8.2.0', 'contain', 'unauthorized', 'access', 'vulnerability', 'due', 'l…']",CVE--DellEMCIsilonOneFSversionsprior..containunauthorizedaccessvulnerabilityduel…,CVEDellEMCIsilonOneFSversionspriorcontainunauthorizedaccessvulnerabilityduel…,['CVEDellEMCIsilonOneFSversionspriorcontainunauthorizedaccessvulnerabilityduel…']
+53,CVE-2020-5327 Dell Security Management Server versions prior to 10.2.10 contain a Java RMI Deserialization of Untru… https://t.co/B6FRnMiZKf,CVE-2020-5327 Dell Security Management Server versions prior to 10.2.10 contain a Java RMI Deserialization of Untru… https://t.co/B6FRnMiZKf,"['CVE-2020-5327', 'Dell', 'Security', 'Management', 'Server', 'versions', 'prior', '10.2.10', 'contain', 'Java', 'RMI', 'Deserialization', 'Untru…']",CVE--DellSecurityManagementServerversionsprior..containJavaRMIDeserializationUntru…,CVEDellSecurityManagementServerversionspriorcontainJavaRMIDeserializationUntru…,['CVEDellSecurityManagementServerversionspriorcontainJavaRMIDeserializationUntru…']
+54,"Oh yeah it's Dell.
+Apparently they hate that.
+Thanks @IceDragonInc 
+WELL...","Oh yeah it's Dell.
+Apparently they hate that.
+Thanks  
+WELL...","['Oh', 'yeah', 'Dell.', 'Apparently', 'hate', 'that.', 'Thanks', 'WELL...']",OhyeahDell.Apparentlyhatethat.ThanksWELL...,OhyeahDellApparentlyhatethatThanksWELL,['OhyeahDellApparentlyhatethatThanksWELL']
+55,"Dell MS116 1000DPI USB Wired Optical Mouse
+https://t.co/DcVGhtIcrM https://t.co/LFcL62bpqC","Dell MS116 1000DPI USB Wired Optical Mouse
+https://t.co/DcVGhtIcrM https://t.co/LFcL62bpqC","['Dell', 'MS116', '1000DPI', 'USB', 'Wired', 'Optical', 'Mouse']",DellMSDPIUSBWiredOpticalMouse,DellMSDPIUSBWiredOpticalMouse,['DellMSDPIUSBWiredOpticalMouse']
+56,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+57,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+58,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+59,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+60,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+61,Dell : How will you open the door? At DellTech we're focusing on gender equality as a business imperative that requ… https://t.co/8yVgh0ONyK,Dell : How will you open the door? At DellTech we're focusing on gender equality as a business imperative that requ… https://t.co/8yVgh0ONyK,"['Dell', ':', 'How', 'open', 'door?', 'At', 'DellTech', ""we're"", 'focusing', 'gender', 'equality', 'business', 'imperative', 'requ…']",Dell:Howopendoor?AtDellTechwe'refocusinggenderequalitybusinessimperativerequ…,DellHowopendoorAtDellTechwerefocusinggenderequalitybusinessimperativerequ…,['DellHowopendoorAtDellTechwerefocusinggenderequalitybusinessimperativerequ…']
+62,"Dell : ""The Dell UltraSharp UP2720Q is an impressive feature-packed panel with a built-in colorimeter, a 4K resolut… https://t.co/BcQwHOHElM","Dell : ""The Dell UltraSharp UP2720Q is an impressive feature-packed panel with a built-in colorimeter, a 4K resolut… https://t.co/BcQwHOHElM","['Dell', ':', '""The', 'Dell', 'UltraSharp', 'UP2720Q', 'impressive', 'feature-packed', 'panel', 'built-in', 'colorimeter,', '4K', 'resolut…']","Dell:""TheDellUltraSharpUPQimpressivefeature-packedpanelbuilt-incolorimeter,Kresolut…",DellTheDellUltraSharpUPQimpressivefeaturepackedpanelbuiltincolorimeterKresolut…,['DellTheDellUltraSharpUPQimpressivefeaturepackedpanelbuiltincolorimeterKresolut…']
+63,SiLC Technologies raises $12M seed round led by Dell Technologies Capital for its long range lidar sensor (Kyle Wig… https://t.co/prVacapwg9,SiLC Technologies raises $12M seed round led by Dell Technologies Capital for its long range lidar sensor (Kyle Wig… https://t.co/prVacapwg9,"['SiLC', 'Technologies', 'raises', '$12M', 'seed', 'round', 'led', 'Dell', 'Technologies', 'Capital', 'long', 'range', 'lidar', 'sensor', '(Kyle', 'Wig…']",SiLCTechnologiesraises$MseedroundledDellTechnologiesCapitallongrangelidarsensor(KyleWig…,SiLCTechnologiesraisesMseedroundledDellTechnologiesCapitallongrangelidarsensorKyleWig…,['SiLCTechnologiesraisesMseedroundledDellTechnologiesCapitallongrangelidarsensorKyleWig…']
+64,"RT @Patrick1Kennedy: Dell Tech World 2020 is now a virtual event. Early May is essentially done. I know this was not an easy one, but it is…","RT  Dell Tech World 2020 is now a virtual event. Early May is essentially done. I know this was not an easy one, but it is…","['RT', 'Dell', 'Tech', 'World', '2020', 'virtual', 'event.', 'Early', 'May', 'essentially', 'done.', 'I', 'know', 'easy', 'one,', 'is…']","DellTechWorldvirtualevent.EarlyMayessentiallydone.Iknoweasyone,is…",DellTechWorldvirtualeventEarlyMayessentiallydoneIknoweasyoneis…,['DellTechWorldvirtualeventEarlyMayessentiallydoneIknoweasyoneis…']
+65,SiLC Technologies raises $12M seed round led by Dell Technologies Capital for its long range lidar sensor (Kyle Wig… https://t.co/WDoPzO2JVe,SiLC Technologies raises $12M seed round led by Dell Technologies Capital for its long range lidar sensor (Kyle Wig… https://t.co/WDoPzO2JVe,"['SiLC', 'Technologies', 'raises', '$12M', 'seed', 'round', 'led', 'Dell', 'Technologies', 'Capital', 'long', 'range', 'lidar', 'sensor', '(Kyle', 'Wig…']",SiLCTechnologiesraises$MseedroundledDellTechnologiesCapitallongrangelidarsensor(KyleWig…,SiLCTechnologiesraisesMseedroundledDellTechnologiesCapitallongrangelidarsensorKyleWig…,['SiLCTechnologiesraisesMseedroundledDellTechnologiesCapitallongrangelidarsensorKyleWig…']
+66,"Laptops of all brands are now at one platform. 
+
+Contact us: 0303-0300041
+Website:
+https://t.co/EvlYwQKZ1R… https://t.co/0e5q5vFVZL","Laptops of all brands are now at one platform. 
+
+Contact us: 0303-0300041
+Website:
+https://t.co/EvlYwQKZ1R… https://t.co/0e5q5vFVZL","['Laptops', 'brands', 'one', 'platform.', 'Contact', 'us:', '0303-0300041', 'Website:']",Laptopsbrandsoneplatform.Contactus:-Website:,LaptopsbrandsoneplatformContactusWebsite,['LaptopsbrandsoneplatformContactusWebsite']
+67,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+68,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+69,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+70,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+71,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+72,Dell MS116 1000DPI USB Wired Optical Mouse https://t.co/mO0kiWZGNi,Dell MS116 1000DPI USB Wired Optical Mouse https://t.co/mO0kiWZGNi,"['Dell', 'MS116', '1000DPI', 'USB', 'Wired', 'Optical', 'Mouse']",DellMSDPIUSBWiredOpticalMouse,DellMSDPIUSBWiredOpticalMouse,['DellMSDPIUSBWiredOpticalMouse']
+73,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+74,"Dell MS116 1000DPI USB Wired Optical Mouse ,
+https://t.co/GUjxwlk9Ic https://t.co/k2oxlFqTYq","Dell MS116 1000DPI USB Wired Optical Mouse ,
+https://t.co/GUjxwlk9Ic https://t.co/k2oxlFqTYq","['Dell', 'MS116', '1000DPI', 'USB', 'Wired', 'Optical', 'Mouse', ',']","DellMSDPIUSBWiredOpticalMouse,",DellMSDPIUSBWiredOpticalMouse,['DellMSDPIUSBWiredOpticalMouse']
+75,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+76,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+77,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+78,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+79,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+80,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/tIwtlqZWKX","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/tIwtlqZWKX","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+81,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+82,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+83,Dell laptop computer deal: the XPS 13 laptop computer will get an enormous $400 worth reduce… https://t.co/VQ1CiQSPrm,Dell laptop computer deal: the XPS 13 laptop computer will get an enormous $400 worth reduce… https://t.co/VQ1CiQSPrm,"['Dell', 'laptop', 'computer', 'deal:', 'XPS', '13', 'laptop', 'computer', 'get', 'enormous', '$400', 'worth', 'reduce…']",Delllaptopcomputerdeal:XPSlaptopcomputergetenormous$worthreduce…,DelllaptopcomputerdealXPSlaptopcomputergetenormousworthreduce…,['DelllaptopcomputerdealXPSlaptopcomputergetenormousworthreduce…']
+84,"Dell Vostro 3470-2019 Desktop Tower (Core i3-9100 9th Gen, 4 GB DDR4, 1 TB, Win10+Ms Office 2019, WiFi, Bluetooth)… https://t.co/giunBAxsWm","Dell Vostro 3470-2019 Desktop Tower (Core i3-9100 9th Gen, 4 GB DDR4, 1 TB, Win10+Ms Office 2019, WiFi, Bluetooth)… https://t.co/giunBAxsWm","['Dell', 'Vostro', '3470-2019', 'Desktop', 'Tower', '(Core', 'i3-9100', '9th', 'Gen,', '4', 'GB', 'DDR4,', '1', 'TB,', 'Win10+Ms', 'Office', '2019,', 'WiFi,', 'Bluetooth)…']","DellVostro-DesktopTower(Corei-thGen,GBDDR,TB,Win+MsOffice,WiFi,Bluetooth)…",DellVostroDesktopTowerCoreithGenGBDDRTBWinMsOfficeWiFiBluetooth…,['DellVostroDesktopTowerCoreithGenGBDDRTBWinMsOfficeWiFiBluetooth…']
+85,"Dell Inspiron 3470-2018 SFF Desktop (Core i3 8th Gen, 8 GB DDR4, 1 TB, Windows 10 Home, Without Monitor) https://t.co/KK7kJKqktt","Dell Inspiron 3470-2018 SFF Desktop (Core i3 8th Gen, 8 GB DDR4, 1 TB, Windows 10 Home, Without Monitor) https://t.co/KK7kJKqktt","['Dell', 'Inspiron', '3470-2018', 'SFF', 'Desktop', '(Core', 'i3', '8th', 'Gen,', '8', 'GB', 'DDR4,', '1', 'TB,', 'Windows', '10', 'Home,', 'Without', 'Monitor)']","DellInspiron-SFFDesktop(CoreithGen,GBDDR,TB,WindowsHome,WithoutMonitor)",DellInspironSFFDesktopCoreithGenGBDDRTBWindowsHomeWithoutMonitor,['DellInspironSFFDesktopCoreithGenGBDDRTBWindowsHomeWithoutMonitor']
+86,"(Renewed) Dell Optiplex 380 Desktop (Intel Core 2 Duo E7500 2.93 Ghz, 4 GB RAM/ 320 GB HDD/ Windows 7, MS Office, U… https://t.co/A1oHP8OFkC","(Renewed) Dell Optiplex 380 Desktop (Intel Core 2 Duo E7500 2.93 Ghz, 4 GB RAM/ 320 GB HDD/ Windows 7, MS Office, U… https://t.co/A1oHP8OFkC","['(Renewed)', 'Dell', 'Optiplex', '380', 'Desktop', '(Intel', 'Core', '2', 'Duo', 'E7500', '2.93', 'Ghz,', '4', 'GB', 'RAM/', '320', 'GB', 'HDD/', 'Windows', '7,', 'MS', 'Office,', 'U…']","(Renewed)DellOptiplexDesktop(IntelCoreDuoE.Ghz,GBRAM/GBHDD/Windows,MSOffice,U…",RenewedDellOptiplexDesktopIntelCoreDuoEGhzGBRAMGBHDDWindowsMSOfficeU…,['RenewedDellOptiplexDesktopIntelCoreDuoEGhzGBRAMGBHDDWindowsMSOfficeU…']
+87,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+88,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+89,"RT @0xn1ccals: two brooos
+chilling in a hot tuuuub
+five feet apart because RISPETTANO LE INDICAZIONI DELL'OMS https://t.co/9XZCcIs4yz","RT  two brooos
+chilling in a hot tuuuub
+five feet apart because RISPETTANO LE INDICAZIONI DELL'OMS https://t.co/9XZCcIs4yz","['RT', 'two', 'brooos', 'chilling', 'hot', 'tuuuub', 'five', 'feet', 'apart', 'RISPETTANO', 'LE', 'INDICAZIONI', ""DELL'OMS""]",twobroooschillinghottuuuubfivefeetapartRISPETTANOLEINDICAZIONIDELL'OMS,twobroooschillinghottuuuubfivefeetapartRISPETTANOLEINDICAZIONIDELLOMS,['twobroooschillinghottuuuubfivefeetapartRISPETTANOLEINDICAZIONIDELLOMS']
+90,Kaltenbach Open Air – Running Order dell'edizione 2020 https://t.co/oT5byE7pbL https://t.co/QUdj3ukbEy,Kaltenbach Open Air – Running Order dell'edizione 2020 https://t.co/oT5byE7pbL https://t.co/QUdj3ukbEy,"['Kaltenbach', 'Open', 'Air', '–', 'Running', 'Order', ""dell'edizione"", '2020']",KaltenbachOpenAir–RunningOrderdell'edizione,KaltenbachOpenAir–RunningOrderdelledizione,['KaltenbachOpenAir–RunningOrderdelledizione']
+91,Comparing Dell's premium XPS 15 to the Inspiron 15 7000 https://t.co/BBosU1bNTr https://t.co/VxFrgMdPnM,Comparing Dell's premium XPS 15 to the Inspiron 15 7000 https://t.co/BBosU1bNTr https://t.co/VxFrgMdPnM,"['Comparing', ""Dell's"", 'premium', 'XPS', '15', 'Inspiron', '15', '7000']",ComparingDell'spremiumXPSInspiron,ComparingDellspremiumXPSInspiron,['ComparingDellspremiumXPSInspiron']
+92,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+93,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+94,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+95,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+96,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+97,RT @TechMarketBeat: Dell Technologies: Why The Market Is Not Buying A SOTP Argument - A Different Route To 100% Upside - Behind The Idea $D…,RT  Dell Technologies: Why The Market Is Not Buying A SOTP Argument - A Different Route To 100% Upside - Behind The Idea $D…,"['RT', 'Dell', 'Technologies:', 'Why', 'The', 'Market', 'Is', 'Not', 'Buying', 'A', 'SOTP', 'Argument', '-', 'A', 'Different', 'Route', 'To', '100%', 'Upside', '-', 'Behind', 'The', 'Idea', '$D…']",DellTechnologies:WhyTheMarketIsNotBuyingASOTPArgument-ADifferentRouteTo%Upside-BehindTheIdea$D…,DellTechnologiesWhyTheMarketIsNotBuyingASOTPArgumentADifferentRouteToUpsideBehindTheIdeaD…,['DellTechnologiesWhyTheMarketIsNotBuyingASOTPArgumentADifferentRouteToUpsideBehindTheIdeaD…']
+98,"WGC-Dell Technologies Match Play still a go, despite cancellation of SXSW https://t.co/cLXHcXrsOw","WGC-Dell Technologies Match Play still a go, despite cancellation of SXSW https://t.co/cLXHcXrsOw","['WGC-Dell', 'Technologies', 'Match', 'Play', 'still', 'go,', 'despite', 'cancellation', 'SXSW']","WGC-DellTechnologiesMatchPlaystillgo,despitecancellationSXSW",WGCDellTechnologiesMatchPlaystillgodespitecancellationSXSW,['WGCDellTechnologiesMatchPlaystillgodespitecancellationSXSW']
+99,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+100,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+101,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+102,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/2dWhJxTkFf","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/2dWhJxTkFf","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+103,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+104,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+105,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+106,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+107,"RT @Chris_Mellor: (1) Wow. Dell Technologies world physical event cancelled. Dell says: ""We have decided to make Dell Technologies World 20…","RT  (1) Wow. Dell Technologies world physical event cancelled. Dell says: ""We have decided to make Dell Technologies World 20…","['RT', '(1)', 'Wow.', 'Dell', 'Technologies', 'world', 'physical', 'event', 'cancelled.', 'Dell', 'says:', '""We', 'decided', 'make', 'Dell', 'Technologies', 'World', '20…']","()Wow.DellTechnologiesworldphysicaleventcancelled.Dellsays:""WedecidedmakeDellTechnologiesWorld…",WowDellTechnologiesworldphysicaleventcancelledDellsaysWedecidedmakeDellTechnologiesWorld…,['WowDellTechnologiesworldphysicaleventcancelledDellsaysWedecidedmakeDellTechnologiesWorld…']
+108,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+109,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+110,Dell laptop deal: the XPS 13 laptop gets a massive $400 price cut https://t.co/HY52vghgT3,Dell laptop deal: the XPS 13 laptop gets a massive $400 price cut https://t.co/HY52vghgT3,"['Dell', 'laptop', 'deal:', 'XPS', '13', 'laptop', 'gets', 'massive', '$400', 'price', 'cut']",Delllaptopdeal:XPSlaptopgetsmassive$pricecut,DelllaptopdealXPSlaptopgetsmassivepricecut,['DelllaptopdealXPSlaptopgetsmassivepricecut']
+111,"RT @acmilan: #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the victims ❤
+
+In u…","RT  #OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the victims ❤
+
+In u…","['RT', '#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'victims', '❤', 'In', 'u…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevictims❤Inu…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevictims❤Inu…']
+112,Dell Technologies World said the decision is a way to deliver important keynotes while keeping its team healthy and… https://t.co/rzmXIT6qUM,Dell Technologies World said the decision is a way to deliver important keynotes while keeping its team healthy and… https://t.co/rzmXIT6qUM,"['Dell', 'Technologies', 'World', 'said', 'decision', 'way', 'deliver', 'important', 'keynotes', 'keeping', 'team', 'healthy', 'and…']",DellTechnologiesWorldsaiddecisionwaydeliverimportantkeynoteskeepingteamhealthyand…,DellTechnologiesWorldsaiddecisionwaydeliverimportantkeynoteskeepingteamhealthyand…,['DellTechnologiesWorldsaiddecisionwaydeliverimportantkeynoteskeepingteamhealthyand…']
+113,"#OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain @FBaresi paid tribute to the vict… https://t.co/Sad1GVfZM6","#OnThisDay 🗓
+On our first visit to Heysel following the 1985 tragedy, our Captain  paid tribute to the vict… https://t.co/Sad1GVfZM6","['#OnThisDay', '🗓', 'On', 'first', 'visit', 'Heysel', 'following', '1985', 'tragedy,', 'Captain', 'paid', 'tribute', 'vict…']","#OnThisDay🗓OnfirstvisitHeyselfollowingtragedy,Captainpaidtributevict…",OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevict…,['OnThisDay🗓OnfirstvisitHeyselfollowingtragedyCaptainpaidtributevict…']
+114,"Dell - 12v Dc Fan Assembly For Poweredge R510 R515 (4f56n) 4F56N
+
+DELL - 12V DC FAN ASSEMBLY FOR POWEREDGE R510 R51… https://t.co/FvF7iY1dRe","Dell - 12v Dc Fan Assembly For Poweredge R510 R515 (4f56n) 4F56N
+
+DELL - 12V DC FAN ASSEMBLY FOR POWEREDGE R510 R51… https://t.co/FvF7iY1dRe","['Dell', '-', '12v', 'Dc', 'Fan', 'Assembly', 'For', 'Poweredge', 'R510', 'R515', '(4f56n)', '4F56N', 'DELL', '-', '12V', 'DC', 'FAN', 'ASSEMBLY', 'FOR', 'POWEREDGE', 'R510', 'R51…']",Dell-vDcFanAssemblyForPoweredgeRR(fn)FNDELL-VDCFANASSEMBLYFORPOWEREDGERR…,DellvDcFanAssemblyForPoweredgeRRfnFNDELLVDCFANASSEMBLYFORPOWEREDGERR…,['DellvDcFanAssemblyForPoweredgeRRfnFNDELLVDCFANASSEMBLYFORPOWEREDGERR…']
+115,Dell U3419W UltraSharp 34 219 Curved IPS Monitor ( Discount 27 % ) #Dell #U3419W #UltraSharp… https://t.co/AlXxyEtUub,Dell U3419W UltraSharp 34 219 Curved IPS Monitor ( Discount 27 % ) #Dell #U3419W #UltraSharp… https://t.co/AlXxyEtUub,"['Dell', 'U3419W', 'UltraSharp', '34', '219', 'Curved', 'IPS', 'Monitor', '(', 'Discount', '27', '%', ')', '#Dell', '#U3419W', '#UltraSharp…']",DellUWUltraSharpCurvedIPSMonitor(Discount%)#Dell#UW#UltraSharp…,DellUWUltraSharpCurvedIPSMonitorDiscountDellUWUltraSharp…,['DellUWUltraSharpCurvedIPSMonitorDiscountDellUWUltraSharp…']
+116,Love this photo a huge thank you from The U10/U11 and all of us from Worthing Warriors to @PokemonNewsUK @mskubala… https://t.co/85MFvW6ahb,Love this photo a huge thank you from The U10/U11 and all of us from Worthing Warriors to   https://t.co/85MFvW6ahb,"['Love', 'photo', 'huge', 'thank', 'The', 'U10/U11', 'us', 'Worthing', 'Warriors']",LovephotohugethankTheU/UusWorthingWarriors,LovephotohugethankTheUUusWorthingWarriors,['LovephotohugethankTheUUusWorthingWarriors']
+117,RT @DellEMCHealth: Read this @DellTech ebook to learn how the healthcare industry is using the power of AI to transform medical imaging htt…,RT  Read this  ebook to learn how the healthcare industry is using the power of AI to transform medical imaging htt…,"['RT', 'Read', 'ebook', 'learn', 'healthcare', 'industry', 'using', 'power', 'AI', 'transform', 'medical', 'imaging', 'htt…']",ReadebooklearnhealthcareindustryusingpowerAItransformmedicalimaginghtt…,ReadebooklearnhealthcareindustryusingpowerAItransformmedicalimaginghtt…,['ReadebooklearnhealthcareindustryusingpowerAItransformmedicalimaginghtt…']
+118,"RT @IncorrectMMX: Axl: y’all ever remember that you’re legally an adult, like, i could go crazy go stupid all i want and i ain’t even gotta…","RT  Axl: y’all ever remember that you’re legally an adult, like, i could go crazy go stupid all i want and i ain’t even gotta…","['RT', 'Axl:', 'y’all', 'ever', 'remember', 'you’re', 'legally', 'adult,', 'like,', 'could', 'go', 'crazy', 'go', 'stupid', 'want', 'ain’t', 'even', 'gotta…']","Axl:y’alleverrememberyou’relegallyadult,like,couldgocrazygostupidwantain’tevengotta…",Axly’alleverrememberyou’relegallyadultlikecouldgocrazygostupidwantain’tevengotta…,['Axly’alleverrememberyou’relegallyadultlikecouldgocrazygostupidwantain’tevengotta…']
+119,@BeartikalRBLX Dell XPS13 inch. I got the Intel I7 processor with the 4k touch screen. Got it in September and it i… https://t.co/UEKS75D5r9, Dell XPS13 inch. I got the Intel I7 processor with the 4k touch screen. Got it in September and it i… https://t.co/UEKS75D5r9,"['Dell', 'XPS13', 'inch.', 'I', 'got', 'Intel', 'I7', 'processor', '4k', 'touch', 'screen.', 'Got', 'September', 'i…']",DellXPSinch.IgotIntelIprocessorktouchscreen.GotSeptemberi…,DellXPSinchIgotIntelIprocessorktouchscreenGotSeptemberi…,['DellXPSinchIgotIntelIprocessorktouchscreenGotSeptemberi…']
+120,RT @ShivKum08599960: Old Laptop Sell online android app. It is very easy and simple app which you can sale your laptop best price and quick…,RT  Old Laptop Sell online android app. It is very easy and simple app which you can sale your laptop best price and quick…,"['RT', 'Old', 'Laptop', 'Sell', 'online', 'android', 'app.', 'It', 'easy', 'simple', 'app', 'sale', 'laptop', 'best', 'price', 'quick…']",OldLaptopSellonlineandroidapp.Iteasysimpleappsalelaptopbestpricequick…,OldLaptopSellonlineandroidappIteasysimpleappsalelaptopbestpricequick…,['OldLaptopSellonlineandroidappIteasysimpleappsalelaptopbestpricequick…']
+121,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+122,"RT @CarlaSchroder: New toy! er I mean serious work tool. Dell Ultrabook (Latitude E7240). 12.5"" of screamin' portable power. It comes with…","RT  New toy! er I mean serious work tool. Dell Ultrabook (Latitude E7240). 12.5"" of screamin' portable power. It comes with…","['RT', 'New', 'toy!', 'er', 'I', 'mean', 'serious', 'work', 'tool.', 'Dell', 'Ultrabook', '(Latitude', 'E7240).', '12.5""', ""screamin'"", 'portable', 'power.', 'It', 'comes', 'with…']","Newtoy!erImeanseriousworktool.DellUltrabook(LatitudeE)..""screamin'portablepower.Itcomeswith…",NewtoyerImeanseriousworktoolDellUltrabookLatitudeEscreaminportablepowerItcomeswith…,['NewtoyerImeanseriousworktoolDellUltrabookLatitudeEscreaminportablepowerItcomeswith…']
+123,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+124,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/wOZM6g1pCe","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/wOZM6g1pCe","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+125,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+126,#hashtag2 90W Charger for Dell Vostro 3460 3560 2420 2421  /BS https://t.co/i6NAM0PbqK https://t.co/hHQXy5YM17,#hashtag2 90W Charger for Dell Vostro 3460 3560 2420 2421  /BS https://t.co/i6NAM0PbqK https://t.co/hHQXy5YM17,"['#hashtag2', '90W', 'Charger', 'Dell', 'Vostro', '3460', '3560', '2420', '2421', '/BS']",#hashtagWChargerDellVostro/BS,hashtagWChargerDellVostroBS,['hashtagWChargerDellVostroBS']
+127,"RT @GbadeUmar: Pls🙏🙏🙏🙏, kindly retweet if u see this on your TL. My customer might be next to u. Dell E7470, Corei5, Torch Screen, 14.0 Inc…","RT  Pls🙏🙏🙏🙏, kindly retweet if u see this on your TL. My customer might be next to u. Dell E7470, Corei5, Torch Screen, 14.0 Inc…","['RT', 'Pls🙏🙏🙏🙏,', 'kindly', 'retweet', 'u', 'see', 'TL.', 'My', 'customer', 'might', 'next', 'u.', 'Dell', 'E7470,', 'Corei5,', 'Torch', 'Screen,', '14.0', 'Inc…']","Pls🙏🙏🙏🙏,kindlyretweetuseeTL.Mycustomermightnextu.DellE,Corei,TorchScreen,.Inc…",Pls🙏🙏🙏🙏kindlyretweetuseeTLMycustomermightnextuDellECoreiTorchScreenInc…,['Pls🙏🙏🙏🙏kindlyretweetuseeTLMycustomermightnextuDellECoreiTorchScreenInc…']
+128,"@CarlaSchroder Though I know you're an Uber geek, feel free to contact me by MP or email if you have to think hard… https://t.co/VFUZp6CmsQ"," Though I know you're an Uber geek, feel free to contact me by MP or email if you have to think hard… https://t.co/VFUZp6CmsQ","['Though', 'I', 'know', 'Uber', 'geek,', 'feel', 'free', 'contact', 'MP', 'email', 'think', 'hard…']","ThoughIknowUbergeek,feelfreecontactMPemailthinkhard…",ThoughIknowUbergeekfeelfreecontactMPemailthinkhard…,['ThoughIknowUbergeekfeelfreecontactMPemailthinkhard…']
+129,"RT @SweetDell: Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Earth's Survi…","RT  Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Earth's Survi…","['RT', 'Borderline:', 'Collected', 'Short', 'Stories', 'Dell', 'Sweet', 'All', 'Dell', ""Sweet's"", 'books', 'Kobo,', ""Earth's"", 'Survi…']","Borderline:CollectedShortStoriesDellSweetAllDellSweet'sbooksKobo,Earth'sSurvi…",BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEarthsSurvi…,['BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEarthsSurvi…']
+130,"@SwiftOnSecurity By standard I meant what they say is safe for normal cleaning.
+
+Dell:
+https://t.co/tQoa1lust7
+
+App… https://t.co/oOOncKpIKU"," By standard I meant what they say is safe for normal cleaning.
+
+Dell:
+https://t.co/tQoa1lust7
+
+App… https://t.co/oOOncKpIKU","['By', 'standard', 'I', 'meant', 'say', 'safe', 'normal', 'cleaning.', 'Dell:', 'App…']",BystandardImeantsaysafenormalcleaning.Dell:App…,BystandardImeantsaysafenormalcleaningDellApp…,['BystandardImeantsaysafenormalcleaningDellApp…']
+131,"As enterprises transform their networks, both Dell Technologies and @Intel are enabling virtualization of workloads… https://t.co/xXagK5A3lk","As enterprises transform their networks, both Dell Technologies and  are enabling virtualization of workloads… https://t.co/xXagK5A3lk","['As', 'enterprises', 'transform', 'networks,', 'Dell', 'Technologies', 'enabling', 'virtualization', 'workloads…']","Asenterprisestransformnetworks,DellTechnologiesenablingvirtualizationworkloads…",AsenterprisestransformnetworksDellTechnologiesenablingvirtualizationworkloads…,['AsenterprisestransformnetworksDellTechnologiesenablingvirtualizationworkloads…']
+132,"@rainsford14 @laythy29 Yes it was Jimmy at the dell, 4 stitches in my shin at half time, then 10 mins into the 2nd… https://t.co/TwqQrrciAc","  Yes it was Jimmy at the dell, 4 stitches in my shin at half time, then 10 mins into the 2nd… https://t.co/TwqQrrciAc","['Yes', 'Jimmy', 'dell,', '4', 'stitches', 'shin', 'half', 'time,', '10', 'mins', '2nd…']","YesJimmydell,stitchesshinhalftime,minsnd…",YesJimmydellstitchesshinhalftimeminsnd…,['YesJimmydellstitchesshinhalftimeminsnd…']
+133,You niggas Microsoft so tell me what’s the dell #FreeTayK,You niggas Microsoft so tell me what’s the dell #FreeTayK,"['You', 'niggas', 'Microsoft', 'tell', 'what’s', 'dell', '#FreeTayK']",YouniggasMicrosofttellwhat’sdell#FreeTayK,YouniggasMicrosofttellwhat’sdellFreeTayK,['YouniggasMicrosofttellwhat’sdellFreeTayK']
+134,@RichardBrer Kicked off everywhere when we played Norwich in a FA cup game at the Dell back in the 90s 0-0 was the score shite game to., Kicked off everywhere when we played Norwich in a FA cup game at the Dell back in the 90s 0-0 was the score shite game to.,"['Kicked', 'everywhere', 'played', 'Norwich', 'FA', 'cup', 'game', 'Dell', 'back', '90s', '0-0', 'score', 'shite', 'game', 'to.']",KickedeverywhereplayedNorwichFAcupgameDellbacks-scoreshitegameto.,KickedeverywhereplayedNorwichFAcupgameDellbacksscoreshitegameto,['KickedeverywhereplayedNorwichFAcupgameDellbacksscoreshitegameto']
+135,"RT @str_xr: Lil Herb: “aye bibby let’s kill shit broski watchu wanna do “
+
+me in 2014: https://t.co/Go33jq5TjJ","RT  Lil Herb: “aye bibby let’s kill shit broski watchu wanna do “
+
+me in 2014: https://t.co/Go33jq5TjJ","['RT', 'Lil', 'Herb:', '“aye', 'bibby', 'let’s', 'kill', 'shit', 'broski', 'watchu', 'wanna', '“', '2014:']",LilHerb:“ayebibbylet’skillshitbroskiwatchuwanna“:,LilHerb“ayebibbylet’skillshitbroskiwatchuwanna“,['LilHerb“ayebibbylet’skillshitbroskiwatchuwanna“']
+136,RT @FederalistNo78: @exprincehall @KcRated @2xwide_dreaming @CarrollQuigley1 @We_Have_Risen @Shorty56167141 @RTerriers @TribbleIndustr1 @Th…,RT          ,['RT'],,,[]
+137,"RT @PaBLO1759: @barnabasjohnnie Na Pako Dell you dey use ni.. Pentium 1
+😁","RT   Na Pako Dell you dey use ni.. Pentium 1
+😁","['RT', 'Na', 'Pako', 'Dell', 'dey', 'use', 'ni..', 'Pentium', '1', '😁']",NaPakoDelldeyuseni..Pentium😁,NaPakoDelldeyuseniPentium😁,['NaPakoDelldeyuseniPentium😁']
+138,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/m0Z1VCBuUc","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/m0Z1VCBuUc","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+139,@SwiftOnSecurity The EPA actually posted a list of approved cleaning solutions a few days ago.… https://t.co/IXnEvpjMTW, The EPA actually posted a list of approved cleaning solutions a few days ago.… https://t.co/IXnEvpjMTW,"['The', 'EPA', 'actually', 'posted', 'list', 'approved', 'cleaning', 'solutions', 'days', 'ago.…']",TheEPAactuallypostedlistapprovedcleaningsolutionsdaysago.…,TheEPAactuallypostedlistapprovedcleaningsolutionsdaysago…,['TheEPAactuallypostedlistapprovedcleaningsolutionsdaysago…']
+140,@eunhykst ovviamente knowing bros best thing ever happened to il mondo dell’intrattenimento, ovviamente knowing bros best thing ever happened to il mondo dell’intrattenimento,"['ovviamente', 'knowing', 'bros', 'best', 'thing', 'ever', 'happened', 'il', 'mondo', 'dell’intrattenimento']",ovviamenteknowingbrosbestthingeverhappenedilmondodell’intrattenimento,ovviamenteknowingbrosbestthingeverhappenedilmondodell’intrattenimento,['ovviamenteknowingbrosbestthingeverhappenedilmondodell’intrattenimento']
+141,RT @Oddficial: @Fosudo Please I want the iXpand Flash Drive as I have an iPhone and a Dell PC of 128GB and transferring video files is alwa…,RT   Please I want the iXpand Flash Drive as I have an iPhone and a Dell PC of 128GB and transferring video files is alwa…,"['RT', 'Please', 'I', 'want', 'iXpand', 'Flash', 'Drive', 'I', 'iPhone', 'Dell', 'PC', '128GB', 'transferring', 'video', 'files', 'alwa…']",PleaseIwantiXpandFlashDriveIiPhoneDellPCGBtransferringvideofilesalwa…,PleaseIwantiXpandFlashDriveIiPhoneDellPCGBtransferringvideofilesalwa…,['PleaseIwantiXpandFlashDriveIiPhoneDellPCGBtransferringvideofilesalwa…']
+142,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/o3Dqn8jqFu","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/o3Dqn8jqFu","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+143,RT @aidannn77: “When your girlfriend is on her period” Help me 😫🙏🏽😂 https://t.co/V3zPiVei5N,RT  “When your girlfriend is on her period” Help me 😫🙏🏽😂 https://t.co/V3zPiVei5N,"['RT', '“When', 'girlfriend', 'period”', 'Help', '😫🙏🏽😂']",“Whengirlfriendperiod”Help😫🙏🏽😂,“Whengirlfriendperiod”Help😫🙏🏽😂,['“Whengirlfriendperiod”Help😫🙏🏽😂']
+144,BACH FOREVER......VINICIO PLAYING IN OPERA HOUSE THEATRE ROME - ITALY @ Teatro dell'Opera di Roma https://t.co/JjumDDijbi,BACH FOREVER......VINICIO PLAYING IN OPERA HOUSE THEATRE ROME - ITALY @ Teatro dell'Opera di Roma https://t.co/JjumDDijbi,"['BACH', 'FOREVER......VINICIO', 'PLAYING', 'IN', 'OPERA', 'HOUSE', 'THEATRE', 'ROME', '-', 'ITALY', '@', 'Teatro', ""dell'Opera"", 'di', 'Roma']",BACHFOREVER......VINICIOPLAYINGINOPERAHOUSETHEATREROME-ITALY@Teatrodell'OperadiRoma,BACHFOREVERVINICIOPLAYINGINOPERAHOUSETHEATREROMEITALYTeatrodellOperadiRoma,['BACHFOREVERVINICIOPLAYINGINOPERAHOUSETHEATREROMEITALYTeatrodellOperadiRoma']
+145,Dell – 12v Dc Fan Assembly For Poweredge R510 R515 (4f56n) https://t.co/JzmTNAdKZW https://t.co/yz6vxslBpw,Dell – 12v Dc Fan Assembly For Poweredge R510 R515 (4f56n) https://t.co/JzmTNAdKZW https://t.co/yz6vxslBpw,"['Dell', '–', '12v', 'Dc', 'Fan', 'Assembly', 'For', 'Poweredge', 'R510', 'R515', '(4f56n)']",Dell–vDcFanAssemblyForPoweredgeRR(fn),Dell–vDcFanAssemblyForPoweredgeRRfn,['Dell–vDcFanAssemblyForPoweredgeRRfn']
+146,Derrty Redd (Big Bagz) Produced &amp; shot by (Dp. Poole) https://t.co/dx7S5rpq0Q via @YouTube,Derrty Redd (Big Bagz) Produced &amp; shot by (Dp. Poole) https://t.co/dx7S5rpq0Q via ,"['Derrty', 'Redd', '(Big', 'Bagz)', 'Produced', '&amp;', 'shot', '(Dp.', 'Poole)', 'via']",DerrtyRedd(BigBagz)Produced&amp;shot(Dp.Poole)via,DerrtyReddBigBagzProducedampshotDpPoolevia,['DerrtyReddBigBagzProducedampshotDpPoolevia']
+147,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/mideXk58Jx","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/mideXk58Jx","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+148,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/DriuImCqs3","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/DriuImCqs3","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+149,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/jDz4UCz9lt","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/jDz4UCz9lt","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+150,Dell Inspiron 3480 14-inch Thin &amp; Light Laptop (8th Gen Intel Core i5-8265U/8GB/1TB HDD/Windows 10 + MS Office/Inte… https://t.co/gBTW7eIFxC,Dell Inspiron 3480 14-inch Thin &amp; Light Laptop (8th Gen Intel Core i5-8265U/8GB/1TB HDD/Windows 10 + MS Office/Inte… https://t.co/gBTW7eIFxC,"['Dell', 'Inspiron', '3480', '14-inch', 'Thin', '&amp;', 'Light', 'Laptop', '(8th', 'Gen', 'Intel', 'Core', 'i5-8265U/8GB/1TB', 'HDD/Windows', '10', '+', 'MS', 'Office/Inte…']",DellInspiron-inchThin&amp;LightLaptop(thGenIntelCorei-U/GB/TBHDD/Windows+MSOffice/Inte…,DellInspironinchThinampLightLaptopthGenIntelCoreiUGBTBHDDWindowsMSOfficeInte…,['DellInspironinchThinampLightLaptopthGenIntelCoreiUGBTBHDDWindowsMSOfficeInte…']
+151,A Dell Latitude 2120 Netbook I received from my boss yesterday. #dell #dellcomputers #delllatitude2120 #technology… https://t.co/rdg4QOBGhz,A Dell Latitude 2120 Netbook I received from my boss yesterday. #dell #dellcomputers #delllatitude2120 #technology… https://t.co/rdg4QOBGhz,"['A', 'Dell', 'Latitude', '2120', 'Netbook', 'I', 'received', 'boss', 'yesterday.', '#dell', '#dellcomputers', '#delllatitude2120', '#technology…']",ADellLatitudeNetbookIreceivedbossyesterday.#dell#dellcomputers#delllatitude#technology…,ADellLatitudeNetbookIreceivedbossyesterdaydelldellcomputersdelllatitudetechnology…,['ADellLatitudeNetbookIreceivedbossyesterdaydelldellcomputersdelllatitudetechnology…']
+152,"If you looking for Reliable &amp;amp; Professional Dell Laptop Service center below dell authorized service center
+and… https://t.co/HxLR4mNyXT","If you looking for Reliable &amp;amp; Professional Dell Laptop Service center below dell authorized service center
+and… https://t.co/HxLR4mNyXT","['If', 'looking', 'Reliable', '&amp;amp;', 'Professional', 'Dell', 'Laptop', 'Service', 'center', 'dell', 'authorized', 'service', 'center', 'and…']",IflookingReliable&amp;amp;ProfessionalDellLaptopServicecenterdellauthorizedservicecenterand…,IflookingReliableampampProfessionalDellLaptopServicecenterdellauthorizedservicecenterand…,['IflookingReliableampampProfessionalDellLaptopServicecenterdellauthorizedservicecenterand…']
+153,"Dell Latitude E5570 Core i5 6th Gen Laptop, 8 GB RAM, 256 GB SSD, 15.6"" numpad Rs. 45,000/-
+Specs
+Brand:Dell
+Model:… https://t.co/ih8CtYHkJH","Dell Latitude E5570 Core i5 6th Gen Laptop, 8 GB RAM, 256 GB SSD, 15.6"" numpad Rs. 45,000/-
+Specs
+Brand:Dell
+Model:… https://t.co/ih8CtYHkJH","['Dell', 'Latitude', 'E5570', 'Core', 'i5', '6th', 'Gen', 'Laptop,', '8', 'GB', 'RAM,', '256', 'GB', 'SSD,', '15.6""', 'numpad', 'Rs.', '45,000/-', 'Specs', 'Brand:Dell', 'Model:…']","DellLatitudeECoreithGenLaptop,GBRAM,GBSSD,.""numpadRs.,/-SpecsBrand:DellModel:…",DellLatitudeECoreithGenLaptopGBRAMGBSSDnumpadRsSpecsBrandDellModel…,['DellLatitudeECoreithGenLaptopGBRAMGBSSDnumpadRsSpecsBrandDellModel…']
+154,"RT @Protodude: Thank you, Rockman X DiVE, for looking out for us. https://t.co/QCYDZt9UOn","RT  Thank you, Rockman X DiVE, for looking out for us. https://t.co/QCYDZt9UOn","['RT', 'Thank', 'you,', 'Rockman', 'X', 'DiVE,', 'looking', 'us.']","Thankyou,RockmanXDiVE,lookingus.",ThankyouRockmanXDiVElookingus,['ThankyouRockmanXDiVElookingus']
+155,"Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/co7BbeMOJE","Multifunction Printers Market Latest Sales Figure Signals More Opportunities Ahead : Canon, Dell, Hewlett-Packard C… https://t.co/co7BbeMOJE","['Multifunction', 'Printers', 'Market', 'Latest', 'Sales', 'Figure', 'Signals', 'More', 'Opportunities', 'Ahead', ':', 'Canon,', 'Dell,', 'Hewlett-Packard', 'C…']","MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAhead:Canon,Dell,Hewlett-PackardC…",MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…,['MultifunctionPrintersMarketLatestSalesFigureSignalsMoreOpportunitiesAheadCanonDellHewlettPackardC…']
+156,This dell service center is the right choice for your search gets an instant solution for your Dell Laptop service.… https://t.co/MzVVjfvZ8c,This dell service center is the right choice for your search gets an instant solution for your Dell Laptop service.… https://t.co/MzVVjfvZ8c,"['This', 'dell', 'service', 'center', 'right', 'choice', 'search', 'gets', 'instant', 'solution', 'Dell', 'Laptop', 'service.…']",ThisdellservicecenterrightchoicesearchgetsinstantsolutionDellLaptopservice.…,ThisdellservicecenterrightchoicesearchgetsinstantsolutionDellLaptopservice…,['ThisdellservicecenterrightchoicesearchgetsinstantsolutionDellLaptopservice…']
+157,@Birdielk @SinBinVegas That's my only concern. He had a quick trigger finger with Jones/Dell the past season and a… https://t.co/6gBPyzwdkM,  That's my only concern. He had a quick trigger finger with Jones/Dell the past season and a… https://t.co/6gBPyzwdkM,"[""That's"", 'concern.', 'He', 'quick', 'trigger', 'finger', 'Jones/Dell', 'past', 'season', 'a…']",That'sconcern.HequicktriggerfingerJones/Dellpastseasona…,ThatsconcernHequicktriggerfingerJonesDellpastseasona…,['ThatsconcernHequicktriggerfingerJonesDellpastseasona…']
+158,⁦@PTXofficial⁩ - I was recently traveling in New Zealand and discovered this song.. Please consider covering it. I… https://t.co/rFjIJL5jia,⁦ - I was recently traveling in New Zealand and discovered this song.. Please consider covering it. I… https://t.co/rFjIJL5jia,"['\u2066', '-', 'I', 'recently', 'traveling', 'New', 'Zealand', 'discovered', 'song..', 'Please', 'consider', 'covering', 'it.', 'I…']",⁦-IrecentlytravelingNewZealanddiscoveredsong..Pleaseconsidercoveringit.I…,⁦IrecentlytravelingNewZealanddiscoveredsongPleaseconsidercoveringitI…,['\u2066IrecentlytravelingNewZealanddiscoveredsongPleaseconsidercoveringitI…']
+159,"Dell Adamo 13 Motherboard with Intel SU9400 Core 2 Duo 1.4Ghz / 2GB Memory - V365N
+https://t.co/0VrQt1taxK https://t.co/LNY9Nfz2Jz","Dell Adamo 13 Motherboard with Intel SU9400 Core 2 Duo 1.4Ghz / 2GB Memory - V365N
+https://t.co/0VrQt1taxK https://t.co/LNY9Nfz2Jz","['Dell', 'Adamo', '13', 'Motherboard', 'Intel', 'SU9400', 'Core', '2', 'Duo', '1.4Ghz', '/', '2GB', 'Memory', '-', 'V365N']",DellAdamoMotherboardIntelSUCoreDuo.Ghz/GBMemory-VN,DellAdamoMotherboardIntelSUCoreDuoGhzGBMemoryVN,['DellAdamoMotherboardIntelSUCoreDuoGhzGBMemoryVN']
+160,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+161,@BenFennell_NFL Ron'Dell Carter DL James Madison, Ron'Dell Carter DL James Madison,"[""Ron'Dell"", 'Carter', 'DL', 'James', 'Madison']",Ron'DellCarterDLJamesMadison,RonDellCarterDLJamesMadison,['RonDellCarterDLJamesMadison']
+162,"RT @mattmoniz: NEW VIDEO!!!
+
+DELL XPS 13 (2020) Review - It's Good BUT... https://t.co/kn9252FZ0J
+
+Retweets Appreciated! 🔥🔥
+#DellXPS13 #Del…","RT  NEW VIDEO!!!
+
+DELL XPS 13 (2020) Review - It's Good BUT... https://t.co/kn9252FZ0J
+
+Retweets Appreciated! 🔥🔥
+#DellXPS13 #Del…","['RT', 'NEW', 'VIDEO!!!', 'DELL', 'XPS', '13', '(2020)', 'Review', '-', ""It's"", 'Good', 'BUT...', 'Retweets', 'Appreciated!', '🔥🔥', '#DellXPS13', '#Del…']",NEWVIDEO!!!DELLXPS()Review-It'sGoodBUT...RetweetsAppreciated!🔥🔥#DellXPS#Del…,NEWVIDEODELLXPSReviewItsGoodBUTRetweetsAppreciated🔥🔥DellXPSDel…,['NEWVIDEODELLXPSReviewItsGoodBUTRetweetsAppreciated🔥🔥DellXPSDel…']
+163,"💥 Dell MS116 1000DPI USB Wired Optical Mouse at Rs.210
+👉 https://t.co/EfSjN7kNmH","💥 Dell MS116 1000DPI USB Wired Optical Mouse at Rs.210
+👉 https://t.co/EfSjN7kNmH","['💥', 'Dell', 'MS116', '1000DPI', 'USB', 'Wired', 'Optical', 'Mouse', 'Rs.210', '👉']",💥DellMSDPIUSBWiredOpticalMouseRs.👉,💥DellMSDPIUSBWiredOpticalMouseRs👉,['💥DellMSDPIUSBWiredOpticalMouseRs👉']
+164,"RT @RyanHigginsRyan: The Joker 80th Anniversary 100-Page Super Spectacular #1 are up!
+
+1950s variant cover by David Finch and Steve Firchow…","RT  The Joker 80th Anniversary 100-Page Super Spectacular #1 are up!
+
+1950s variant cover by David Finch and Steve Firchow…","['RT', 'The', 'Joker', '80th', 'Anniversary', '100-Page', 'Super', 'Spectacular', '#1', 'up!', '1950s', 'variant', 'cover', 'David', 'Finch', 'Steve', 'Firchow…']",TheJokerthAnniversary-PageSuperSpectacular#up!svariantcoverDavidFinchSteveFirchow…,TheJokerthAnniversaryPageSuperSpectacularupsvariantcoverDavidFinchSteveFirchow…,['TheJokerthAnniversaryPageSuperSpectacularupsvariantcoverDavidFinchSteveFirchow…']
+165,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+166,"RT @SweetDell: Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Earth's Survi…","RT  Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Earth's Survi…","['RT', 'Borderline:', 'Collected', 'Short', 'Stories', 'Dell', 'Sweet', 'All', 'Dell', ""Sweet's"", 'books', 'Kobo,', ""Earth's"", 'Survi…']","Borderline:CollectedShortStoriesDellSweetAllDellSweet'sbooksKobo,Earth'sSurvi…",BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEarthsSurvi…,['BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEarthsSurvi…']
+167,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+168,"RT @ioreilly85: Considering we were 3 down after 6 minutes gladly take a6 point lead 
+Archer excellent off the ground but really impressed…","RT  Considering we were 3 down after 6 minutes gladly take a6 point lead 
+Archer excellent off the ground but really impressed…","['RT', 'Considering', '3', '6', 'minutes', 'gladly', 'take', 'a6', 'point', 'lead', 'Archer', 'excellent', 'ground', 'really', 'impressed…']",ConsideringminutesgladlytakeapointleadArcherexcellentgroundreallyimpressed…,ConsideringminutesgladlytakeapointleadArcherexcellentgroundreallyimpressed…,['ConsideringminutesgladlytakeapointleadArcherexcellentgroundreallyimpressed…']
+169,RT @Oddficial: @Fosudo Please I want the iXpand Flash Drive as I have an iPhone and a Dell PC of 128GB and transferring video files is alwa…,RT   Please I want the iXpand Flash Drive as I have an iPhone and a Dell PC of 128GB and transferring video files is alwa…,"['RT', 'Please', 'I', 'want', 'iXpand', 'Flash', 'Drive', 'I', 'iPhone', 'Dell', 'PC', '128GB', 'transferring', 'video', 'files', 'alwa…']",PleaseIwantiXpandFlashDriveIiPhoneDellPCGBtransferringvideofilesalwa…,PleaseIwantiXpandFlashDriveIiPhoneDellPCGBtransferringvideofilesalwa…,['PleaseIwantiXpandFlashDriveIiPhoneDellPCGBtransferringvideofilesalwa…']
+170,@dell_krushnic @jjayblaQ Very slow 😂,  Very slow 😂,"['Very', 'slow', '😂']",Veryslow😂,Veryslow😂,['Veryslow😂']
+171,"-also bikinis would have been an anachronistic in a fantasy setting anyway so I was fucked to begin with
+-I think I… https://t.co/YUox17sOVN","-also bikinis would have been an anachronistic in a fantasy setting anyway so I was fucked to begin with
+-I think I… https://t.co/YUox17sOVN","['-also', 'bikinis', 'would', 'anachronistic', 'fantasy', 'setting', 'anyway', 'I', 'fucked', 'begin', '-I', 'think', 'I…']",-alsobikiniswouldanachronisticfantasysettinganywayIfuckedbegin-IthinkI…,alsobikiniswouldanachronisticfantasysettinganywayIfuckedbeginIthinkI…,['alsobikiniswouldanachronisticfantasysettinganywayIfuckedbeginIthinkI…']
+172,"I realized several things while making this:
+-I borrowed a lot from Kaname Chidori without realizing it
+-I forgot t… https://t.co/Sr7S7hmUgP","I realized several things while making this:
+-I borrowed a lot from Kaname Chidori without realizing it
+-I forgot t… https://t.co/Sr7S7hmUgP","['I', 'realized', 'several', 'things', 'making', 'this:', '-I', 'borrowed', 'lot', 'Kaname', 'Chidori', 'without', 'realizing', '-I', 'forgot', 't…']",Irealizedseveralthingsmakingthis:-IborrowedlotKanameChidoriwithoutrealizing-Iforgott…,IrealizedseveralthingsmakingthisIborrowedlotKanameChidoriwithoutrealizingIforgott…,['IrealizedseveralthingsmakingthisIborrowedlotKanameChidoriwithoutrealizingIforgott…']
+173,It's starting to warm up here so I kind of wanted to do a piece with the ocean in it so here's Umi at the sea https://t.co/bydxDSD7lC,It's starting to warm up here so I kind of wanted to do a piece with the ocean in it so here's Umi at the sea https://t.co/bydxDSD7lC,"[""It's"", 'starting', 'warm', 'I', 'kind', 'wanted', 'piece', 'ocean', ""here's"", 'Umi', 'sea']",It'sstartingwarmIkindwantedpieceoceanhere'sUmisea,ItsstartingwarmIkindwantedpieceoceanheresUmisea,['ItsstartingwarmIkindwantedpieceoceanheresUmisea']
+174,"Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Eart… https://t.co/MFK8DZkdEs","Borderline: Collected Short Stories from Dell Sweet https://t.co/OC8fQTFLRL
+All of Dell Sweet's books on Kobo, Eart… https://t.co/MFK8DZkdEs","['Borderline:', 'Collected', 'Short', 'Stories', 'Dell', 'Sweet', 'All', 'Dell', ""Sweet's"", 'books', 'Kobo,', 'Eart…']","Borderline:CollectedShortStoriesDellSweetAllDellSweet'sbooksKobo,Eart…",BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEart…,['BorderlineCollectedShortStoriesDellSweetAllDellSweetsbooksKoboEart…']
+175,"RT @omithehomie: Life is Good. 
+
+#IndependenceDay https://t.co/SDfPe5piym","RT  Life is Good. 
+
+#IndependenceDay https://t.co/SDfPe5piym","['RT', 'Life', 'Good.', '#IndependenceDay']",LifeGood.#IndependenceDay,LifeGoodIndependenceDay,['LifeGoodIndependenceDay']
+176,@jjayblaQ I see Vodafone is slower than before, I see Vodafone is slower than before,"['I', 'see', 'Vodafone', 'slower']",IseeVodafoneslower,IseeVodafoneslower,['IseeVodafoneslower']
+177,RT @imdatfeminist: maybe it wasn’t love but actually just a deadly mixture of intense physical attraction and infatuation with who they COU…,RT  maybe it wasn’t love but actually just a deadly mixture of intense physical attraction and infatuation with who they COU…,"['RT', 'maybe', 'wasn’t', 'love', 'actually', 'deadly', 'mixture', 'intense', 'physical', 'attraction', 'infatuation', 'COU…']",maybewasn’tloveactuallydeadlymixtureintensephysicalattractioninfatuationCOU…,maybewasn’tloveactuallydeadlymixtureintensephysicalattractioninfatuationCOU…,['maybewasn’tloveactuallydeadlymixtureintensephysicalattractioninfatuationCOU…']
+178,"#dellhome&amp;office 43"" TCL 43S405 4K Ultra HD Roku Smart TV &amp;plus; &amp;dollar;100 Dell eGC:$330 + Free Shipping +… https://t.co/8KgKC1kb19","#dellhome&amp;office 43"" TCL 43S405 4K Ultra HD Roku Smart TV &amp;plus; &amp;dollar;100 Dell eGC:$330 + Free Shipping +… https://t.co/8KgKC1kb19","['#dellhome&amp;office', '43""', 'TCL', '43S405', '4K', 'Ultra', 'HD', 'Roku', 'Smart', 'TV', '&amp;plus;', '&amp;dollar;100', 'Dell', 'eGC:$330', '+', 'Free', 'Shipping', '+…']","#dellhome&amp;office""TCLSKUltraHDRokuSmartTV&amp;plus;&amp;dollar;DelleGC:$+FreeShipping+…",dellhomeampofficeTCLSKUltraHDRokuSmartTVampplusampdollarDelleGCFreeShipping…,['dellhomeampofficeTCLSKUltraHDRokuSmartTVampplusampdollarDelleGCFreeShipping…']
+179,The summer of 1969 in Glennville New York had settled in full tilt. The July morning was cool and peaceful. Bobby W… https://t.co/v2czMw305W,The summer of 1969 in Glennville New York had settled in full tilt. The July morning was cool and peaceful. Bobby W… https://t.co/v2czMw305W,"['The', 'summer', '1969', 'Glennville', 'New', 'York', 'settled', 'full', 'tilt.', 'The', 'July', 'morning', 'cool', 'peaceful.', 'Bobby', 'W…']",ThesummerGlennvilleNewYorksettledfulltilt.TheJulymorningcoolpeaceful.BobbyW…,ThesummerGlennvilleNewYorksettledfulltiltTheJulymorningcoolpeacefulBobbyW…,['ThesummerGlennvilleNewYorksettledfulltiltTheJulymorningcoolpeacefulBobbyW…']
+180,Dell Technologies: Why The Market Is Not Buying A SOTP Argument - A Different Route To 100% Upside - Behind The Ide… https://t.co/SeMCy63c00,Dell Technologies: Why The Market Is Not Buying A SOTP Argument - A Different Route To 100% Upside - Behind The Ide… https://t.co/SeMCy63c00,"['Dell', 'Technologies:', 'Why', 'The', 'Market', 'Is', 'Not', 'Buying', 'A', 'SOTP', 'Argument', '-', 'A', 'Different', 'Route', 'To', '100%', 'Upside', '-', 'Behind', 'The', 'Ide…']",DellTechnologies:WhyTheMarketIsNotBuyingASOTPArgument-ADifferentRouteTo%Upside-BehindTheIde…,DellTechnologiesWhyTheMarketIsNotBuyingASOTPArgumentADifferentRouteToUpsideBehindTheIde…,['DellTechnologiesWhyTheMarketIsNotBuyingASOTPArgumentADifferentRouteToUpsideBehindTheIde…']
+181,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+182,"Just setting off for Southampton. I actually like it down there although I preferred the Dell to St Mary’s, better… https://t.co/8o6HSU78Wb","Just setting off for Southampton. I actually like it down there although I preferred the Dell to St Mary’s, better… https://t.co/8o6HSU78Wb","['Just', 'setting', 'Southampton.', 'I', 'actually', 'like', 'although', 'I', 'preferred', 'Dell', 'St', 'Mary’s,', 'better…']","JustsettingSouthampton.IactuallylikealthoughIpreferredDellStMary’s,better…",JustsettingSouthamptonIactuallylikealthoughIpreferredDellStMary’sbetter…,['JustsettingSouthamptonIactuallylikealthoughIpreferredDellStMary’sbetter…']
+183,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+184,"RT @juliusephraym: @a_madembwe @chapo255 tumia hizi specifications;
+
+Dell XPS 13 9380 
+Intel Core i7
+16GB Memory + 512GB M.2 PCIe NVME SSD…","RT    tumia hizi specifications;
+
+Dell XPS 13 9380 
+Intel Core i7
+16GB Memory + 512GB M.2 PCIe NVME SSD…","['RT', 'tumia', 'hizi', 'specifications;', 'Dell', 'XPS', '13', '9380', 'Intel', 'Core', 'i7', '16GB', 'Memory', '+', '512GB', 'M.2', 'PCIe', 'NVME', 'SSD…']",tumiahizispecifications;DellXPSIntelCoreiGBMemory+GBM.PCIeNVMESSD…,tumiahizispecificationsDellXPSIntelCoreiGBMemoryGBMPCIeNVMESSD…,['tumiahizispecificationsDellXPSIntelCoreiGBMemoryGBMPCIeNVMESSD…']
+185,The Dell Precision 7540 is the fastest mobile workstation we've ever tested: https://t.co/w26xfOgjPp https://t.co/ERstlVtYyg,The Dell Precision 7540 is the fastest mobile workstation we've ever tested: https://t.co/w26xfOgjPp https://t.co/ERstlVtYyg,"['The', 'Dell', 'Precision', '7540', 'fastest', 'mobile', 'workstation', ""we've"", 'ever', 'tested:']",TheDellPrecisionfastestmobileworkstationwe'veevertested:,TheDellPrecisionfastestmobileworkstationweveevertested,['TheDellPrecisionfastestmobileworkstationweveevertested']
+186,RT @DellTechWorld: Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,RT  Please see our statement regarding Dell Technologies World 2020. https://t.co/ZeSb20rMyK,"['RT', 'Please', 'see', 'statement', 'regarding', 'Dell', 'Technologies', 'World', '2020.']",PleaseseestatementregardingDellTechnologiesWorld.,PleaseseestatementregardingDellTechnologiesWorld,['PleaseseestatementregardingDellTechnologiesWorld']
+187,@JustHeatherAnne @BrianLe56082778 @RealDealAxelrod @cfrank149 @Terence_Wilson1 @Rogue_One99 @50ShadesOfNAOMI I have… https://t.co/0SS3rxW580,       I have… https://t.co/0SS3rxW580,"['I', 'have…']",Ihave…,Ihave…,['Ihave…']
+188,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+189,New #Coupon and #Promo Deal! Refurb Dell Latitude E5570 i7 15.6″ Touchscreen Laptop for $397 + free shipping https://t.co/CsIBFM8EV8,New #Coupon and #Promo Deal! Refurb Dell Latitude E5570 i7 15.6″ Touchscreen Laptop for $397 + free shipping https://t.co/CsIBFM8EV8,"['New', '#Coupon', '#Promo', 'Deal!', 'Refurb', 'Dell', 'Latitude', 'E5570', 'i7', '15.6″', 'Touchscreen', 'Laptop', '$397', '+', 'free', 'shipping']",New#Coupon#PromoDeal!RefurbDellLatitudeEi.″TouchscreenLaptop$+freeshipping,NewCouponPromoDealRefurbDellLatitudeEi″TouchscreenLaptopfreeshipping,['NewCouponPromoDealRefurbDellLatitudeEi″TouchscreenLaptopfreeshipping']
+190,"@JizzLizz Press one of the F keys when the Dell screen comes up, I wanna say F2. Then look around and see if anything seems obviously wrong."," Press one of the F keys when the Dell screen comes up, I wanna say F2. Then look around and see if anything seems obviously wrong.","['Press', 'one', 'F', 'keys', 'Dell', 'screen', 'comes', 'up,', 'I', 'wanna', 'say', 'F2.', 'Then', 'look', 'around', 'see', 'anything', 'seems', 'obviously', 'wrong.']","PressoneFkeysDellscreencomesup,IwannasayF.Thenlookaroundseeanythingseemsobviouslywrong.",PressoneFkeysDellscreencomesupIwannasayFThenlookaroundseeanythingseemsobviouslywrong,['PressoneFkeysDellscreencomesupIwannasayFThenlookaroundseeanythingseemsobviouslywrong']
+191,"RT @thedcnation: The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","RT  The Joker 80th Anniversary Super Spectacular #1 arrives April 29 with eight decade variants! 
+
+1950s variant cover by Davi…","['RT', 'The', 'Joker', '80th', 'Anniversary', 'Super', 'Spectacular', '#1', 'arrives', 'April', '29', 'eight', 'decade', 'variants!', '1950s', 'variant', 'cover', 'Davi…']",TheJokerthAnniversarySuperSpectacular#arrivesAprileightdecadevariants!svariantcoverDavi…,TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…,['TheJokerthAnniversarySuperSpectaculararrivesAprileightdecadevariantssvariantcoverDavi…']
+192,We lost some niggas but we took some niggas so I’m still happy me and dell had that fuss that day hope he ain’t mad at me,We lost some niggas but we took some niggas so I’m still happy me and dell had that fuss that day hope he ain’t mad at me,"['We', 'lost', 'niggas', 'took', 'niggas', 'I’m', 'still', 'happy', 'dell', 'fuss', 'day', 'hope', 'ain’t', 'mad']",WelostniggastookniggasI’mstillhappydellfussdayhopeain’tmad,WelostniggastookniggasI’mstillhappydellfussdayhopeain’tmad,['WelostniggastookniggasI’mstillhappydellfussdayhopeain’tmad']
+193,@Ape_Dell I love you muaaach, I love you muaaach,"['I', 'love', 'muaaach']",Ilovemuaaach,Ilovemuaaach,['Ilovemuaaach']
+194,RT @fujimori_shiki: 「Melancholy」 https://t.co/3CjZx4pStc,RT  「Melancholy」 https://t.co/3CjZx4pStc,"['RT', '「Melancholy」']",「Melancholy」,「Melancholy」,['「Melancholy」']
+195,@dell24_ *Dell approves*, *Dell approves*,"['*Dell', 'approves*']",*Dellapproves*,Dellapproves,['Dellapproves']
+196,RT @S7HMIDT: Shaun Wright Phillips son???? How old  am I.....,RT  Shaun Wright Phillips son???? How old  am I.....,"['RT', 'Shaun', 'Wright', 'Phillips', 'son????', 'How', 'old', 'I.....']",ShaunWrightPhillipsson????HowoldI.....,ShaunWrightPhillipssonHowoldI,['ShaunWrightPhillipssonHowoldI']
+197,"RT @0xn1ccals: two brooos
+chilling in a hot tuuuub
+five feet apart because RISPETTANO LE INDICAZIONI DELL'OMS https://t.co/9XZCcIs4yz","RT  two brooos
+chilling in a hot tuuuub
+five feet apart because RISPETTANO LE INDICAZIONI DELL'OMS https://t.co/9XZCcIs4yz","['RT', 'two', 'brooos', 'chilling', 'hot', 'tuuuub', 'five', 'feet', 'apart', 'RISPETTANO', 'LE', 'INDICAZIONI', ""DELL'OMS""]",twobroooschillinghottuuuubfivefeetapartRISPETTANOLEINDICAZIONIDELL'OMS,twobroooschillinghottuuuubfivefeetapartRISPETTANOLEINDICAZIONIDELLOMS,['twobroooschillinghottuuuubfivefeetapartRISPETTANOLEINDICAZIONIDELLOMS']
+198,RT @wojespn: Full episode of The Woj Pod with Dell and Sonya Curry: https://t.co/EHHii98902 https://t.co/3LffWdBn0w,RT  Full episode of The Woj Pod with Dell and Sonya Curry: https://t.co/EHHii98902 https://t.co/3LffWdBn0w,"['RT', 'Full', 'episode', 'The', 'Woj', 'Pod', 'Dell', 'Sonya', 'Curry:']",FullepisodeTheWojPodDellSonyaCurry:,FullepisodeTheWojPodDellSonyaCurry,['FullepisodeTheWojPodDellSonyaCurry']
+199,"RT @ManipalDxb: BTech students attended the DELL Technologies Forum at @MadinatJumeirah,the forum brings together technical education conte…",RT  BTech students attended the DELL Technologies Forum at  forum brings together technical education conte…,"['RT', 'BTech', 'students', 'attended', 'DELL', 'Technologies', 'Forum', 'forum', 'brings', 'together', 'technical', 'education', 'conte…']",BTechstudentsattendedDELLTechnologiesForumforumbringstogethertechnicaleducationconte…,BTechstudentsattendedDELLTechnologiesForumforumbringstogethertechnicaleducationconte…,['BTechstudentsattendedDELLTechnologiesForumforumbringstogethertechnicaleducationconte…']

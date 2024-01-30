@@ -1,0 +1,336 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,"RT @pilovil_jersey: ⚽️ ATTENTION ❗️❗️❗️
+
+Hi I’m a college student took civil engineering I’m selling football jersey for my school funds ne…","RT  ⚽️ ATTENTION ❗️❗️❗️
+
+Hi I’m a college student took civil engineering I’m selling football jersey for my school funds ne…","RT  ⚽️ ATTENTION ❗️❗️❗️
+
+Hi I’m a college student took civil engineering I’m selling football jersey for my school funds ne…","  ⚽️ AENION ❗️❗️❗️
+
+Hi I’m a college student took civil engineering I’m selling football jersey for my school funds ne…","  ⚽️ AENION ❗️❗️❗️
+
+Hi I’m a college student took civil engineering I’m selling football jersey for my school funds ne…","['⚽️', 'AENION', '❗️❗️❗️', 'Hi', 'I’m', 'college', 'student', 'took', 'civil', 'engineering', 'I’m', 'selling', 'football', 'jersey', 'school', 'funds', 'ne…']"
+1,RT @Satya_Tech9: Sir please solve our Engineering assistants cadre issue we are mentioned under blue print operator whose minimum qualifica…,RT  Sir please solve our Engineering assistants cadre issue we are mentioned under blue print operator whose minimum qualifica…,RT  Sir please solve our Engineering assistants cadre issue we are mentioned under blue print operator whose minimum qualifica…,  Sir please solve our Engineering assistants cadre issue we are mentioned under blue print operator whose minimum qualifica…,  Sir please solve our Engineering assistants cadre issue we are mentioned under blue print operator whose minimum qualifica…,"['Sir', 'please', 'solve', 'Engineering', 'assistants', 'cadre', 'issue', 'mentioned', 'blue', 'print', 'operator', 'whose', 'minimum', 'qualifica…']"
+2,"@CodeWisdom Bad choice of words.
+
+Treat code like the mundane engineering product it is, by not caring about superf… https://t.co/G8gcVIpBbo"," Bad choice of words.
+
+Treat code like the mundane engineering product it is, by not caring about superf… https://t.co/G8gcVIpBbo"," Bad choice of words.
+
+Treat code like the mundane engineering product it is, by not caring about superf… "," Bad choice of words.
+
+reat code like the mundane engineering product it is, by not caring about superf… "," Bad choice of words
+
+reat code like the mundane engineering product it is by not caring about superf… ","['Bad', 'choice', 'words', 'reat', 'code', 'like', 'mundane', 'engineering', 'product', 'caring', 'superf…']"
+3,"Mark Lee
+
+Architecture Department | Engineering Faculty
+Teaching Assistant
+
+- won a few competitions when he was st… https://t.co/gvtk5yHVzA","Mark Lee
+
+Architecture Department | Engineering Faculty
+Teaching Assistant
+
+- won a few competitions when he was st… https://t.co/gvtk5yHVzA","Mark Lee
+
+Architecture Department | Engineering Faculty
+Teaching Assistant
+
+- won a few competitions when he was st… ","Mark Lee
+
+Architecture Department | Engineering Faculty
+eaching Assistant
+
+- won a few competitions when he was st… ","Mark Lee
+
+Architecture Department  Engineering Faculty
+eaching Assistant
+
+ won a few competitions when he was st… ","['Mark', 'Lee', 'Architecture', 'Department', 'Engineering', 'Faculty', 'eaching', 'Assistant', 'competitions', 'st…']"
+4,"At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/hNOg8ufbCq","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/hNOg8ufbCq","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ",At BAE Systems Submarines we have a huge diversity of roles where you can develop a career that challenges and re… ,"['At', 'BAE', 'Systems', 'Submarines', 'huge', 'diversity', 'roles', 'develop', 'career', 'challenges', 're…']"
+5,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+6,"RT @makerdemy: IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+https://t.co/UziRSeeKvJ
+
+#internetofthings #iot #technology #innovatio…","RT  IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+https://t.co/UziRSeeKvJ
+
+#internetofthings #iot #technology #innovatio…","RT  IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+
+
+#internetofthings #iot #technology #innovatio…","  Io traffic is taking over; G, WiFi  are ascending
+
+
+
+#internetofthings #iot #technology #innovatio…","  Io traffic is taking over G WiFi  are ascending
+
+
+
+internetofthings iot technology innovatio…","['Io', 'traffic', 'taking', 'G', 'WiFi', 'ascending', 'internetofthings', 'iot', 'technology', 'innovatio…']"
+7,"RT @IntEngineering: This powerful and versatile mini excavator can get in hard-to-reach places without any complications.
+
+Via: https://t.c…","RT  This powerful and versatile mini excavator can get in hard-to-reach places without any complications.
+
+Via: https://t.c…","RT  This powerful and versatile mini excavator can get in hard-to-reach places without any complications.
+
+Via: ","  his powerful and versatile mini excavator can get in hard-to-reach places without any complications.
+
+Via: ","  his powerful and versatile mini excavator can get in hardtoreach places without any complications
+
+Via ","['powerful', 'versatile', 'mini', 'excavator', 'get', 'hardtoreach', 'places', 'without', 'complications', 'Via']"
+8,"RT @makerdemy: Turn On and Plug In: The Evolution of Connected Cars
+
+https://t.co/AaGanY4COl
+
+#internetofthings #iot #technology #innovatio…","RT  Turn On and Plug In: The Evolution of Connected Cars
+
+https://t.co/AaGanY4COl
+
+#internetofthings #iot #technology #innovatio…","RT  Turn On and Plug In: The Evolution of Connected Cars
+
+
+
+#internetofthings #iot #technology #innovatio…","  urn On and Plug In: he Evolution of Connected Cars
+
+
+
+#internetofthings #iot #technology #innovatio…","  urn On and Plug In he Evolution of Connected Cars
+
+
+
+internetofthings iot technology innovatio…","['urn', 'On', 'Plug', 'In', 'Evolution', 'Connected', 'Cars', 'internetofthings', 'iot', 'technology', 'innovatio…']"
+9,"RT @makerdemy: IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+https://t.co/UziRSeeKvJ
+
+#internetofthings #iot #technology #innovatio…","RT  IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+https://t.co/UziRSeeKvJ
+
+#internetofthings #iot #technology #innovatio…","RT  IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+
+
+#internetofthings #iot #technology #innovatio…","  Io traffic is taking over; G, WiFi  are ascending
+
+
+
+#internetofthings #iot #technology #innovatio…","  Io traffic is taking over G WiFi  are ascending
+
+
+
+internetofthings iot technology innovatio…","['Io', 'traffic', 'taking', 'G', 'WiFi', 'ascending', 'internetofthings', 'iot', 'technology', 'innovatio…']"
+10,"RT @makerdemy: Deep Dive into Zigbee for Home Automation
+
+https://t.co/Ff8dJFac1S
+
+#internetofthings #iot #technology #innovation #tech #ar…","RT  Deep Dive into Zigbee for Home Automation
+
+https://t.co/Ff8dJFac1S
+
+#internetofthings #iot #technology #innovation #tech #ar…","RT  Deep Dive into Zigbee for Home Automation
+
+
+
+#internetofthings #iot #technology #innovation #tech #ar…","  Deep Dive into Zigbee for Home Automation
+
+
+
+#internetofthings #iot #technology #innovation #tech #ar…","  Deep Dive into Zigbee for Home Automation
+
+
+
+internetofthings iot technology innovation tech ar…","['Deep', 'Dive', 'Zigbee', 'Home', 'Automation', 'internetofthings', 'iot', 'technology', 'innovation', 'tech', 'ar…']"
+11,"RT @IntEngineering: This speedy machine folds shirts in no time.
+
+Via: YouTube / Chiossie Cavazutti: https://t.co/wR7bzHxMR6
+
+#engineering…","RT  This speedy machine folds shirts in no time.
+
+Via: YouTube / Chiossie Cavazutti: https://t.co/wR7bzHxMR6
+
+#engineering…","RT  This speedy machine folds shirts in no time.
+
+Via: YouTube / Chiossie Cavazutti: 
+
+#engineering…","  his speedy machine folds shirts in no time.
+
+Via: Youube / Chiossie Cavazutti: 
+
+#engineering…","  his speedy machine folds shirts in no time
+
+Via Youube  Chiossie Cavazutti 
+
+engineering…","['speedy', 'machine', 'folds', 'shirts', 'time', 'Via', 'Youube', 'Chiossie', 'Cavazutti', 'engineering…']"
+12,"@karpathy It all depends who you’re telling this to. 
+
+Beginners, VCs, Clients who know nothing about ML = yes
+
+Eng… https://t.co/VLlrEBjosx"," It all depends who you’re telling this to. 
+
+Beginners, VCs, Clients who know nothing about ML = yes
+
+Eng… https://t.co/VLlrEBjosx"," It all depends who you’re telling this to. 
+
+Beginners, VCs, Clients who know nothing about ML = yes
+
+Eng… "," It all depends who you’re telling this to. 
+
+Beginners, VCs, Clients who know nothing about ML = yes
+
+Eng… "," It all depends who you’re telling this to 
+
+Beginners VCs Clients who know nothing about ML  yes
+
+Eng… ","['It', 'depends', 'you’re', 'telling', 'Beginners', 'VCs', 'Clients', 'know', 'nothing', 'ML', 'yes', 'Eng…']"
+13,"RT @chapati23: 📚 Announcing https://t.co/IM3TAPs2Mm 📚
+A curated collection of engineering leadership resources that I wish I had when I too…","RT  📚 Announcing https://t.co/IM3TAPs2Mm 📚
+A curated collection of engineering leadership resources that I wish I had when I too…","RT  📚 Announcing  📚
+A curated collection of engineering leadership resources that I wish I had when I too…","  📚 Announcing  📚
+A curated collection of engineering leadership resources that I wish I had when I too…","  📚 Announcing  📚
+A curated collection of engineering leadership resources that I wish I had when I too…","['📚', 'Announcing', '📚', 'A', 'curated', 'collection', 'engineering', 'leadership', 'resources', 'I', 'wish', 'I', 'I', 'too…']"
+14,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+15,"""What is a Sapper? This versatile genius... condensing the whole system of military engineering and all that is use… https://t.co/IXFH4NlUQh","""What is a Sapper? This versatile genius... condensing the whole system of military engineering and all that is use… https://t.co/IXFH4NlUQh","""What is a Sapper? This versatile genius... condensing the whole system of military engineering and all that is use… ","""What is a Sapper? his versatile genius... condensing the whole system of military engineering and all that is use… ",What is a Sapper his versatile genius condensing the whole system of military engineering and all that is use… ,"['What', 'Sapper', 'versatile', 'genius', 'condensing', 'whole', 'system', 'military', 'engineering', 'use…']"
+16,"At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/OVr5MzQcB7","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/OVr5MzQcB7","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ",At BAE Systems Submarines we have a huge diversity of roles where you can develop a career that challenges and re… ,"['At', 'BAE', 'Systems', 'Submarines', 'huge', 'diversity', 'roles', 'develop', 'career', 'challenges', 're…']"
+17,@chriskost @KURAroads @PDUDelivery @TheIEK @Ma3Route @KenyanTraffic The UAE and developed places push the limits of… https://t.co/ka7LPKAeuG,      The UAE and developed places push the limits of… https://t.co/ka7LPKAeuG,      The UAE and developed places push the limits of… ,      he UAE and developed places push the limits of… ,      he UAE and developed places push the limits of… ,"['UAE', 'developed', 'places', 'push', 'limits', 'of…']"
+18,"RT @iam_kiddee: OAU don't do Petroleum Engineering, they don't even have a department for it, but they still went for the Competition and b…","RT  OAU don't do Petroleum Engineering, they don't even have a department for it, but they still went for the Competition and b…","RT  OAU don't do Petroleum Engineering, they don't even have a department for it, but they still went for the Competition and b…","  OAU don't do Petroleum Engineering, they don't even have a department for it, but they still went for the Competition and b…",  OAU dont do Petroleum Engineering they dont even have a department for it but they still went for the Competition and b…,"['OAU', 'dont', 'Petroleum', 'Engineering', 'dont', 'even', 'department', 'still', 'went', 'Competition', 'b…']"
+19,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+20,RT @r3al__AJ: Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,RT  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,RT  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,"['Couple', 'engineering', 'apps', 'I', 'think', 'every', 'engineering', 'student', 'know', 'thing', 'two', 'Bsc', 'stage…']"
+21,"#Engineering as #marketing: winning your audience with useful tools.
+
+Pick something that:
+👉 resonates with your au… https://t.co/aD1OdKSw70","#Engineering as #marketing: winning your audience with useful tools.
+
+Pick something that:
+👉 resonates with your au… https://t.co/aD1OdKSw70","#Engineering as #marketing: winning your audience with useful tools.
+
+Pick something that:
+👉 resonates with your au… ","#Engineering as #marketing: winning your audience with useful tools.
+
+Pick something that:
+👉 resonates with your au… ","Engineering as marketing winning your audience with useful tools
+
+Pick something that
+👉 resonates with your au… ","['Engineering', 'marketing', 'winning', 'audience', 'useful', 'tools', 'Pick', 'something', '👉', 'resonates', 'au…']"
+22,Reducing Storage Requirements of Mobile Games via Predictive Streaming (2019) [pdf] https://t.co/zWgoxXdo3N,Reducing Storage Requirements of Mobile Games via Predictive Streaming (2019) [pdf] https://t.co/zWgoxXdo3N,Reducing Storage Requirements of Mobile Games via Predictive Streaming (2019) [pdf] ,educing Storage equirements of Mobile Games via Predictive Streaming () [pdf] ,educing Storage equirements of Mobile Games via Predictive Streaming  pdf ,"['educing', 'Storage', 'equirements', 'Mobile', 'Games', 'via', 'Predictive', 'Streaming', 'pdf']"
+23,RT @phiwe_damane: I'm 22 years old I have N5 Electrical Engineering (Heavy Current) I've been looking for apprenticeship with no luck. I ne…,RT  I'm 22 years old I have N5 Electrical Engineering (Heavy Current) I've been looking for apprenticeship with no luck. I ne…,RT  I'm 22 years old I have N5 Electrical Engineering (Heavy Current) I've been looking for apprenticeship with no luck. I ne…,  I'm  years old I have N Electrical Engineering (Heavy Current) I've been looking for apprenticeship with no luck. I ne…,  Im  years old I have N Electrical Engineering Heavy Current Ive been looking for apprenticeship with no luck I ne…,"['Im', 'years', 'old', 'I', 'N', 'Electrical', 'Engineering', 'Heavy', 'Current', 'Ive', 'looking', 'apprenticeship', 'luck', 'I', 'ne…']"
+24,"RT @Zahrahmusa: The newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","RT  The newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","RT  The newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","  he newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","  he newest Engineer 👩‍💻 in the house
+My daughter successfully defended her final year project yesterday and graduated with…","['newest', 'Engineer', '👩\u200d💻', 'house', 'My', 'daughter', 'successfully', 'defended', 'final', 'year', 'project', 'yesterday', 'graduated', 'with…']"
+25,"RT @Zahrahmusa: The newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","RT  The newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","RT  The newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","  he newest Engineer 👩‍💻 in the house.
+My daughter successfully defended her final year project yesterday and graduated with…","  he newest Engineer 👩‍💻 in the house
+My daughter successfully defended her final year project yesterday and graduated with…","['newest', 'Engineer', '👩\u200d💻', 'house', 'My', 'daughter', 'successfully', 'defended', 'final', 'year', 'project', 'yesterday', 'graduated', 'with…']"
+26,"At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/Ufq1S3j7Fp","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/Ufq1S3j7Fp","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ",At BAE Systems Submarines we have a huge diversity of roles where you can develop a career that challenges and re… ,"['At', 'BAE', 'Systems', 'Submarines', 'huge', 'diversity', 'roles', 'develop', 'career', 'challenges', 're…']"
+27,"RT @makerdemy: IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+https://t.co/UziRSeeKvJ
+
+#internetofthings #iot #technology #innovatio…","RT  IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+https://t.co/UziRSeeKvJ
+
+#internetofthings #iot #technology #innovatio…","RT  IoT traffic is taking over; 5G, WiFi 6 are ascending
+
+
+
+#internetofthings #iot #technology #innovatio…","  Io traffic is taking over; G, WiFi  are ascending
+
+
+
+#internetofthings #iot #technology #innovatio…","  Io traffic is taking over G WiFi  are ascending
+
+
+
+internetofthings iot technology innovatio…","['Io', 'traffic', 'taking', 'G', 'WiFi', 'ascending', 'internetofthings', 'iot', 'technology', 'innovatio…']"
+28,"RT @gojkoadzic: Why stop at DevOps, DevSecOps or DevFinSecOps? Let's add Experimentation, Leadership, Operations, Product, Monitoring, Engi…","RT  Why stop at DevOps, DevSecOps or DevFinSecOps? Let's add Experimentation, Leadership, Operations, Product, Monitoring, Engi…","RT  Why stop at DevOps, DevSecOps or DevFinSecOps? Let's add Experimentation, Leadership, Operations, Product, Monitoring, Engi…","  Why stop at DevOps, DevSecOps or DevFinSecOps? Let's add Experimentation, Leadership, Operations, Product, Monitoring, Engi…",  Why stop at DevOps DevSecOps or DevFinSecOps Lets add Experimentation Leadership Operations Product Monitoring Engi…,"['Why', 'stop', 'DevOps', 'DevSecOps', 'DevFinSecOps', 'Lets', 'add', 'Experimentation', 'Leadership', 'Operations', 'Product', 'Monitoring', 'Engi…']"
+29,"which post similar messages at similar times in English, Spanish, French, German &amp; Italian.
+
+Fringe theories of unc… https://t.co/uObDeV6DRu","which post similar messages at similar times in English, Spanish, French, German &amp; Italian.
+
+Fringe theories of unc… https://t.co/uObDeV6DRu","which post similar messages at similar times in English, Spanish, French, German &amp; Italian.
+
+Fringe theories of unc… ","which post similar messages at similar times in English, Spanish, French, German &amp; Italian.
+
+Fringe theories of unc… ","which post similar messages at similar times in English Spanish French German amp Italian
+
+Fringe theories of unc… ","['post', 'similar', 'messages', 'similar', 'times', 'English', 'Spanish', 'French', 'German', 'amp', 'Italian', 'Fringe', 'theories', 'unc…']"
+30,"You ain't a true engineering student if you study from beginning of the sem.
+😆😆😆","You ain't a true engineering student if you study from beginning of the sem.
+😆😆😆","You ain't a true engineering student if you study from beginning of the sem.
+😆😆😆","You ain't a true engineering student if you study from beginning of the sem.
+😆😆😆","You aint a true engineering student if you study from beginning of the sem
+😆😆😆","['You', 'aint', 'true', 'engineering', 'student', 'study', 'beginning', 'sem', '😆😆😆']"
+31,RT @the_gingercoder: So true... Half of my own systems are the bare essentials; shell scripts and local programs that call out to others. O…,RT  So true... Half of my own systems are the bare essentials; shell scripts and local programs that call out to others. O…,RT  So true... Half of my own systems are the bare essentials; shell scripts and local programs that call out to others. O…,  So true... Half of my own systems are the bare essentials; shell scripts and local programs that call out to others. O…,  So true Half of my own systems are the bare essentials shell scripts and local programs that call out to others O…,"['So', 'true', 'Half', 'systems', 'bare', 'essentials', 'shell', 'scripts', 'local', 'programs', 'call', 'others', 'O…']"
+32,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+33,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+34,"At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/zQ8sDI59Pl","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… https://t.co/zQ8sDI59Pl","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ","At BAE Systems #Submarines, we have a huge diversity of roles where you can develop a career that challenges and re… ",At BAE Systems Submarines we have a huge diversity of roles where you can develop a career that challenges and re… ,"['At', 'BAE', 'Systems', 'Submarines', 'huge', 'diversity', 'roles', 'develop', 'career', 'challenges', 're…']"
+35,"RT @jaredcatkinson: In part 2 of our ""Detection Engineering with Kerberoasting"" series @rrcyrus and I introduce our Detection Spectrum whic…","RT  In part 2 of our ""Detection Engineering with Kerberoasting"" series  and I introduce our Detection Spectrum whic…","RT  In part 2 of our ""Detection Engineering with Kerberoasting"" series  and I introduce our Detection Spectrum whic…","  In part  of our ""Detection Engineering with Kerberoasting"" series  and I introduce our Detection Spectrum whic…",  In part  of our Detection Engineering with Kerberoasting series  and I introduce our Detection Spectrum whic…,"['In', 'part', 'Detection', 'Engineering', 'Kerberoasting', 'series', 'I', 'introduce', 'Detection', 'Spectrum', 'whic…']"
+36,"RT @AltaayrFaaris: #لفافیاسب_سےبڑامافیا
+Begin lifaafa's Accountability 
+There are no professional organizations like bar associations or en…","RT  #لفافیاسب_سےبڑامافیا
+Begin lifaafa's Accountability 
+There are no professional organizations like bar associations or en…","RT  #لفافیاسب_سےبڑامافیا
+Begin lifaafa's Accountability 
+There are no professional organizations like bar associations or en…","  #لفافیاسب_سےبڑامافیا
+Begin lifaafa's Accountability 
+here are no professional organizations like bar associations or en…","  لفافیاسبسےبڑامافیا
+Begin lifaafas Accountability 
+here are no professional organizations like bar associations or en…","['لفافیاسبسےبڑامافیا', 'Begin', 'lifaafas', 'Accountability', 'professional', 'organizations', 'like', 'bar', 'associations', 'en…']"
+37,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+38,RT @r3al__AJ: Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,RT  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,RT  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,"['Couple', 'engineering', 'apps', 'I', 'think', 'every', 'engineering', 'student', 'know', 'thing', 'two', 'Bsc', 'stage…']"
+39,RT @SureshK60685653: @investindia @realDonaldTrump @POTUS @PMOIndia @IndianEmbassyUS @USAmbIndia @USAndIndia @MEAIndia @DIPPGOI USA should…,RT           USA should…,RT           USA should…,           USA should…,           USA should…,"['USA', 'should…']"
+40,I thought we were getting a #TAFE CAMPUS with automotive and engineering workshops so our apprentices didn have to… https://t.co/onjR9LMKE6,I thought we were getting a #TAFE CAMPUS with automotive and engineering workshops so our apprentices didn have to… https://t.co/onjR9LMKE6,I thought we were getting a #TAFE CAMPUS with automotive and engineering workshops so our apprentices didn have to… ,I thought we were getting a #AFE CAMPUS with automotive and engineering workshops so our apprentices didn have to… ,I thought we were getting a AFE CAMPUS with automotive and engineering workshops so our apprentices didn have to… ,"['I', 'thought', 'getting', 'AFE', 'CAMPUS', 'automotive', 'engineering', 'workshops', 'apprentices', 'to…']"
+41,RT @r3al__AJ: Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,RT  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,RT  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,  Couple of engineering apps I think every engineering student out here should know a thing or two about during the Bsc stage…,"['Couple', 'engineering', 'apps', 'I', 'think', 'every', 'engineering', 'student', 'know', 'thing', 'two', 'Bsc', 'stage…']"
+42,"RT @IntEngineering: This speedy machine folds shirts in no time.
+
+Via: YouTube / Chiossie Cavazutti: https://t.co/wR7bzHxMR6
+
+#engineering…","RT  This speedy machine folds shirts in no time.
+
+Via: YouTube / Chiossie Cavazutti: https://t.co/wR7bzHxMR6
+
+#engineering…","RT  This speedy machine folds shirts in no time.
+
+Via: YouTube / Chiossie Cavazutti: 
+
+#engineering…","  his speedy machine folds shirts in no time.
+
+Via: Youube / Chiossie Cavazutti: 
+
+#engineering…","  his speedy machine folds shirts in no time
+
+Via Youube  Chiossie Cavazutti 
+
+engineering…","['speedy', 'machine', 'folds', 'shirts', 'time', 'Via', 'Youube', 'Chiossie', 'Cavazutti', 'engineering…']"
+43,RT @HamzaaRizwan11: People of Pakistan has rejected the political engineering! Despite all the propaganda and victimisation against Nawaz S…,RT  People of Pakistan has rejected the political engineering! Despite all the propaganda and victimisation against Nawaz S…,RT  People of Pakistan has rejected the political engineering! Despite all the propaganda and victimisation against Nawaz S…,  People of Pakistan has rejected the political engineering! Despite all the propaganda and victimisation against Nawaz S…,  People of Pakistan has rejected the political engineering Despite all the propaganda and victimisation against Nawaz S…,"['People', 'Pakistan', 'rejected', 'political', 'engineering', 'Despite', 'propaganda', 'victimisation', 'Nawaz', 'S…']"
+44,RT @rwandacybersec: You can also attend this event as we maximize the way we protect ourselves from Social engineering cyber attacks &amp; thre…,RT  You can also attend this event as we maximize the way we protect ourselves from Social engineering cyber attacks &amp; thre…,RT  You can also attend this event as we maximize the way we protect ourselves from Social engineering cyber attacks &amp; thre…,  You can also attend this event as we maximize the way we protect ourselves from Social engineering cyber attacks &amp; thre…,  You can also attend this event as we maximize the way we protect ourselves from Social engineering cyber attacks amp thre…,"['You', 'also', 'attend', 'event', 'maximize', 'way', 'protect', 'Social', 'engineering', 'cyber', 'attacks', 'amp', 'thre…']"
+45,@MikeDissentss So when WEIRD nation people assume - which we regularly do - that there’s some magically unique thin… https://t.co/lE89ZMFk9l, So when WEIRD nation people assume - which we regularly do - that there’s some magically unique thin… https://t.co/lE89ZMFk9l, So when WEIRD nation people assume - which we regularly do - that there’s some magically unique thin… , So when WEID nation people assume - which we regularly do - that there’s some magically unique thin… , So when WEID nation people assume  which we regularly do  that there’s some magically unique thin… ,"['So', 'WEID', 'nation', 'people', 'assume', 'regularly', 'there’s', 'magically', 'unique', 'thin…']"
+46,Etihad Engineering Records Robust Growth as It Welcomes 2020 https://t.co/0gHL9yyFif,Etihad Engineering Records Robust Growth as It Welcomes 2020 https://t.co/0gHL9yyFif,Etihad Engineering Records Robust Growth as It Welcomes 2020 ,Etihad Engineering ecords obust Growth as It Welcomes  ,Etihad Engineering ecords obust Growth as It Welcomes  ,"['Etihad', 'Engineering', 'ecords', 'obust', 'Growth', 'It', 'Welcomes']"
+47,"RT @mylovelywooseok: After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","RT  After 5 years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…","  After  years, I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…",  After  years I’m finally graduated with Bachelor of Science in Advanced Materials Science and Engineering from Sungk…,"['After', 'years', 'I’m', 'finally', 'graduated', 'Bachelor', 'Science', 'Advanced', 'Materials', 'Science', 'Engineering', 'Sungk…']"
+48,England Women v Ireland Women: Abby Dow on World Cup hopes and engineering alternatives https://t.co/uqMNLAEnqr https://t.co/O65PSx8NjL,England Women v Ireland Women: Abby Dow on World Cup hopes and engineering alternatives https://t.co/uqMNLAEnqr https://t.co/O65PSx8NjL,England Women v Ireland Women: Abby Dow on World Cup hopes and engineering alternatives  ,England Women v Ireland Women: Abby Dow on World Cup hopes and engineering alternatives  ,England Women v Ireland Women Abby Dow on World Cup hopes and engineering alternatives  ,"['England', 'Women', 'v', 'Ireland', 'Women', 'Abby', 'Dow', 'World', 'Cup', 'hopes', 'engineering', 'alternatives']"
+49,"Study in USA
+
+All you really want to know is whether you qualify, right?
+Get Personalised &amp; Professional advice!… https://t.co/Vxo2YsaP55","Study in USA
+
+All you really want to know is whether you qualify, right?
+Get Personalised &amp; Professional advice!… https://t.co/Vxo2YsaP55","Study in USA
+
+All you really want to know is whether you qualify, right?
+Get Personalised &amp; Professional advice!… ","Study in USA
+
+All you really want to know is whether you qualify, right?
+Get Personalised &amp; Professional advice!… ","Study in USA
+
+All you really want to know is whether you qualify right
+Get Personalised amp Professional advice… ","['Study', 'USA', 'All', 'really', 'want', 'know', 'whether', 'qualify', 'right', 'Get', 'Personalised', 'amp', 'Professional', 'advice…']"

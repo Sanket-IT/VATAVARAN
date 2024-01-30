@@ -1,0 +1,88 @@
+Sentiment,SentimentText
+0,earthquake
+0,volcanic eruption
+0,hurricane
+0,landslide
+0,landslip
+0,avalanche;
+0,flood
+0,deluge
+0,tidal wave
+0,tsunami
+0,drought
+0,fire
+0,disaster
+0,catastrophe
+0,cataclysm
+0,thunder
+0,thunderstorm
+0,thundercloud
+1,heavy rain
+1,pouring rain
+1,steady rain
+1,constant rain
+1,cold rain
+1,warm rain
+1,light rain
+1,gentle rain
+1,rain
+1,rainfall
+1,rain shower
+1,downpour
+1,deluge
+1,rainstorm
+1,drizzle
+1,hail
+1,sleet
+1,a drop of rain
+1,slippery roads
+1,a droplet
+1,a raindrop
+1,rainbow
+2,distant thunder
+2,faint thunder
+2,loud thunder
+2,a clap of thunder
+2,a thunderclap;
+2,a bolt of thunder
+2,a thunderbolt
+2,lightning
+2,a flash of lightning
+2,a bright flash of lightning
+2,a bolt of lightning
+3, cloudy
+3, cloud
+3, clouds
+4,fog
+4,haze
+4,mist
+4,smog
+4,foggy
+4,hazy
+4,misty
+4,smoggy
+5,snow
+5,snowfall
+5,snowstorm
+5,thaw
+5,snowflake
+5,snowdrift
+5,snowbank
+5,icicle
+5,cold
+5,icy
+6,good
+6,great
+6,nice
+6,fine
+6,lovely
+6,beautiful
+6,wonderful
+6,excellent
+6,gorgeous
+6,fair
+6,pleasant
+6,balmy
+6,photography
+6,clear
+6,cool

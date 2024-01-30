@@ -1,0 +1,716 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,"Buy #Lenovo #Ideapad in Bulq @ 21% Off
+https://t.co/J2reni26Lt
+Call Now or WhatsApp +91 7710021112 / +91 7738870077… https://t.co/Dh9rmP0kyh","Buy #Lenovo #Ideapad in Bulq @ 21% Off
+https://t.co/J2reni26Lt
+Call Now or WhatsApp +91 7710021112 / +91 7738870077… https://t.co/Dh9rmP0kyh","Buy #Lenovo #Ideapad in Bulq @ 21% Off
+
+Call Now or WhatsApp +91 7710021112 / +91 7738870077… ","Buy #Lenovo #Ideapad in Bulq @ % Off
+
+Call Now or WhatsApp +  / + … ","Buy Lenovo Ideapad in Bulq   Off
+
+Call Now or WhatsApp     … ","['Buy', 'Lenovo', 'Ideapad', 'Bulq', 'Off', 'Call', 'Now', 'WhatsApp', '…']"
+1,"RT @BLUEProfileLtd: A busy day at The Midlands Business Network Expo on the Blue Profile stand with our partners Lenovo, SonicWall &amp; Storag…","RT  A busy day at The Midlands Business Network Expo on the Blue Profile stand with our partners Lenovo, SonicWall &amp; Storag…","RT  A busy day at The Midlands Business Network Expo on the Blue Profile stand with our partners Lenovo, SonicWall &amp; Storag…","  A busy day at he Midlands Business Network Expo on the Blue Profile stand with our partners Lenovo, SonicWall &amp; Storag…",  A busy day at he Midlands Business Network Expo on the Blue Profile stand with our partners Lenovo SonicWall amp Storag…,"['A', 'busy', 'day', 'Midlands', 'Business', 'Network', 'Expo', 'Blue', 'Profile', 'stand', 'partners', 'Lenovo', 'SonicWall', 'amp', 'Storag…']"
+2,Lenovo X1 LDS Lidar Laser Navigation Robot Vacuum Cleaner https://t.co/myXBWotrvN https://t.co/zziBjhAAyd,Lenovo X1 LDS Lidar Laser Navigation Robot Vacuum Cleaner https://t.co/myXBWotrvN https://t.co/zziBjhAAyd,Lenovo X1 LDS Lidar Laser Navigation Robot Vacuum Cleaner  ,Lenovo X LDS Lidar Laser Navigation obot Vacuum Cleaner  ,Lenovo X LDS Lidar Laser Navigation obot Vacuum Cleaner  ,"['Lenovo', 'X', 'LDS', 'Lidar', 'Laser', 'Navigation', 'obot', 'Vacuum', 'Cleaner']"
+3,"RT @dakekang: 1/ For over a year, @yananw &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","  / For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…",   For over a year  amp I chased this story about Chinas labor transfer program under which hundreds of Uighurs worki…,"['For', 'year', 'amp', 'I', 'chased', 'story', 'Chinas', 'labor', 'transfer', 'program', 'hundreds', 'Uighurs', 'worki…']"
+4,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+5,@jamilcivil @MotorolaME @Moto @Lenovo_ME @Lenovo Yes... And that punch-hole is the smallest I have seen so far. So… https://t.co/VgaxK7QDty,     Yes... And that punch-hole is the smallest I have seen so far. So… https://t.co/VgaxK7QDty,     Yes... And that punch-hole is the smallest I have seen so far. So… ,     Yes... And that punch-hole is the smallest I have seen so far. So… ,     Yes And that punchhole is the smallest I have seen so far So… ,"['Yes', 'And', 'punchhole', 'smallest', 'I', 'seen', 'far', 'So…']"
+6,@shaanhaider @MotorolaME @Moto @Lenovo_ME @Lenovo Looks impressive,     Looks impressive,     Looks impressive,     Looks impressive,     Looks impressive,"['Looks', 'impressive']"
+7,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+8,"@imofo Also Lenovo can't get people into factories in China, pulling a lot of its marketing. Given that the same ha… https://t.co/4Yl1fyG8GE"," Also Lenovo can't get people into factories in China, pulling a lot of its marketing. Given that the same ha… https://t.co/4Yl1fyG8GE"," Also Lenovo can't get people into factories in China, pulling a lot of its marketing. Given that the same ha… "," Also Lenovo can't get people into factories in China, pulling a lot of its marketing. Given that the same ha… ", Also Lenovo cant get people into factories in China pulling a lot of its marketing Given that the same ha… ,"['Also', 'Lenovo', 'cant', 'get', 'people', 'factories', 'China', 'pulling', 'lot', 'marketing', 'Given', 'ha…']"
+9,"Lenovo Ideapad 330 81DE0363IN 15.6-inch Laptop (8th Gen I5-8250U/8GB/1TB HDD/Windows 10/Integrated Graphics), Plati… https://t.co/ircv4MSRvx","Lenovo Ideapad 330 81DE0363IN 15.6-inch Laptop (8th Gen I5-8250U/8GB/1TB HDD/Windows 10/Integrated Graphics), Plati… https://t.co/ircv4MSRvx","Lenovo Ideapad 330 81DE0363IN 15.6-inch Laptop (8th Gen I5-8250U/8GB/1TB HDD/Windows 10/Integrated Graphics), Plati… ","Lenovo Ideapad  DEIN .-inch Laptop (th Gen I-U/GB/B HDD/Windows /Integrated Graphics), Plati… ",Lenovo Ideapad  DEIN inch Laptop th Gen IUGBB HDDWindows Integrated Graphics Plati… ,"['Lenovo', 'Ideapad', 'DEIN', 'inch', 'Laptop', 'th', 'Gen', 'IUGBB', 'HDDWindows', 'Integrated', 'Graphics', 'Plati…']"
+10,RT @MalexAmeen: Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,RT  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,RT  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,  Android users will be busy attacking iPhones users for No reason  the most annoying thing is even those Android users that…,"['Android', 'users', 'busy', 'attacking', 'iPhones', 'users', 'No', 'reason', 'annoying', 'thing', 'even', 'Android', 'users', 'that…']"
+11,Amazon – Buy Lenovo GXD0T69863 Legion H300 Stereo Gaming Headset at Rs.2499 https://t.co/3xQhg7fHvS,Amazon – Buy Lenovo GXD0T69863 Legion H300 Stereo Gaming Headset at Rs.2499 https://t.co/3xQhg7fHvS,Amazon – Buy Lenovo GXD0T69863 Legion H300 Stereo Gaming Headset at Rs.2499 ,Amazon – Buy Lenovo GXD Legion H Stereo Gaming Headset at s. ,Amazon – Buy Lenovo GXD Legion H Stereo Gaming Headset at s ,"['Amazon', '–', 'Buy', 'Lenovo', 'GXD', 'Legion', 'H', 'Stereo', 'Gaming', 'Headset']"
+12,"RT @AfricaFactsZone: Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model | GB SSD GB AM core i
+  inches k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model  GB SSD GB AM core i
+  inches k resolution touch…","['Huntella', 'offers', 'Lenovo', 'hinkPad', 'Yoga', 'X', 'th', 'gen', 'model', 'GB', 'SSD', 'GB', 'AM', 'core', 'inches', 'k', 'resolution', 'touch…']"
+13,@tech24naveen Lenovo K10 note Android 10 update aayega please let me Anna, Lenovo K10 note Android 10 update aayega please let me Anna, Lenovo K10 note Android 10 update aayega please let me Anna, Lenovo K note Android  update aayega please let me Anna, Lenovo K note Android  update aayega please let me Anna,"['Lenovo', 'K', 'note', 'Android', 'update', 'aayega', 'please', 'let', 'Anna']"
+14,#Lenovo #ThinkSystem DM7100 provides #industry leading end to end NVMe #Storage. Designed to provide extreme… https://t.co/Obo08XzHN8,#Lenovo #ThinkSystem DM7100 provides #industry leading end to end NVMe #Storage. Designed to provide extreme… https://t.co/Obo08XzHN8,#Lenovo #ThinkSystem DM7100 provides #industry leading end to end NVMe #Storage. Designed to provide extreme… ,#Lenovo #hinkSystem DM provides #industry leading end to end NVMe #Storage. Designed to provide extreme… ,Lenovo hinkSystem DM provides industry leading end to end NVMe Storage Designed to provide extreme… ,"['Lenovo', 'hinkSystem', 'DM', 'provides', 'industry', 'leading', 'end', 'end', 'NVMe', 'Storage', 'Designed', 'provide', 'extreme…']"
+15,"IBM LENOVO Y50-70 59416738 15.6"" LAPTOP LED SCREEN DISPLAY UK DISPATCH https://t.co/nkpPMf0Eya https://t.co/Oakexqwu2X","IBM LENOVO Y50-70 59416738 15.6"" LAPTOP LED SCREEN DISPLAY UK DISPATCH https://t.co/nkpPMf0Eya https://t.co/Oakexqwu2X","IBM LENOVO Y50-70 59416738 15.6"" LAPTOP LED SCREEN DISPLAY UK DISPATCH  ","IBM LENOVO Y-  ."" LAPOP LED SCEEN DISPLAY UK DISPACH  ",IBM LENOVO Y   LAPOP LED SCEEN DISPLAY UK DISPACH  ,"['IBM', 'LENOVO', 'Y', 'LAPOP', 'LED', 'SCEEN', 'DISPLAY', 'UK', 'DISPACH']"
+16,"IBM Lenovo Y50-70 59418222 FHD Laptop Screen Display 15.6"" Backlit Panel https://t.co/fojvUn0W9l https://t.co/55B4pLf6Vi","IBM Lenovo Y50-70 59418222 FHD Laptop Screen Display 15.6"" Backlit Panel https://t.co/fojvUn0W9l https://t.co/55B4pLf6Vi","IBM Lenovo Y50-70 59418222 FHD Laptop Screen Display 15.6"" Backlit Panel  ","IBM Lenovo Y-  FHD Laptop Screen Display ."" Backlit Panel  ",IBM Lenovo Y  FHD Laptop Screen Display  Backlit Panel  ,"['IBM', 'Lenovo', 'Y', 'FHD', 'Laptop', 'Screen', 'Display', 'Backlit', 'Panel']"
+17,"IBM Lenovo Y50-70 59421832 Notebook Screen Full HD 15.6"" LED LCD D https://t.co/mZty0TLz9B https://t.co/sbcQQWb3KA","IBM Lenovo Y50-70 59421832 Notebook Screen Full HD 15.6"" LED LCD D https://t.co/mZty0TLz9B https://t.co/sbcQQWb3KA","IBM Lenovo Y50-70 59421832 Notebook Screen Full HD 15.6"" LED LCD D  ","IBM Lenovo Y-  Notebook Screen Full HD ."" LED LCD D  ",IBM Lenovo Y  Notebook Screen Full HD  LED LCD D  ,"['IBM', 'Lenovo', 'Y', 'Notebook', 'Screen', 'Full', 'HD', 'LED', 'LCD', 'D']"
+18,"IBM Lenovo Y50-70 59421847 Notebook Screen Full HD 15.6"" LED LCD Display New https://t.co/gwRb7WSrrR https://t.co/O0pTnyEKww","IBM Lenovo Y50-70 59421847 Notebook Screen Full HD 15.6"" LED LCD Display New https://t.co/gwRb7WSrrR https://t.co/O0pTnyEKww","IBM Lenovo Y50-70 59421847 Notebook Screen Full HD 15.6"" LED LCD Display New  ","IBM Lenovo Y-  Notebook Screen Full HD ."" LED LCD Display New  ",IBM Lenovo Y  Notebook Screen Full HD  LED LCD Display New  ,"['IBM', 'Lenovo', 'Y', 'Notebook', 'Screen', 'Full', 'HD', 'LED', 'LCD', 'Display', 'New']"
+19,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+20,RT @MalexAmeen: Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,RT  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,RT  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,  Android users will be busy attacking iPhones users for No reason  the most annoying thing is even those Android users that…,"['Android', 'users', 'busy', 'attacking', 'iPhones', 'users', 'No', 'reason', 'annoying', 'thing', 'even', 'Android', 'users', 'that…']"
+21,Laptop LCD Full HD 15.6 Inch Screen For Lenovo Ideapad 330 15arr 81D2001BUK New https://t.co/6AWM7tzR43 https://t.co/6Hm77Ye1NU,Laptop LCD Full HD 15.6 Inch Screen For Lenovo Ideapad 330 15arr 81D2001BUK New https://t.co/6AWM7tzR43 https://t.co/6Hm77Ye1NU,Laptop LCD Full HD 15.6 Inch Screen For Lenovo Ideapad 330 15arr 81D2001BUK New  ,Laptop LCD Full HD . Inch Screen For Lenovo Ideapad  arr DBUK New  ,Laptop LCD Full HD  Inch Screen For Lenovo Ideapad  arr DBUK New  ,"['Laptop', 'LCD', 'Full', 'HD', 'Inch', 'Screen', 'For', 'Lenovo', 'Ideapad', 'arr', 'DBUK', 'New']"
+22,Laptop LCD Full HD 15.6 Inch Screen For Lenovo Ideapad 330 15arr 81D2003CGE New https://t.co/G11guDukSX https://t.co/LdSI0oGddK,Laptop LCD Full HD 15.6 Inch Screen For Lenovo Ideapad 330 15arr 81D2003CGE New https://t.co/G11guDukSX https://t.co/LdSI0oGddK,Laptop LCD Full HD 15.6 Inch Screen For Lenovo Ideapad 330 15arr 81D2003CGE New  ,Laptop LCD Full HD . Inch Screen For Lenovo Ideapad  arr DCGE New  ,Laptop LCD Full HD  Inch Screen For Lenovo Ideapad  arr DCGE New  ,"['Laptop', 'LCD', 'Full', 'HD', 'Inch', 'Screen', 'For', 'Lenovo', 'Ideapad', 'arr', 'DCGE', 'New']"
+23,another @lenovo_UKI @motorolaUK @moto #android #bug clock alarm app doesnt reflect cal change start day of week its… https://t.co/7iZliEmkPH,another    #android #bug clock alarm app doesnt reflect cal change start day of week its… https://t.co/7iZliEmkPH,another    #android #bug clock alarm app doesnt reflect cal change start day of week its… ,another    #android #bug clock alarm app doesnt reflect cal change start day of week its… ,another    android bug clock alarm app doesnt reflect cal change start day of week its… ,"['another', 'android', 'bug', 'clock', 'alarm', 'app', 'doesnt', 'reflect', 'cal', 'change', 'start', 'day', 'week', 'its…']"
+24,"Laptops of all brands are now at one platform. 
+
+Contact us: 0303-0300041
+Website:
+https://t.co/EvlYwQKZ1R… https://t.co/0e5q5vFVZL","Laptops of all brands are now at one platform. 
+
+Contact us: 0303-0300041
+Website:
+https://t.co/EvlYwQKZ1R… https://t.co/0e5q5vFVZL","Laptops of all brands are now at one platform. 
+
+Contact us: 0303-0300041
+Website:
+ ","Laptops of all brands are now at one platform. 
+
+Contact us: -
+Website:
+ ","Laptops of all brands are now at one platform 
+
+Contact us 
+Website
+ ","['Laptops', 'brands', 'one', 'platform', 'Contact', 'us', 'Website']"
+25,How to Root Yoga Tablet 8 https://t.co/4x3ZdWPH7y #lenovo #tablet #root,How to Root Yoga Tablet 8 https://t.co/4x3ZdWPH7y #lenovo #tablet #root,How to Root Yoga Tablet 8  #lenovo #tablet #root,How to oot Yoga ablet   #lenovo #tablet #root,How to oot Yoga ablet   lenovo tablet root,"['How', 'oot', 'Yoga', 'ablet', 'lenovo', 'tablet', 'root']"
+26,"RT @OkroguLes: IdeaCentre A540 (24"", Intel)
+IdeaCentre A540 (24)
+Style meets form &amp; function
+https://t.co/fOrmi2wwX1 https://t.co/7rhzZOY4iW","RT  IdeaCentre A540 (24"", Intel)
+IdeaCentre A540 (24)
+Style meets form &amp; function
+https://t.co/fOrmi2wwX1 https://t.co/7rhzZOY4iW","RT  IdeaCentre A540 (24"", Intel)
+IdeaCentre A540 (24)
+Style meets form &amp; function
+ ","  IdeaCentre A ("", Intel)
+IdeaCentre A ()
+Style meets form &amp; function
+ ","  IdeaCentre A  Intel
+IdeaCentre A 
+Style meets form amp function
+ ","['IdeaCentre', 'A', 'Intel', 'IdeaCentre', 'A', 'Style', 'meets', 'form', 'amp', 'function']"
+27,RT @MalexAmeen: Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,RT  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,RT  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,  Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android users that…,  Android users will be busy attacking iPhones users for No reason  the most annoying thing is even those Android users that…,"['Android', 'users', 'busy', 'attacking', 'iPhones', 'users', 'No', 'reason', 'annoying', 'thing', 'even', 'Android', 'users', 'that…']"
+28,"RT @Williams_Chriz: Your birthday month is the next phone you will use..
+
+Jan = Itel
+Feb = Infinix
+Mar = Tecno
+Apt = Motorola
+May = Nokia…","RT  Your birthday month is the next phone you will use..
+
+Jan = Itel
+Feb = Infinix
+Mar = Tecno
+Apt = Motorola
+May = Nokia…","RT  Your birthday month is the next phone you will use..
+
+Jan = Itel
+Feb = Infinix
+Mar = Tecno
+Apt = Motorola
+May = Nokia…","  Your birthday month is the next phone you will use..
+
+Jan = Itel
+Feb = Infinix
+Mar = ecno
+Apt = Motorola
+May = Nokia…","  Your birthday month is the next phone you will use
+
+Jan  Itel
+Feb  Infinix
+Mar  ecno
+Apt  Motorola
+May  Nokia…","['Your', 'birthday', 'month', 'next', 'phone', 'use', 'Jan', 'Itel', 'Feb', 'Infinix', 'Mar', 'ecno', 'Apt', 'Motorola', 'May', 'Nokia…']"
+29,"(Renewed) Lenovo ThinkCentre M71E Desktop (Core I3 3.3 Ghz, 8 GB RAM/ 500 GB HDD/ Win 10 Pro, MS Office/ Intel H61… https://t.co/NkBYuuGLJM","(Renewed) Lenovo ThinkCentre M71E Desktop (Core I3 3.3 Ghz, 8 GB RAM/ 500 GB HDD/ Win 10 Pro, MS Office/ Intel H61… https://t.co/NkBYuuGLJM","(Renewed) Lenovo ThinkCentre M71E Desktop (Core I3 3.3 Ghz, 8 GB RAM/ 500 GB HDD/ Win 10 Pro, MS Office/ Intel H61… ","(enewed) Lenovo hinkCentre ME Desktop (Core I . Ghz,  GB AM/  GB HDD/ Win  Pro, MS Office/ Intel H… ",enewed Lenovo hinkCentre ME Desktop Core I  Ghz  GB AM  GB HDD Win  Pro MS Office Intel H… ,"['enewed', 'Lenovo', 'hinkCentre', 'ME', 'Desktop', 'Core', 'I', 'Ghz', 'GB', 'AM', 'GB', 'HDD', 'Win', 'Pro', 'MS', 'Office', 'Intel', 'H…']"
+30,Lenovo IdeaPad S-145 Unboxing Budget Laptop for students and Office workers 2020 https://t.co/xBeXUMOCCC,Lenovo IdeaPad S-145 Unboxing Budget Laptop for students and Office workers 2020 https://t.co/xBeXUMOCCC,Lenovo IdeaPad S-145 Unboxing Budget Laptop for students and Office workers 2020 ,Lenovo IdeaPad S- Unboxing Budget Laptop for students and Office workers  ,Lenovo IdeaPad S Unboxing Budget Laptop for students and Office workers  ,"['Lenovo', 'IdeaPad', 'S', 'Unboxing', 'Budget', 'Laptop', 'students', 'Office', 'workers']"
+31,"Lenovo AIO 330 F0D70019IN 19.5-inch All-in-One Desktop (J4005/4GB/1TB/Windows 10 Home/Integrated Graphics), Black https://t.co/MxHFHEfYld","Lenovo AIO 330 F0D70019IN 19.5-inch All-in-One Desktop (J4005/4GB/1TB/Windows 10 Home/Integrated Graphics), Black https://t.co/MxHFHEfYld","Lenovo AIO 330 F0D70019IN 19.5-inch All-in-One Desktop (J4005/4GB/1TB/Windows 10 Home/Integrated Graphics), Black ","Lenovo AIO  FDIN .-inch All-in-One Desktop (J/GB/B/Windows  Home/Integrated Graphics), Black ",Lenovo AIO  FDIN inch AllinOne Desktop JGBBWindows  HomeIntegrated Graphics Black ,"['Lenovo', 'AIO', 'FDIN', 'inch', 'AllinOne', 'Desktop', 'JGBBWindows', 'HomeIntegrated', 'Graphics', 'Black']"
+32,"LENOVO G50-80 SERIES FHD New Laptop Screen 15.6"" LED Backlit LCD Display Panel https://t.co/xnWLuARDGX https://t.co/YqnBguzZPY","LENOVO G50-80 SERIES FHD New Laptop Screen 15.6"" LED Backlit LCD Display Panel https://t.co/xnWLuARDGX https://t.co/YqnBguzZPY","LENOVO G50-80 SERIES FHD New Laptop Screen 15.6"" LED Backlit LCD Display Panel  ","LENOVO G- SEIES FHD New Laptop Screen ."" LED Backlit LCD Display Panel  ",LENOVO G SEIES FHD New Laptop Screen  LED Backlit LCD Display Panel  ,"['LENOVO', 'G', 'SEIES', 'FHD', 'New', 'Laptop', 'Screen', 'LED', 'Backlit', 'LCD', 'Display', 'Panel']"
+33,"Lenovo Tab M10 Full-HD (3GB, 32GB, Wi-Fi + 4G LTE, Non Calling), Slate Black https://t.co/gUu94mi2R5","Lenovo Tab M10 Full-HD (3GB, 32GB, Wi-Fi + 4G LTE, Non Calling), Slate Black https://t.co/gUu94mi2R5","Lenovo Tab M10 Full-HD (3GB, 32GB, Wi-Fi + 4G LTE, Non Calling), Slate Black ","Lenovo ab M Full-HD (GB, GB, Wi-Fi + G LE, Non Calling), Slate Black ",Lenovo ab M FullHD GB GB WiFi  G LE Non Calling Slate Black ,"['Lenovo', 'ab', 'M', 'FullHD', 'GB', 'GB', 'WiFi', 'G', 'LE', 'Non', 'Calling', 'Slate', 'Black']"
+34,"Lenovo Tab V7 Tablet (6.9 inch, 32GB, Wi-Fi + 4G Voice Calling), Onyx Black https://t.co/UWQvQ9xtTR","Lenovo Tab V7 Tablet (6.9 inch, 32GB, Wi-Fi + 4G Voice Calling), Onyx Black https://t.co/UWQvQ9xtTR","Lenovo Tab V7 Tablet (6.9 inch, 32GB, Wi-Fi + 4G Voice Calling), Onyx Black ","Lenovo ab V ablet (. inch, GB, Wi-Fi + G Voice Calling), Onyx Black ",Lenovo ab V ablet  inch GB WiFi  G Voice Calling Onyx Black ,"['Lenovo', 'ab', 'V', 'ablet', 'inch', 'GB', 'WiFi', 'G', 'Voice', 'Calling', 'Onyx', 'Black']"
+35,"Lenovo Tab M10 FHD REL Tablet (10.1-inch, 32GB, WiFi + LTE + Volte Calling), Black https://t.co/wUtfwQ2sZS","Lenovo Tab M10 FHD REL Tablet (10.1-inch, 32GB, WiFi + LTE + Volte Calling), Black https://t.co/wUtfwQ2sZS","Lenovo Tab M10 FHD REL Tablet (10.1-inch, 32GB, WiFi + LTE + Volte Calling), Black ","Lenovo ab M FHD EL ablet (.-inch, GB, WiFi + LE + Volte Calling), Black ",Lenovo ab M FHD EL ablet inch GB WiFi  LE  Volte Calling Black ,"['Lenovo', 'ab', 'M', 'FHD', 'EL', 'ablet', 'inch', 'GB', 'WiFi', 'LE', 'Volte', 'Calling', 'Black']"
+36,"Lenovo Tab4 8 Tablet (8 inch, 16GB, Wi-Fi + 2G LTE, Voice Calling), Slate Black https://t.co/IcpiwZAV1t","Lenovo Tab4 8 Tablet (8 inch, 16GB, Wi-Fi + 2G LTE, Voice Calling), Slate Black https://t.co/IcpiwZAV1t","Lenovo Tab4 8 Tablet (8 inch, 16GB, Wi-Fi + 2G LTE, Voice Calling), Slate Black ","Lenovo ab  ablet ( inch, GB, Wi-Fi + G LE, Voice Calling), Slate Black ",Lenovo ab  ablet  inch GB WiFi  G LE Voice Calling Slate Black ,"['Lenovo', 'ab', 'ablet', 'inch', 'GB', 'WiFi', 'G', 'LE', 'Voice', 'Calling', 'Slate', 'Black']"
+37,"Lenovo Yoga Tab 3 10 Tablet (10.1 inch, 16GB, Wi-Fi + 4G LTE, Calling), Slate Black https://t.co/sCyKNA5j7u","Lenovo Yoga Tab 3 10 Tablet (10.1 inch, 16GB, Wi-Fi + 4G LTE, Calling), Slate Black https://t.co/sCyKNA5j7u","Lenovo Yoga Tab 3 10 Tablet (10.1 inch, 16GB, Wi-Fi + 4G LTE, Calling), Slate Black ","Lenovo Yoga ab   ablet (. inch, GB, Wi-Fi + G LE, Calling), Slate Black ",Lenovo Yoga ab   ablet  inch GB WiFi  G LE Calling Slate Black ,"['Lenovo', 'Yoga', 'ab', 'ablet', 'inch', 'GB', 'WiFi', 'G', 'LE', 'Calling', 'Slate', 'Black']"
+38,"Lenovo Tab4 10 Tablet (10.1 inch,16GB,Wi-Fi + 4G LTE, Non Calling) Slate Black https://t.co/nFk7njJUzz","Lenovo Tab4 10 Tablet (10.1 inch,16GB,Wi-Fi + 4G LTE, Non Calling) Slate Black https://t.co/nFk7njJUzz","Lenovo Tab4 10 Tablet (10.1 inch,16GB,Wi-Fi + 4G LTE, Non Calling) Slate Black ","Lenovo ab  ablet (. inch,GB,Wi-Fi + G LE, Non Calling) Slate Black ",Lenovo ab  ablet  inchGBWiFi  G LE Non Calling Slate Black ,"['Lenovo', 'ab', 'ablet', 'inchGBWiFi', 'G', 'LE', 'Non', 'Calling', 'Slate', 'Black']"
+39,"Lenovo Tab4 8 Plus Tablet (8 inch, 16GB, Wi-Fi + 3G LTE, Voice Calling), Black https://t.co/TOVACL835i","Lenovo Tab4 8 Plus Tablet (8 inch, 16GB, Wi-Fi + 3G LTE, Voice Calling), Black https://t.co/TOVACL835i","Lenovo Tab4 8 Plus Tablet (8 inch, 16GB, Wi-Fi + 3G LTE, Voice Calling), Black ","Lenovo ab  Plus ablet ( inch, GB, Wi-Fi + G LE, Voice Calling), Black ",Lenovo ab  Plus ablet  inch GB WiFi  G LE Voice Calling Black ,"['Lenovo', 'ab', 'Plus', 'ablet', 'inch', 'GB', 'WiFi', 'G', 'LE', 'Voice', 'Calling', 'Black']"
+40,"Lenovo Tab 7 Tablet (6.98 inch, 16GB, Wi-Fi + 4G LTE, Voice Calling) Black https://t.co/h2hXK41vI8","Lenovo Tab 7 Tablet (6.98 inch, 16GB, Wi-Fi + 4G LTE, Voice Calling) Black https://t.co/h2hXK41vI8","Lenovo Tab 7 Tablet (6.98 inch, 16GB, Wi-Fi + 4G LTE, Voice Calling) Black ","Lenovo ab  ablet (. inch, GB, Wi-Fi + G LE, Voice Calling) Black ",Lenovo ab  ablet  inch GB WiFi  G LE Voice Calling Black ,"['Lenovo', 'ab', 'ablet', 'inch', 'GB', 'WiFi', 'G', 'LE', 'Voice', 'Calling', 'Black']"
+41,RT @bestads: Interactive ad: Lenovo: Equality Spell Check  https://t.co/HLjVKNX2OF,RT  Interactive ad: Lenovo: Equality Spell Check  https://t.co/HLjVKNX2OF,RT  Interactive ad: Lenovo: Equality Spell Check  ,  Interactive ad: Lenovo: Equality Spell Check  ,  Interactive ad Lenovo Equality Spell Check  ,"['Interactive', 'ad', 'Lenovo', 'Equality', 'Spell', 'Check']"
+42,Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android us… https://t.co/q3DxFme2yL,Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android us… https://t.co/q3DxFme2yL,Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android us… ,Android users will be busy attacking iPhones user's for No reason  the most annoying thing is even those Android us… ,Android users will be busy attacking iPhones users for No reason  the most annoying thing is even those Android us… ,"['Android', 'users', 'busy', 'attacking', 'iPhones', 'users', 'No', 'reason', 'annoying', 'thing', 'even', 'Android', 'us…']"
+43,It was a pleasure being at the Lenovo-CNBC Smarter India event to discuss how smarter technology will transform the… https://t.co/FUkuOxTmPr,It was a pleasure being at the Lenovo-CNBC Smarter India event to discuss how smarter technology will transform the… https://t.co/FUkuOxTmPr,It was a pleasure being at the Lenovo-CNBC Smarter India event to discuss how smarter technology will transform the… ,It was a pleasure being at the Lenovo-CNBC Smarter India event to discuss how smarter technology will transform the… ,It was a pleasure being at the LenovoCNBC Smarter India event to discuss how smarter technology will transform the… ,"['It', 'pleasure', 'LenovoCNBC', 'Smarter', 'India', 'event', 'discuss', 'smarter', 'technology', 'transform', 'the…']"
+44,"I've entered to win a @Lenovo Legion Gaming Laptop worth £1000, join in! @boxcouk #LenovoLegion #Giveaway https://t.co/hnR6HEtRlp","I've entered to win a  Legion Gaming Laptop worth £1000, join in!  #LenovoLegion #Giveaway https://t.co/hnR6HEtRlp","I've entered to win a  Legion Gaming Laptop worth £1000, join in!  #LenovoLegion #Giveaway ","I've entered to win a  Legion Gaming Laptop worth £, join in!  #LenovoLegion #Giveaway ",Ive entered to win a  Legion Gaming Laptop worth £ join in  LenovoLegion Giveaway ,"['Ive', 'entered', 'win', 'Legion', 'Gaming', 'Laptop', 'worth', '£', 'join', 'LenovoLegion', 'Giveaway']"
+45,"@BeartikalRBLX If you want a beast, then Acer Predator Triton 900
+
+Other than that, I would reccommend Lenovo Legio… https://t.co/b5pMfwAdPu"," If you want a beast, then Acer Predator Triton 900
+
+Other than that, I would reccommend Lenovo Legio… https://t.co/b5pMfwAdPu"," If you want a beast, then Acer Predator Triton 900
+
+Other than that, I would reccommend Lenovo Legio… "," If you want a beast, then Acer Predator riton 
+
+Other than that, I would reccommend Lenovo Legio… "," If you want a beast then Acer Predator riton 
+
+Other than that I would reccommend Lenovo Legio… ","['If', 'want', 'beast', 'Acer', 'Predator', 'riton', 'Other', 'I', 'would', 'reccommend', 'Lenovo', 'Legio…']"
+46,"Steal!!
+Lenovo ThinkCentre M91p SFF Quad Core i5-2400 8GB RAM 2 for only £134.95
+https://t.co/fcfayXO9H5 https://t.co/ZRXaB3Z7xX","Steal!!
+Lenovo ThinkCentre M91p SFF Quad Core i5-2400 8GB RAM 2 for only £134.95
+https://t.co/fcfayXO9H5 https://t.co/ZRXaB3Z7xX","Steal!!
+Lenovo ThinkCentre M91p SFF Quad Core i5-2400 8GB RAM 2 for only £134.95
+ ","Steal!!
+Lenovo hinkCentre Mp SFF Quad Core i- GB AM  for only £.
+ ","Steal
+Lenovo hinkCentre Mp SFF Quad Core i GB AM  for only £
+ ","['Steal', 'Lenovo', 'hinkCentre', 'Mp', 'SFF', 'Quad', 'Core', 'GB', 'AM', '£']"
+47,"@Lenovo_in @LenovoMobileIN @Lenovo 
+Trying to exchange my  P780 phone on Amazon but getting error when I enter IMEI… https://t.co/WrOya3gHwm","   
+Trying to exchange my  P780 phone on Amazon but getting error when I enter IMEI… https://t.co/WrOya3gHwm","   
+Trying to exchange my  P780 phone on Amazon but getting error when I enter IMEI… ","   
+rying to exchange my  P phone on Amazon but getting error when I enter IMEI… ","   
+rying to exchange my  P phone on Amazon but getting error when I enter IMEI… ","['rying', 'exchange', 'P', 'phone', 'Amazon', 'getting', 'error', 'I', 'enter', 'IMEI…']"
+48,"💥 Lenovo Ideapad S145 81ST0028IN 14-inch Laptop (4GB/1TB HDD/Windows 10) at just Rs.17990 (MRP 34390)
+👉 https://t.co/duVYngSVjG","💥 Lenovo Ideapad S145 81ST0028IN 14-inch Laptop (4GB/1TB HDD/Windows 10) at just Rs.17990 (MRP 34390)
+👉 https://t.co/duVYngSVjG","💥 Lenovo Ideapad S145 81ST0028IN 14-inch Laptop (4GB/1TB HDD/Windows 10) at just Rs.17990 (MRP 34390)
+👉 ","💥 Lenovo Ideapad S SIN -inch Laptop (GB/B HDD/Windows ) at just s. (MP )
+👉 ","💥 Lenovo Ideapad S SIN inch Laptop GBB HDDWindows  at just s MP 
+👉 ","['💥', 'Lenovo', 'Ideapad', 'S', 'SIN', 'inch', 'Laptop', 'GBB', 'HDDWindows', 'MP', '👉']"
+49,#Lenovo #Thinkpad X1 Presenter Mouse :  Transforms the way you present. Innovation never stops !! https://t.co/9q0XBWQ3Mv #WeAreLenovo,#Lenovo #Thinkpad X1 Presenter Mouse :  Transforms the way you present. Innovation never stops !! https://t.co/9q0XBWQ3Mv #WeAreLenovo,#Lenovo #Thinkpad X1 Presenter Mouse :  Transforms the way you present. Innovation never stops !!  #WeAreLenovo,#Lenovo #hinkpad X Presenter Mouse :  ransforms the way you present. Innovation never stops !!  #WeAreLenovo,Lenovo hinkpad X Presenter Mouse   ransforms the way you present Innovation never stops   WeAreLenovo,"['Lenovo', 'hinkpad', 'X', 'Presenter', 'Mouse', 'ransforms', 'way', 'present', 'Innovation', 'never', 'stops', 'WeAreLenovo']"
+50,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+51,"Lenovo Yoga Smart Tab is Released, October 2019 Available, it has Octa-core CPU, 4GB RAM, 64GB Storage, 10.1 inches… https://t.co/79iDW0O0Lm","Lenovo Yoga Smart Tab is Released, October 2019 Available, it has Octa-core CPU, 4GB RAM, 64GB Storage, 10.1 inches… https://t.co/79iDW0O0Lm","Lenovo Yoga Smart Tab is Released, October 2019 Available, it has Octa-core CPU, 4GB RAM, 64GB Storage, 10.1 inches… ","Lenovo Yoga Smart ab is eleased, October  Available, it has Octa-core CPU, GB AM, GB Storage, . inches… ",Lenovo Yoga Smart ab is eleased October  Available it has Octacore CPU GB AM GB Storage  inches… ,"['Lenovo', 'Yoga', 'Smart', 'ab', 'eleased', 'October', 'Available', 'Octacore', 'CPU', 'GB', 'AM', 'GB', 'Storage', 'inches…']"
+52,"RT @parthavs: ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","RT  ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","RT  ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","  ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","  Destiny is not a matter of chance its a matter of choice
+As we hurtle into a future filled with AI amp bots we need to des…","['Destiny', 'matter', 'chance', 'matter', 'choice', 'As', 'hurtle', 'future', 'filled', 'AI', 'amp', 'bots', 'need', 'des…']"
+53,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+54,"Model jessikahcollins_
+Image by @Murphyphotosnet
+Location  @studio110nc
+.
+.
+.
+.
+
+. .
+.
+
+nikonusa @Lenovo sandisk… https://t.co/nvaxyIGibE","Model jessikahcollins_
+Image by 
+Location  
+.
+.
+.
+.
+
+. .
+.
+
+nikonusa  sandisk… https://t.co/nvaxyIGibE","Model jessikahcollins_
+Image by 
+Location  
+.
+.
+.
+.
+
+. .
+.
+
+nikonusa  sandisk… ","Model jessikahcollins_
+Image by 
+Location  
+.
+.
+.
+.
+
+. .
+.
+
+nikonusa  sandisk… ","Model jessikahcollins
+Image by 
+Location  
+
+
+
+
+
+ 
+
+
+nikonusa  sandisk… ","['Model', 'jessikahcollins', 'Image', 'Location', 'nikonusa', 'sandisk…']"
+55,"RT @yananw: Insightful thread from my reporting partner @dakekang on the complicated history &amp; nature of this labor program, adding to what…","RT  Insightful thread from my reporting partner  on the complicated history &amp; nature of this labor program, adding to what…","RT  Insightful thread from my reporting partner  on the complicated history &amp; nature of this labor program, adding to what…","  Insightful thread from my reporting partner  on the complicated history &amp; nature of this labor program, adding to what…",  Insightful thread from my reporting partner  on the complicated history amp nature of this labor program adding to what…,"['Insightful', 'thread', 'reporting', 'partner', 'complicated', 'history', 'amp', 'nature', 'labor', 'program', 'adding', 'what…']"
+56,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+57,"RT @OkroguLes: IdeaCentre A540 (24"", Intel)
+IdeaCentre A540 (24)
+Style meets form &amp; function
+https://t.co/fOrmi2wwX1 https://t.co/7rhzZOY4iW","RT  IdeaCentre A540 (24"", Intel)
+IdeaCentre A540 (24)
+Style meets form &amp; function
+https://t.co/fOrmi2wwX1 https://t.co/7rhzZOY4iW","RT  IdeaCentre A540 (24"", Intel)
+IdeaCentre A540 (24)
+Style meets form &amp; function
+ ","  IdeaCentre A ("", Intel)
+IdeaCentre A ()
+Style meets form &amp; function
+ ","  IdeaCentre A  Intel
+IdeaCentre A 
+Style meets form amp function
+ ","['IdeaCentre', 'A', 'Intel', 'IdeaCentre', 'A', 'Style', 'meets', 'form', 'amp', 'function']"
+58,"I love the flips. Add a hologram display
+
+https://t.co/PpJi4AP3Nm","I love the flips. Add a hologram display
+
+https://t.co/PpJi4AP3Nm","I love the flips. Add a hologram display
+
+","I love the flips. Add a hologram display
+
+","I love the flips Add a hologram display
+
+","['I', 'love', 'flips', 'Add', 'hologram', 'display']"
+59,Lenovo ThinkPad T495s review: A solid AMD-powered business workhorse https://t.co/kga0delyaG https://t.co/pwdHS4uGGu,Lenovo ThinkPad T495s review: A solid AMD-powered business workhorse https://t.co/kga0delyaG https://t.co/pwdHS4uGGu,Lenovo ThinkPad T495s review: A solid AMD-powered business workhorse  ,Lenovo hinkPad s review: A solid AMD-powered business workhorse  ,Lenovo hinkPad s review A solid AMDpowered business workhorse  ,"['Lenovo', 'hinkPad', 'review', 'A', 'solid', 'AMDpowered', 'business', 'workhorse']"
+60,"Stellar evening with V Vaidyanathan @IDFCFIRSTBank MD, @MahindraRise CIO/ CFO V S ParthaSarthy, @Lenovo_in MD… https://t.co/gp1bN3sSXy","Stellar evening with V Vaidyanathan  MD,  CIO/ CFO V S ParthaSarthy,  MD… https://t.co/gp1bN3sSXy","Stellar evening with V Vaidyanathan  MD,  CIO/ CFO V S ParthaSarthy,  MD… ","Stellar evening with V Vaidyanathan  MD,  CIO/ CFO V S ParthaSarthy,  MD… ",Stellar evening with V Vaidyanathan  MD  CIO CFO V S ParthaSarthy  MD… ,"['Stellar', 'evening', 'V', 'Vaidyanathan', 'MD', 'CIO', 'CFO', 'V', 'S', 'ParthaSarthy', 'MD…']"
+61,"@BruceDawson0xB @Lenovo Annoyingly, the answer seems to be to remove it all and periodically manually check for upd… https://t.co/trjwAbpaTv","  Annoyingly, the answer seems to be to remove it all and periodically manually check for upd… https://t.co/trjwAbpaTv","  Annoyingly, the answer seems to be to remove it all and periodically manually check for upd… ","  Annoyingly, the answer seems to be to remove it all and periodically manually check for upd… ",  Annoyingly the answer seems to be to remove it all and periodically manually check for upd… ,"['Annoyingly', 'answer', 'seems', 'remove', 'periodically', 'manually', 'check', 'upd…']"
+62,"@dayv I have a 16:10 Lenovo Yoga Book that I use as a tablet nearly daily. Wanna know what I think nearly every day?
+
+""This should be 16:9."""," I have a 16:10 Lenovo Yoga Book that I use as a tablet nearly daily. Wanna know what I think nearly every day?
+
+""This should be 16:9."""," I have a 16:10 Lenovo Yoga Book that I use as a tablet nearly daily. Wanna know what I think nearly every day?
+
+""This should be 16:9."""," I have a : Lenovo Yoga Book that I use as a tablet nearly daily. Wanna know what I think nearly every day?
+
+""his should be :."""," I have a  Lenovo Yoga Book that I use as a tablet nearly daily Wanna know what I think nearly every day
+
+his should be ","['I', 'Lenovo', 'Yoga', 'Book', 'I', 'use', 'tablet', 'nearly', 'daily', 'Wanna', 'know', 'I', 'think', 'nearly', 'every', 'day']"
+63,"@BrandonMiniman BTW, Lenovo still sells Ideapad 130S which comes with Celeron N4000 instead of Atom CPU, probably b… https://t.co/mWaSQ94dmp"," BTW, Lenovo still sells Ideapad 130S which comes with Celeron N4000 instead of Atom CPU, probably b… https://t.co/mWaSQ94dmp"," BTW, Lenovo still sells Ideapad 130S which comes with Celeron N4000 instead of Atom CPU, probably b… "," BW, Lenovo still sells Ideapad S which comes with Celeron N instead of Atom CPU, probably b… ", BW Lenovo still sells Ideapad S which comes with Celeron N instead of Atom CPU probably b… ,"['BW', 'Lenovo', 'still', 'sells', 'Ideapad', 'S', 'comes', 'Celeron', 'N', 'instead', 'Atom', 'CPU', 'probably', 'b…']"
+64,"RT @AfricaFactsZone: Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model | GB SSD GB AM core i
+  inches k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model  GB SSD GB AM core i
+  inches k resolution touch…","['Huntella', 'offers', 'Lenovo', 'hinkPad', 'Yoga', 'X', 'th', 'gen', 'model', 'GB', 'SSD', 'GB', 'AM', 'core', 'inches', 'k', 'resolution', 'touch…']"
+65,"RT @kamalds: @BrandonMiniman I still use a Lenovo Ideapad 100s. Replaced its battery and using it again! 
+
+Geeks know how to tweak and use…","RT   I still use a Lenovo Ideapad 100s. Replaced its battery and using it again! 
+
+Geeks know how to tweak and use…","RT   I still use a Lenovo Ideapad 100s. Replaced its battery and using it again! 
+
+Geeks know how to tweak and use…","   I still use a Lenovo Ideapad s. eplaced its battery and using it again! 
+
+Geeks know how to tweak and use…","   I still use a Lenovo Ideapad s eplaced its battery and using it again 
+
+Geeks know how to tweak and use…","['I', 'still', 'use', 'Lenovo', 'Ideapad', 'eplaced', 'battery', 'using', 'Geeks', 'know', 'tweak', 'use…']"
+66,"@BrandonMiniman I still use a Lenovo Ideapad 100s. Replaced its battery and using it again! 
+
+Geeks know how to twe… https://t.co/PhIY8Xyb9C"," I still use a Lenovo Ideapad 100s. Replaced its battery and using it again! 
+
+Geeks know how to twe… https://t.co/PhIY8Xyb9C"," I still use a Lenovo Ideapad 100s. Replaced its battery and using it again! 
+
+Geeks know how to twe… "," I still use a Lenovo Ideapad s. eplaced its battery and using it again! 
+
+Geeks know how to twe… "," I still use a Lenovo Ideapad s eplaced its battery and using it again 
+
+Geeks know how to twe… ","['I', 'still', 'use', 'Lenovo', 'Ideapad', 'eplaced', 'battery', 'using', 'Geeks', 'know', 'twe…']"
+67,"#Deal Save 33% (499.99$) | Lenovo Flex 5 i5-8250U 8G Memory 512G PCIe SSD 15.6"" Win10 Home 2-in-1 Laptop… https://t.co/iUXikDIHcm","#Deal Save 33% (499.99$) | Lenovo Flex 5 i5-8250U 8G Memory 512G PCIe SSD 15.6"" Win10 Home 2-in-1 Laptop… https://t.co/iUXikDIHcm","#Deal Save 33% (499.99$) | Lenovo Flex 5 i5-8250U 8G Memory 512G PCIe SSD 15.6"" Win10 Home 2-in-1 Laptop… ","#Deal Save % (.$) | Lenovo Flex  i-U G Memory G PCIe SSD ."" Win Home -in- Laptop… ",Deal Save    Lenovo Flex  iU G Memory G PCIe SSD  Win Home in Laptop… ,"['Deal', 'Save', 'Lenovo', 'Flex', 'iU', 'G', 'Memory', 'G', 'PCIe', 'SSD', 'Win', 'Home', 'Laptop…']"
+68,Your Lenovo laptop deserves to be in the Lenovo laptop bag. Just place an order at : at +254 (02) 3749953 or Email:… https://t.co/ZH2iHYTHtg,Your Lenovo laptop deserves to be in the Lenovo laptop bag. Just place an order at : at +254 (02) 3749953 or Email:… https://t.co/ZH2iHYTHtg,Your Lenovo laptop deserves to be in the Lenovo laptop bag. Just place an order at : at +254 (02) 3749953 or Email:… ,Your Lenovo laptop deserves to be in the Lenovo laptop bag. Just place an order at : at + ()  or Email:… ,Your Lenovo laptop deserves to be in the Lenovo laptop bag Just place an order at  at    or Email… ,"['Your', 'Lenovo', 'laptop', 'deserves', 'Lenovo', 'laptop', 'bag', 'Just', 'place', 'order', 'Email…']"
+69,RT @DaniellesCave: An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,RT  An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,RT  An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,  An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,  An investigation by AP separate to ours examines coerced Uyghur labour at an OFILM factory in Nanchang Xinjiang worke…,"['An', 'investigation', 'AP', 'separate', 'examines', 'coerced', 'Uyghur', 'labour', 'OFILM', 'factory', 'Nanchang', 'Xinjiang', 'worke…']"
+70,"RT @Lenovo_in: Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","RT  Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","RT  Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","  Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","  Are financial institutions ready for techsavvy customers
+Discover how Smarter technology can transform the Banking amp Finan…","['Are', 'financial', 'institutions', 'ready', 'techsavvy', 'customers', 'Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Finan…']"
+71,"RT @parthavs: ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","RT  ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","RT  ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","  ""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we need to des…","  Destiny is not a matter of chance its a matter of choice
+As we hurtle into a future filled with AI amp bots we need to des…","['Destiny', 'matter', 'chance', 'matter', 'choice', 'As', 'hurtle', 'future', 'filled', 'AI', 'amp', 'bots', 'need', 'des…']"
+72,"@BruceDawson0xB @Lenovo Ugh, I hope not. I already had to remove Dell's update client from our clients when they tr… https://t.co/FMVlDpkkok","  Ugh, I hope not. I already had to remove Dell's update client from our clients when they tr… https://t.co/FMVlDpkkok","  Ugh, I hope not. I already had to remove Dell's update client from our clients when they tr… ","  Ugh, I hope not. I already had to remove Dell's update client from our clients when they tr… ",  Ugh I hope not I already had to remove Dells update client from our clients when they tr… ,"['Ugh', 'I', 'hope', 'I', 'already', 'remove', 'Dells', 'update', 'client', 'clients', 'tr…']"
+73,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+74,"PERSONALISED BRANDED PHONE CASE @ K125 Only
+
+Available for iPhones, Samsung, Huawei, Vivo, OPPO, Itel Infinix, Leno… https://t.co/ESxR6zeKnV","PERSONALISED BRANDED PHONE CASE @ K125 Only
+
+Available for iPhones, Samsung, Huawei, Vivo, OPPO, Itel Infinix, Leno… https://t.co/ESxR6zeKnV","PERSONALISED BRANDED PHONE CASE @ K125 Only
+
+Available for iPhones, Samsung, Huawei, Vivo, OPPO, Itel Infinix, Leno… ","PESONALISED BANDED PHONE CASE @ K Only
+
+Available for iPhones, Samsung, Huawei, Vivo, OPPO, Itel Infinix, Leno… ","PESONALISED BANDED PHONE CASE  K Only
+
+Available for iPhones Samsung Huawei Vivo OPPO Itel Infinix Leno… ","['PESONALISED', 'BANDED', 'PHONE', 'CASE', 'K', 'Only', 'Available', 'iPhones', 'Samsung', 'Huawei', 'Vivo', 'OPPO', 'Itel', 'Infinix', 'Leno…']"
+75,"@Lenovo It is just beautiful 
+
+Small meets big :) #LenovoIN https://t.co/5cbrNPDWt4"," It is just beautiful 
+
+Small meets big :) #LenovoIN https://t.co/5cbrNPDWt4"," It is just beautiful 
+
+Small meets big :) #LenovoIN "," It is just beautiful 
+
+Small meets big :) #LenovoIN "," It is just beautiful 
+
+Small meets big  LenovoIN ","['It', 'beautiful', 'Small', 'meets', 'big', 'LenovoIN']"
+76,"SAVE $50.00 !!! 
+
+Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Proc… https://t.co/9b9IB0jGYD","SAVE $50.00 !!! 
+
+Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Proc… https://t.co/9b9IB0jGYD","SAVE $50.00 !!! 
+
+Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Proc… ","SAVE $. !!! 
+
+Lenovo Flex  -in- Convertible Laptop,  Inch FHD ouchscreen Display, AMD yzen  U Proc… ","SAVE   
+
+Lenovo Flex  in Convertible Laptop  Inch FHD ouchscreen Display AMD yzen  U Proc… ","['SAVE', 'Lenovo', 'Flex', 'Convertible', 'Laptop', 'Inch', 'FHD', 'ouchscreen', 'Display', 'AMD', 'yzen', 'U', 'Proc…']"
+77,@1chriscornish Hi Chris! Another help here. Could you try to run and install all the available updates for your lap… https://t.co/XjMJKAZMSO, Hi Chris! Another help here. Could you try to run and install all the available updates for your lap… https://t.co/XjMJKAZMSO, Hi Chris! Another help here. Could you try to run and install all the available updates for your lap… , Hi Chris! Another help here. Could you try to run and install all the available updates for your lap… , Hi Chris Another help here Could you try to run and install all the available updates for your lap… ,"['Hi', 'Chris', 'Another', 'help', 'Could', 'try', 'run', 'install', 'available', 'updates', 'lap…']"
+78,"RT @dilipbhatia: When was the last time you used a regular alarm clock to wake up? A nice story from Ali Ent, a member of our Experience De…","RT  When was the last time you used a regular alarm clock to wake up? A nice story from Ali Ent, a member of our Experience De…","RT  When was the last time you used a regular alarm clock to wake up? A nice story from Ali Ent, a member of our Experience De…","  When was the last time you used a regular alarm clock to wake up? A nice story from Ali Ent, a member of our Experience De…",  When was the last time you used a regular alarm clock to wake up A nice story from Ali Ent a member of our Experience De…,"['When', 'last', 'time', 'used', 'regular', 'alarm', 'clock', 'wake', 'A', 'nice', 'story', 'Ali', 'Ent', 'member', 'Experience', 'De…']"
+79,"New post (Lenovo Yoga Book - FHD 10.1"" Windows Tablet - 2 in 1 Tablet (Intel Atom x5-Z8550 Processor, 4GB RAM, 64GB… https://t.co/9Elm56aD7D","New post (Lenovo Yoga Book - FHD 10.1"" Windows Tablet - 2 in 1 Tablet (Intel Atom x5-Z8550 Processor, 4GB RAM, 64GB… https://t.co/9Elm56aD7D","New post (Lenovo Yoga Book - FHD 10.1"" Windows Tablet - 2 in 1 Tablet (Intel Atom x5-Z8550 Processor, 4GB RAM, 64GB… ","New post (Lenovo Yoga Book - FHD ."" Windows ablet -  in  ablet (Intel Atom x-Z Processor, GB AM, GB… ",New post Lenovo Yoga Book  FHD  Windows ablet   in  ablet Intel Atom xZ Processor GB AM GB… ,"['New', 'post', 'Lenovo', 'Yoga', 'Book', 'FHD', 'Windows', 'ablet', 'ablet', 'Intel', 'Atom', 'xZ', 'Processor', 'GB', 'AM', 'GB…']"
+80,"New post (Lenovo Yoga Book - FHD 10.1"" Windows Tablet - 2 in 1 Tablet (Intel Atom x5-Z8550 Processor, 4GB RAM, 64GB… https://t.co/8l4EFhQdgN","New post (Lenovo Yoga Book - FHD 10.1"" Windows Tablet - 2 in 1 Tablet (Intel Atom x5-Z8550 Processor, 4GB RAM, 64GB… https://t.co/8l4EFhQdgN","New post (Lenovo Yoga Book - FHD 10.1"" Windows Tablet - 2 in 1 Tablet (Intel Atom x5-Z8550 Processor, 4GB RAM, 64GB… ","New post (Lenovo Yoga Book - FHD ."" Windows ablet -  in  ablet (Intel Atom x-Z Processor, GB AM, GB… ",New post Lenovo Yoga Book  FHD  Windows ablet   in  ablet Intel Atom xZ Processor GB AM GB… ,"['New', 'post', 'Lenovo', 'Yoga', 'Book', 'FHD', 'Windows', 'ablet', 'ablet', 'Intel', 'Atom', 'xZ', 'Processor', 'GB', 'AM', 'GB…']"
+81,"RT @AfricaFactsZone: Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model | GB SSD GB AM core i
+  inches k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model  GB SSD GB AM core i
+  inches k resolution touch…","['Huntella', 'offers', 'Lenovo', 'hinkPad', 'Yoga', 'X', 'th', 'gen', 'model', 'GB', 'SSD', 'GB', 'AM', 'core', 'inches', 'k', 'resolution', 'touch…']"
+82,Lenovo TAB M8 TB-8505X 2G/32G 8″ Tablet 4G/LTE(Unlocked) – Android 9.0 https://t.co/aJikG5dO4X https://t.co/xCmBWgS5lV,Lenovo TAB M8 TB-8505X 2G/32G 8″ Tablet 4G/LTE(Unlocked) – Android 9.0 https://t.co/aJikG5dO4X https://t.co/xCmBWgS5lV,Lenovo TAB M8 TB-8505X 2G/32G 8″ Tablet 4G/LTE(Unlocked) – Android 9.0  ,Lenovo AB M B-X G/G ″ ablet G/LE(Unlocked) – Android .  ,Lenovo AB M BX GG ″ ablet GLEUnlocked – Android   ,"['Lenovo', 'AB', 'M', 'BX', 'GG', '″', 'ablet', 'GLEUnlocked', '–', 'Android']"
+83,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+84,"RT @AfricaFactsZone: Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model | GB SSD GB AM core i
+  inches k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model  GB SSD GB AM core i
+  inches k resolution touch…","['Huntella', 'offers', 'Lenovo', 'hinkPad', 'Yoga', 'X', 'th', 'gen', 'model', 'GB', 'SSD', 'GB', 'AM', 'core', 'inches', 'k', 'resolution', 'touch…']"
+85,"RT @LenovoLegion: Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…",  Meet the worlds most highoctane esport powered by the worlds most Stylish amp Savage PCs Apex Legends and Lenovo Legio…,"['Meet', 'worlds', 'highoctane', 'esport', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Legio…']"
+86,"RT @AfricaFactsZone: Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","RT  Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model | GB SSD GB AM core i
+  inches k resolution touch…","  Huntella offers Lenovo hinkPad Yoga X th gen  model  GB SSD GB AM core i
+  inches k resolution touch…","['Huntella', 'offers', 'Lenovo', 'hinkPad', 'Yoga', 'X', 'th', 'gen', 'model', 'GB', 'SSD', 'GB', 'AM', 'core', 'inches', 'k', 'resolution', 'touch…']"
+87,"Have the tickets for #LenovoA6Note Draw? 
+
+https://t.co/nyH5dQBfJi
+
+#Giveaway #ContestAlert #Free #Lenovo #Gaming #Sports #Cricket #Soccer","Have the tickets for #LenovoA6Note Draw? 
+
+https://t.co/nyH5dQBfJi
+
+#Giveaway #ContestAlert #Free #Lenovo #Gaming #Sports #Cricket #Soccer","Have the tickets for #LenovoA6Note Draw? 
+
+
+
+#Giveaway #ContestAlert #Free #Lenovo #Gaming #Sports #Cricket #Soccer","Have the tickets for #LenovoANote Draw? 
+
+
+
+#Giveaway #ContestAlert #Free #Lenovo #Gaming #Sports #Cricket #Soccer","Have the tickets for LenovoANote Draw 
+
+
+
+Giveaway ContestAlert Free Lenovo Gaming Sports Cricket Soccer","['Have', 'tickets', 'LenovoANote', 'Draw', 'Giveaway', 'ContestAlert', 'Free', 'Lenovo', 'Gaming', 'Sports', 'Cricket', 'Soccer']"
+88,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+89,@Lenovo I had a DM discussion with Lenovo. Lenovo System Update is obsolete. They say I should move to Lenovo Vanta… https://t.co/TFkzKPEgRn, I had a DM discussion with Lenovo. Lenovo System Update is obsolete. They say I should move to Lenovo Vanta… https://t.co/TFkzKPEgRn, I had a DM discussion with Lenovo. Lenovo System Update is obsolete. They say I should move to Lenovo Vanta… , I had a DM discussion with Lenovo. Lenovo System Update is obsolete. hey say I should move to Lenovo Vanta… , I had a DM discussion with Lenovo Lenovo System Update is obsolete hey say I should move to Lenovo Vanta… ,"['I', 'DM', 'discussion', 'Lenovo', 'Lenovo', 'System', 'Update', 'obsolete', 'hey', 'say', 'I', 'move', 'Lenovo', 'Vanta…']"
+90,"Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution to… https://t.co/Uaq3ZIFX9a","Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution to… https://t.co/Uaq3ZIFX9a","Huntella offers Lenovo ThinkPad Yoga X1 4th gen 2020 model | 512GB SSD 16GB RAM core i7
+ 14 inches 4k resolution to… ","Huntella offers Lenovo hinkPad Yoga X th gen  model | GB SSD GB AM core i
+  inches k resolution to… ","Huntella offers Lenovo hinkPad Yoga X th gen  model  GB SSD GB AM core i
+  inches k resolution to… ","['Huntella', 'offers', 'Lenovo', 'hinkPad', 'Yoga', 'X', 'th', 'gen', 'model', 'GB', 'SSD', 'GB', 'AM', 'core', 'inches', 'k', 'resolution', 'to…']"
+91,I play on lenovo S340 laptop and it wont let me chat in game and i have not changed anything with settings on roblo… https://t.co/iS0wNsQN1h,I play on lenovo S340 laptop and it wont let me chat in game and i have not changed anything with settings on roblo… https://t.co/iS0wNsQN1h,I play on lenovo S340 laptop and it wont let me chat in game and i have not changed anything with settings on roblo… ,I play on lenovo S laptop and it wont let me chat in game and i have not changed anything with settings on roblo… ,I play on lenovo S laptop and it wont let me chat in game and i have not changed anything with settings on roblo… ,"['I', 'play', 'lenovo', 'S', 'laptop', 'wont', 'let', 'chat', 'game', 'changed', 'anything', 'settings', 'roblo…']"
+92,RT @mydreembox: #Get #5000 DreemBox Credits  #Auction #Ending #Today #at 07:00 PM @ https://t.co/b0su7CVG5R #Bidding #Gamming #FreeBids #WI…,RT  #Get #5000 DreemBox Credits  #Auction #Ending #Today #at 07:00 PM @ https://t.co/b0su7CVG5R #Bidding #Gamming #FreeBids #WI…,RT  #Get #5000 DreemBox Credits  #Auction #Ending #Today #at 07:00 PM @  #Bidding #Gamming #FreeBids #WI…,  #Get # DreemBox Credits  #Auction #Ending #oday #at : PM @  #Bidding #Gamming #FreeBids #WI…,  Get  DreemBox Credits  Auction Ending oday at  PM   Bidding Gamming FreeBids WI…,"['Get', 'DreemBox', 'Credits', 'Auction', 'Ending', 'oday', 'PM', 'Bidding', 'Gamming', 'FreeBids', 'WI…']"
+93,"RT @TIMESCREENTS: Lenovo HT10 Pro Launch in India Soon.
+
+Lenovo HT10 Pro Support TWS+ Dual EQ, Support Extra Bass mode&amp; Standard Mode. QCC3…","RT  Lenovo HT10 Pro Launch in India Soon.
+
+Lenovo HT10 Pro Support TWS+ Dual EQ, Support Extra Bass mode&amp; Standard Mode. QCC3…","RT  Lenovo HT10 Pro Launch in India Soon.
+
+Lenovo HT10 Pro Support TWS+ Dual EQ, Support Extra Bass mode&amp; Standard Mode. QCC3…","  Lenovo H Pro Launch in India Soon.
+
+Lenovo H Pro Support WS+ Dual EQ, Support Extra Bass mode&amp; Standard Mode. QCC…","  Lenovo H Pro Launch in India Soon
+
+Lenovo H Pro Support WS Dual EQ Support Extra Bass modeamp Standard Mode QCC…","['Lenovo', 'H', 'Pro', 'Launch', 'India', 'Soon', 'Lenovo', 'H', 'Pro', 'Support', 'WS', 'Dual', 'EQ', 'Support', 'Extra', 'Bass', 'modeamp', 'Standard', 'Mode', 'QCC…']"
+94,"RT @TIMESCREENTS: Lenovo's Legion teaser was shared on Tuesday.
+
+Legion's teaser was shared on Tuesday, the same day when Vivo sub-brand iQ…","RT  Lenovo's Legion teaser was shared on Tuesday.
+
+Legion's teaser was shared on Tuesday, the same day when Vivo sub-brand iQ…","RT  Lenovo's Legion teaser was shared on Tuesday.
+
+Legion's teaser was shared on Tuesday, the same day when Vivo sub-brand iQ…","  Lenovo's Legion teaser was shared on uesday.
+
+Legion's teaser was shared on uesday, the same day when Vivo sub-brand iQ…","  Lenovos Legion teaser was shared on uesday
+
+Legions teaser was shared on uesday the same day when Vivo subbrand iQ…","['Lenovos', 'Legion', 'teaser', 'shared', 'uesday', 'Legions', 'teaser', 'shared', 'uesday', 'day', 'Vivo', 'subbrand', 'iQ…']"
+95,#Get #5000 DreemBox Credits  #Auction #Ending #Today #at 07:00 PM @ https://t.co/b0su7CVG5R #Bidding #Gamming… https://t.co/6ZnR4uzS70,#Get #5000 DreemBox Credits  #Auction #Ending #Today #at 07:00 PM @ https://t.co/b0su7CVG5R #Bidding #Gamming… https://t.co/6ZnR4uzS70,#Get #5000 DreemBox Credits  #Auction #Ending #Today #at 07:00 PM @  #Bidding #Gamming… ,#Get # DreemBox Credits  #Auction #Ending #oday #at : PM @  #Bidding #Gamming… ,Get  DreemBox Credits  Auction Ending oday at  PM   Bidding Gamming… ,"['Get', 'DreemBox', 'Credits', 'Auction', 'Ending', 'oday', 'PM', 'Bidding', 'Gamming…']"
+96,"RT @TIMESCREENTS: Lenovo's Legion Gaming Phone to Come With Disruptive Cooling System.
+
+Lenovo's China Mobile GM Chen Jin, states that it w…","RT  Lenovo's Legion Gaming Phone to Come With Disruptive Cooling System.
+
+Lenovo's China Mobile GM Chen Jin, states that it w…","RT  Lenovo's Legion Gaming Phone to Come With Disruptive Cooling System.
+
+Lenovo's China Mobile GM Chen Jin, states that it w…","  Lenovo's Legion Gaming Phone to Come With Disruptive Cooling System.
+
+Lenovo's China Mobile GM Chen Jin, states that it w…","  Lenovos Legion Gaming Phone to Come With Disruptive Cooling System
+
+Lenovos China Mobile GM Chen Jin states that it w…","['Lenovos', 'Legion', 'Gaming', 'Phone', 'Come', 'With', 'Disruptive', 'Cooling', 'System', 'Lenovos', 'China', 'Mobile', 'GM', 'Chen', 'Jin', 'states', 'w…']"
+97,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+98,"RT @LenovoLegion: Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…",  Meet the worlds most highoctane esport powered by the worlds most Stylish amp Savage PCs Apex Legends and Lenovo Legio…,"['Meet', 'worlds', 'highoctane', 'esport', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Legio…']"
+99,@Lenovo_in @CNBCTV18News We appreciate iniatives,  We appreciate iniatives,  We appreciate iniatives,  We appreciate iniatives,  We appreciate iniatives,"['We', 'appreciate', 'iniatives']"
+100,"RT @LenovoLegion: Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…",  Meet the worlds most highoctane esport powered by the worlds most Stylish amp Savage PCs Apex Legends and Lenovo Legio…,"['Meet', 'worlds', 'highoctane', 'esport', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Legio…']"
+101,"""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we n… https://t.co/RMX4KKzBJf","""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we n… https://t.co/RMX4KKzBJf","""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we n… ","""Destiny is not a matter of chance; it's a matter of choice""
+As we hurtle into a future filled with AI &amp; bots, we n… ","Destiny is not a matter of chance its a matter of choice
+As we hurtle into a future filled with AI amp bots we n… ","['Destiny', 'matter', 'chance', 'matter', 'choice', 'As', 'hurtle', 'future', 'filled', 'AI', 'amp', 'bots', 'n…']"
+102,"Lenovo Yoga 730 Core i7 8th Gen - 8 GB512 GB SSDWindows 10 Home Laptop 13.3 inch, Platinum, 1.12 kg, With MS at Rs… https://t.co/TfE26pUGxd","Lenovo Yoga 730 Core i7 8th Gen - 8 GB512 GB SSDWindows 10 Home Laptop 13.3 inch, Platinum, 1.12 kg, With MS at Rs… https://t.co/TfE26pUGxd","Lenovo Yoga 730 Core i7 8th Gen - 8 GB512 GB SSDWindows 10 Home Laptop 13.3 inch, Platinum, 1.12 kg, With MS at Rs… ","Lenovo Yoga  Core i th Gen -  GB GB SSDWindows  Home Laptop . inch, Platinum, . kg, With MS at s… ",Lenovo Yoga  Core i th Gen   GB GB SSDWindows  Home Laptop  inch Platinum  kg With MS at s… ,"['Lenovo', 'Yoga', 'Core', 'th', 'Gen', 'GB', 'GB', 'SSDWindows', 'Home', 'Laptop', 'inch', 'Platinum', 'kg', 'With', 'MS', 's…']"
+103,"RT @ipfconline1: Honored to be #3 
+in the Top 20 of the
+Most Influential Brands at #CES2020
+
+https://t.co/h2X2f4YkHL by @visibrain
+Congrats…","RT  Honored to be #3 
+in the Top 20 of the
+Most Influential Brands at #CES2020
+
+https://t.co/h2X2f4YkHL by 
+Congrats…","RT  Honored to be #3 
+in the Top 20 of the
+Most Influential Brands at #CES2020
+
+ by 
+Congrats…","  Honored to be # 
+in the op  of the
+Most Influential Brands at #CES
+
+ by 
+Congrats…","  Honored to be  
+in the op  of the
+Most Influential Brands at CES
+
+ by 
+Congrats…","['Honored', 'op', 'Most', 'Influential', 'Brands', 'CES', 'Congrats…']"
+104,Kudos to Garima Sharma of class VII and Ali of class VI for receiving Lenovo tablet in School Super League in Assoc… https://t.co/QUHWKQUBwg,Kudos to Garima Sharma of class VII and Ali of class VI for receiving Lenovo tablet in School Super League in Assoc… https://t.co/QUHWKQUBwg,Kudos to Garima Sharma of class VII and Ali of class VI for receiving Lenovo tablet in School Super League in Assoc… ,Kudos to Garima Sharma of class VII and Ali of class VI for receiving Lenovo tablet in School Super League in Assoc… ,Kudos to Garima Sharma of class VII and Ali of class VI for receiving Lenovo tablet in School Super League in Assoc… ,"['Kudos', 'Garima', 'Sharma', 'class', 'VII', 'Ali', 'class', 'VI', 'receiving', 'Lenovo', 'tablet', 'School', 'Super', 'League', 'Assoc…']"
+105,"Lenovo HF130 Wired in Ear Earphone 3.5mm Headphone with Mic Volume Control - (Black)
+
+Rs:499
+
+https://t.co/Zpis9esZ2L","Lenovo HF130 Wired in Ear Earphone 3.5mm Headphone with Mic Volume Control - (Black)
+
+Rs:499
+
+https://t.co/Zpis9esZ2L","Lenovo HF130 Wired in Ear Earphone 3.5mm Headphone with Mic Volume Control - (Black)
+
+Rs:499
+
+","Lenovo HF Wired in Ear Earphone .mm Headphone with Mic Volume Control - (Black)
+
+s:
+
+","Lenovo HF Wired in Ear Earphone mm Headphone with Mic Volume Control  Black
+
+s
+
+","['Lenovo', 'HF', 'Wired', 'Ear', 'Earphone', 'mm', 'Headphone', 'Mic', 'Volume', 'Control', 'Black']"
+106,@BuildIntoTrains Whenever I push the volume down button roblox things Im pressing B (lenovo thinkpad W510), Whenever I push the volume down button roblox things Im pressing B (lenovo thinkpad W510), Whenever I push the volume down button roblox things Im pressing B (lenovo thinkpad W510), Whenever I push the volume down button roblox things Im pressing B (lenovo thinkpad W), Whenever I push the volume down button roblox things Im pressing B lenovo thinkpad W,"['Whenever', 'I', 'push', 'volume', 'button', 'roblox', 'things', 'Im', 'pressing', 'B', 'lenovo', 'thinkpad', 'W']"
+107,"@Lenovo 1500 views in one day.
+We must team up. Sponsor my channel"," 1500 views in one day.
+We must team up. Sponsor my channel"," 1500 views in one day.
+We must team up. Sponsor my channel","  views in one day.
+We must team up. Sponsor my channel","  views in one day
+We must team up Sponsor my channel","['views', 'one', 'day', 'We', 'must', 'team', 'Sponsor', 'channel']"
+108,"""the Xinjiang workers make screens, camera cover lenses and fingerprint scanners. It touts customers including Appl… https://t.co/mgApeobHjS","""the Xinjiang workers make screens, camera cover lenses and fingerprint scanners. It touts customers including Appl… https://t.co/mgApeobHjS","""the Xinjiang workers make screens, camera cover lenses and fingerprint scanners. It touts customers including Appl… ","""the Xinjiang workers make screens, camera cover lenses and fingerprint scanners. It touts customers including Appl… ",the Xinjiang workers make screens camera cover lenses and fingerprint scanners It touts customers including Appl… ,"['Xinjiang', 'workers', 'make', 'screens', 'camera', 'cover', 'lenses', 'fingerprint', 'scanners', 'It', 'touts', 'customers', 'including', 'Appl…']"
+109,Current Laptop is a Lenovo but not too fond of it and recently it's had its issues.,Current Laptop is a Lenovo but not too fond of it and recently it's had its issues.,Current Laptop is a Lenovo but not too fond of it and recently it's had its issues.,Current Laptop is a Lenovo but not too fond of it and recently it's had its issues.,Current Laptop is a Lenovo but not too fond of it and recently its had its issues,"['Current', 'Laptop', 'Lenovo', 'fond', 'recently', 'issues']"
+110,"@RamanandChennai @fayedsouza https://t.co/B8zEL5BllB.      
+
+These stooges were left Scott free ... Raise Ur f ** v… https://t.co/69HE0ryQgz","  https://t.co/B8zEL5BllB.      
+
+These stooges were left Scott free ... Raise Ur f ** v… https://t.co/69HE0ryQgz","        
+
+These stooges were left Scott free ... Raise Ur f ** v… ","        
+
+hese stooges were left Scott free ... aise Ur f ** v… ","        
+
+hese stooges were left Scott free  aise Ur f  v… ","['hese', 'stooges', 'left', 'Scott', 'free', 'aise', 'Ur', 'f', 'v…']"
+111,@flipper_roll Did you try to boot into Safe Mode? We need to check if your laptop will still be able to boot at lea… https://t.co/6pjycZYnOl, Did you try to boot into Safe Mode? We need to check if your laptop will still be able to boot at lea… https://t.co/6pjycZYnOl, Did you try to boot into Safe Mode? We need to check if your laptop will still be able to boot at lea… , Did you try to boot into Safe Mode? We need to check if your laptop will still be able to boot at lea… , Did you try to boot into Safe Mode We need to check if your laptop will still be able to boot at lea… ,"['Did', 'try', 'boot', 'Safe', 'Mode', 'We', 'need', 'check', 'laptop', 'still', 'able', 'boot', 'lea…']"
+112,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+113,"@Lenovo Thanks
+This is what it does https://t.co/gRkl9PlPeG"," Thanks
+This is what it does https://t.co/gRkl9PlPeG"," Thanks
+This is what it does "," hanks
+his is what it does "," hanks
+his is what it does ",['hanks']
+114,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+115,Cameron has a Lenovo thinkpad oh my good how can my bussy yank even harder for him?!?!,Cameron has a Lenovo thinkpad oh my good how can my bussy yank even harder for him?!?!,Cameron has a Lenovo thinkpad oh my good how can my bussy yank even harder for him?!?!,Cameron has a Lenovo thinkpad oh my good how can my bussy yank even harder for him?!?!,Cameron has a Lenovo thinkpad oh my good how can my bussy yank even harder for him,"['Cameron', 'Lenovo', 'thinkpad', 'oh', 'good', 'bussy', 'yank', 'even', 'harder']"
+116,@Lenovo Yes there's huge memory consumption  without running a single progrma. And all the time when I check it mem… https://t.co/cy7EiZH4UP, Yes there's huge memory consumption  without running a single progrma. And all the time when I check it mem… https://t.co/cy7EiZH4UP, Yes there's huge memory consumption  without running a single progrma. And all the time when I check it mem… , Yes there's huge memory consumption  without running a single progrma. And all the time when I check it mem… , Yes theres huge memory consumption  without running a single progrma And all the time when I check it mem… ,"['Yes', 'theres', 'huge', 'memory', 'consumption', 'without', 'running', 'single', 'progrma', 'And', 'time', 'I', 'check', 'mem…']"
+117,loving my @Lenovo all in one,loving my  all in one,loving my  all in one,loving my  all in one,loving my  all in one,"['loving', 'one']"
+118,@flipper_roll Hi there! Thanks for reaching out. Were there any changes or updates prior? Please see if you can boo… https://t.co/sxxzaUPinD, Hi there! Thanks for reaching out. Were there any changes or updates prior? Please see if you can boo… https://t.co/sxxzaUPinD, Hi there! Thanks for reaching out. Were there any changes or updates prior? Please see if you can boo… , Hi there! hanks for reaching out. Were there any changes or updates prior? Please see if you can boo… , Hi there hanks for reaching out Were there any changes or updates prior Please see if you can boo… ,"['Hi', 'hanks', 'reaching', 'Were', 'changes', 'updates', 'prior', 'Please', 'see', 'boo…']"
+119,I very clearly remember installing different RAM in my old Lenovo laptop years ago. At TFF I tried to use it and wa… https://t.co/trdcbSDzgC,I very clearly remember installing different RAM in my old Lenovo laptop years ago. At TFF I tried to use it and wa… https://t.co/trdcbSDzgC,I very clearly remember installing different RAM in my old Lenovo laptop years ago. At TFF I tried to use it and wa… ,I very clearly remember installing different AM in my old Lenovo laptop years ago. At FF I tried to use it and wa… ,I very clearly remember installing different AM in my old Lenovo laptop years ago At FF I tried to use it and wa… ,"['I', 'clearly', 'remember', 'installing', 'different', 'AM', 'old', 'Lenovo', 'laptop', 'years', 'ago', 'At', 'FF', 'I', 'tried', 'use', 'wa…']"
+120,Upgraded laptop ram &amp; ssd tonight. Everything went great... until it was time to reconnect the battery. Can’t get t… https://t.co/UZjDEqay2D,Upgraded laptop ram &amp; ssd tonight. Everything went great... until it was time to reconnect the battery. Can’t get t… https://t.co/UZjDEqay2D,Upgraded laptop ram &amp; ssd tonight. Everything went great... until it was time to reconnect the battery. Can’t get t… ,Upgraded laptop ram &amp; ssd tonight. Everything went great... until it was time to reconnect the battery. Can’t get t… ,Upgraded laptop ram amp ssd tonight Everything went great until it was time to reconnect the battery Can’t get t… ,"['Upgraded', 'laptop', 'ram', 'amp', 'ssd', 'tonight', 'Everything', 'went', 'great', 'time', 'reconnect', 'battery', 'Can’t', 'get', 't…']"
+121,@sunilpatel1403 Thanks for all the information. We highly suggest you to delete your post with your personal inform… https://t.co/tY3CQ78t3d, Thanks for all the information. We highly suggest you to delete your post with your personal inform… https://t.co/tY3CQ78t3d, Thanks for all the information. We highly suggest you to delete your post with your personal inform… , hanks for all the information. We highly suggest you to delete your post with your personal inform… , hanks for all the information We highly suggest you to delete your post with your personal inform… ,"['hanks', 'information', 'We', 'highly', 'suggest', 'delete', 'post', 'personal', 'inform…']"
+122,"One of the Best Selling Cheap Laptops in Amazon under $300, Equipped with 11 inches display Intel. READ More &gt;&gt;… https://t.co/NtfpItbLy1","One of the Best Selling Cheap Laptops in Amazon under $300, Equipped with 11 inches display Intel. READ More &gt;&gt;… https://t.co/NtfpItbLy1","One of the Best Selling Cheap Laptops in Amazon under $300, Equipped with 11 inches display Intel. READ More &gt;&gt;… ","One of the Best Selling Cheap Laptops in Amazon under $, Equipped with  inches display Intel. EAD More &gt;&gt;… ",One of the Best Selling Cheap Laptops in Amazon under  Equipped with  inches display Intel EAD More gtgt… ,"['One', 'Best', 'Selling', 'Cheap', 'Laptops', 'Amazon', 'Equipped', 'inches', 'display', 'Intel', 'EAD', 'More', 'gtgt…']"
+123,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+124,"RT @dakekang: 1/ For over a year, @yananw &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","  / For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…",   For over a year  amp I chased this story about Chinas labor transfer program under which hundreds of Uighurs worki…,"['For', 'year', 'amp', 'I', 'chased', 'story', 'Chinas', 'labor', 'transfer', 'program', 'hundreds', 'Uighurs', 'worki…']"
+125,"@FrancisRealme Can u launch a phone with good stereo speakers under 20k? 
+Last time it was with lenovo Vibe X3(₹20k… https://t.co/Q2Ktcnvl1U"," Can u launch a phone with good stereo speakers under 20k? 
+Last time it was with lenovo Vibe X3(₹20k… https://t.co/Q2Ktcnvl1U"," Can u launch a phone with good stereo speakers under 20k? 
+Last time it was with lenovo Vibe X3(₹20k… "," Can u launch a phone with good stereo speakers under k? 
+Last time it was with lenovo Vibe X(₹k… "," Can u launch a phone with good stereo speakers under k 
+Last time it was with lenovo Vibe X₹k… ","['Can', 'u', 'launch', 'phone', 'good', 'stereo', 'speakers', 'k', 'Last', 'time', 'lenovo', 'Vibe', 'X₹k…']"
+126,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+127,"Lenovo Chromebook C340 Laptop, 11.6"" HD (1366 X 768) Touchscreen Display, Intel Celeron N4000 Processor, 4GB LPDDR4… https://t.co/uYkMxXu5mP","Lenovo Chromebook C340 Laptop, 11.6"" HD (1366 X 768) Touchscreen Display, Intel Celeron N4000 Processor, 4GB LPDDR4… https://t.co/uYkMxXu5mP","Lenovo Chromebook C340 Laptop, 11.6"" HD (1366 X 768) Touchscreen Display, Intel Celeron N4000 Processor, 4GB LPDDR4… ","Lenovo Chromebook C Laptop, ."" HD ( X ) ouchscreen Display, Intel Celeron N Processor, GB LPDD… ",Lenovo Chromebook C Laptop  HD  X  ouchscreen Display Intel Celeron N Processor GB LPDD… ,"['Lenovo', 'Chromebook', 'C', 'Laptop', 'HD', 'X', 'ouchscreen', 'Display', 'Intel', 'Celeron', 'N', 'Processor', 'GB', 'LPDD…']"
+128,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+129,"RT @dakekang: 1/ For over a year, @yananw &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","  / For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…",   For over a year  amp I chased this story about Chinas labor transfer program under which hundreds of Uighurs worki…,"['For', 'year', 'amp', 'I', 'chased', 'story', 'Chinas', 'labor', 'transfer', 'program', 'hundreds', 'Uighurs', 'worki…']"
+130,"@Lenovo It's a good idea to protect the Amazon for many reasons, and potential for medicines is one of them."," It's a good idea to protect the Amazon for many reasons, and potential for medicines is one of them."," It's a good idea to protect the Amazon for many reasons, and potential for medicines is one of them."," It's a good idea to protect the Amazon for many reasons, and potential for medicines is one of them.", Its a good idea to protect the Amazon for many reasons and potential for medicines is one of them,"['Its', 'good', 'idea', 'protect', 'Amazon', 'many', 'reasons', 'potential', 'medicines', 'one']"
+131,"Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… https://t.co/Xpe365wcoh","Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… https://t.co/Xpe365wcoh","Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… ","Lenovo Yoga  Core i th Gen - ( GB/ GB SSD/Windows  Home) Laptop  (. inch, Platinum, . kg, With MS… ",Lenovo Yoga  Core i th Gen   GB GB SSDWindows  Home Laptop   inch Platinum  kg With MS… ,"['Lenovo', 'Yoga', 'Core', 'th', 'Gen', 'GB', 'GB', 'SSDWindows', 'Home', 'Laptop', 'inch', 'Platinum', 'kg', 'With', 'MS…']"
+132,"lenovo laptops have treated me well, let's see if they have anything juicy","lenovo laptops have treated me well, let's see if they have anything juicy","lenovo laptops have treated me well, let's see if they have anything juicy","lenovo laptops have treated me well, let's see if they have anything juicy",lenovo laptops have treated me well lets see if they have anything juicy,"['lenovo', 'laptops', 'treated', 'well', 'lets', 'see', 'anything', 'juicy']"
+133,"Buy your Laptop/Notebooks while supplies last
+
+CMK brands we are partnerd with:
+DELL --https://t.co/V4vkjv5JHK
+HP -… https://t.co/3GivDdIgIf","Buy your Laptop/Notebooks while supplies last
+
+CMK brands we are partnerd with:
+DELL --https://t.co/V4vkjv5JHK
+HP -… https://t.co/3GivDdIgIf","Buy your Laptop/Notebooks while supplies last
+
+CMK brands we are partnerd with:
+DELL --
+HP -… ","Buy your Laptop/Notebooks while supplies last
+
+CMK brands we are partnerd with:
+DELL --
+HP -… ","Buy your LaptopNotebooks while supplies last
+
+CMK brands we are partnerd with
+DELL 
+HP … ","['Buy', 'LaptopNotebooks', 'supplies', 'last', 'CMK', 'brands', 'partnerd', 'DELL', 'HP', '…']"
+134,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+135,"@Akhiltweers Hi Akhil! Thanks for reaching out. Just to verify, are you trying to view the terms and conditions of… https://t.co/cSprwdXwzu"," Hi Akhil! Thanks for reaching out. Just to verify, are you trying to view the terms and conditions of… https://t.co/cSprwdXwzu"," Hi Akhil! Thanks for reaching out. Just to verify, are you trying to view the terms and conditions of… "," Hi Akhil! hanks for reaching out. Just to verify, are you trying to view the terms and conditions of… ", Hi Akhil hanks for reaching out Just to verify are you trying to view the terms and conditions of… ,"['Hi', 'Akhil', 'hanks', 'reaching', 'Just', 'verify', 'trying', 'view', 'terms', 'conditions', 'of…']"
+136,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+137,#galaxy Tablet Screen Protectors For Xiaomi Mi Pad 4 Plus Tempered Glass Protective Film mipad4 Mi Pad 4 Glass For… https://t.co/vhvo6srXVn,#galaxy Tablet Screen Protectors For Xiaomi Mi Pad 4 Plus Tempered Glass Protective Film mipad4 Mi Pad 4 Glass For… https://t.co/vhvo6srXVn,#galaxy Tablet Screen Protectors For Xiaomi Mi Pad 4 Plus Tempered Glass Protective Film mipad4 Mi Pad 4 Glass For… ,#galaxy ablet Screen Protectors For Xiaomi Mi Pad  Plus empered Glass Protective Film mipad Mi Pad  Glass For… ,galaxy ablet Screen Protectors For Xiaomi Mi Pad  Plus empered Glass Protective Film mipad Mi Pad  Glass For… ,"['galaxy', 'ablet', 'Screen', 'Protectors', 'For', 'Xiaomi', 'Mi', 'Pad', 'Plus', 'empered', 'Glass', 'Protective', 'Film', 'mipad', 'Mi', 'Pad', 'Glass', 'For…']"
+138,Lenovo Ideapad 330S Thin and Light Laptop AMD Ryzen 5-2500U (8GB DDR4 Ram/1TB HDD/ 15.6″ FHD IPS AG/ Win-10+MS-Offi… https://t.co/cU5CsWcN7d,Lenovo Ideapad 330S Thin and Light Laptop AMD Ryzen 5-2500U (8GB DDR4 Ram/1TB HDD/ 15.6″ FHD IPS AG/ Win-10+MS-Offi… https://t.co/cU5CsWcN7d,Lenovo Ideapad 330S Thin and Light Laptop AMD Ryzen 5-2500U (8GB DDR4 Ram/1TB HDD/ 15.6″ FHD IPS AG/ Win-10+MS-Offi… ,Lenovo Ideapad S hin and Light Laptop AMD yzen -U (GB DD am/B HDD/ .″ FHD IPS AG/ Win-+MS-Offi… ,Lenovo Ideapad S hin and Light Laptop AMD yzen U GB DD amB HDD ″ FHD IPS AG WinMSOffi… ,"['Lenovo', 'Ideapad', 'S', 'hin', 'Light', 'Laptop', 'AMD', 'yzen', 'U', 'GB', 'DD', 'amB', 'HDD', '″', 'FHD', 'IPS', 'AG', 'WinMSOffi…']"
+139,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+140,New post (2020 Lenovo Tab M10 Plus) has been published on Best Reviews Tablet - https://t.co/iymSl5tJVK https://t.co/sxnfsop0x9,New post (2020 Lenovo Tab M10 Plus) has been published on Best Reviews Tablet - https://t.co/iymSl5tJVK https://t.co/sxnfsop0x9,New post (2020 Lenovo Tab M10 Plus) has been published on Best Reviews Tablet -  ,New post ( Lenovo ab M Plus) has been published on Best eviews ablet -  ,New post  Lenovo ab M Plus has been published on Best eviews ablet   ,"['New', 'post', 'Lenovo', 'ab', 'M', 'Plus', 'published', 'Best', 'eviews', 'ablet']"
+141,"RT @thinkstations: ✅ Powerful #workstation
+✅ @intelbusiness #processors 
+✅ @NVIDIADesign #graphics
+
+To all #architects and #engineers, the…","RT  ✅ Powerful #workstation
+✅  #processors 
+✅  #graphics
+
+To all #architects and #engineers, the…","RT  ✅ Powerful #workstation
+✅  #processors 
+✅  #graphics
+
+To all #architects and #engineers, the…","  ✅ Powerful #workstation
+✅  #processors 
+✅  #graphics
+
+o all #architects and #engineers, the…","  ✅ Powerful workstation
+✅  processors 
+✅  graphics
+
+o all architects and engineers the…","['✅', 'Powerful', 'workstation', '✅', 'processors', '✅', 'graphics', 'architects', 'engineers', 'the…']"
+142,My smartband has off due to its wire get break. please suggest me near service centre which repair my smartband Len… https://t.co/HErYfxyKLl,My smartband has off due to its wire get break. please suggest me near service centre which repair my smartband Len… https://t.co/HErYfxyKLl,My smartband has off due to its wire get break. please suggest me near service centre which repair my smartband Len… ,My smartband has off due to its wire get break. please suggest me near service centre which repair my smartband Len… ,My smartband has off due to its wire get break please suggest me near service centre which repair my smartband Len… ,"['My', 'smartband', 'due', 'wire', 'get', 'break', 'please', 'suggest', 'near', 'service', 'centre', 'repair', 'smartband', 'Len…']"
+143,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+144,@Lenovo @Microsoft My computer refuses to follow directions. It pulls this crap and shuts down https://t.co/pT7GVPmo6B,  My computer refuses to follow directions. It pulls this crap and shuts down https://t.co/pT7GVPmo6B,  My computer refuses to follow directions. It pulls this crap and shuts down ,  My computer refuses to follow directions. It pulls this crap and shuts down ,  My computer refuses to follow directions It pulls this crap and shuts down ,"['My', 'computer', 'refuses', 'follow', 'directions', 'It', 'pulls', 'crap', 'shuts']"
+145,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+146,"Save up to 65% on select ThinkPad laptops and give your business an edge with ThinkPad E485 AMD
+
+Contact us today a… https://t.co/DCEjHdWlhS","Save up to 65% on select ThinkPad laptops and give your business an edge with ThinkPad E485 AMD
+
+Contact us today a… https://t.co/DCEjHdWlhS","Save up to 65% on select ThinkPad laptops and give your business an edge with ThinkPad E485 AMD
+
+Contact us today a… ","Save up to % on select hinkPad laptops and give your business an edge with hinkPad E AMD
+
+Contact us today a… ","Save up to  on select hinkPad laptops and give your business an edge with hinkPad E AMD
+
+Contact us today a… ","['Save', 'select', 'hinkPad', 'laptops', 'give', 'business', 'edge', 'hinkPad', 'E', 'AMD', 'Contact', 'us', 'today', 'a…']"
+147,"Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… https://t.co/mxJra7Jmud","Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… https://t.co/mxJra7Jmud","Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… ","Lenovo Yoga  Core i th Gen - ( GB/ GB SSD/Windows  Home) Laptop  (. inch, Platinum, . kg, With MS… ",Lenovo Yoga  Core i th Gen   GB GB SSDWindows  Home Laptop   inch Platinum  kg With MS… ,"['Lenovo', 'Yoga', 'Core', 'th', 'Gen', 'GB', 'GB', 'SSDWindows', 'Home', 'Laptop', 'inch', 'Platinum', 'kg', 'With', 'MS…']"
+148,&gt;15% Off Coupon code Lenovo Drivers Update Utility + Lifetime License &amp; Fast Download Service + Lenovo Access Point… https://t.co/LRclrZ1Rjv,&gt;15% Off Coupon code Lenovo Drivers Update Utility + Lifetime License &amp; Fast Download Service + Lenovo Access Point… https://t.co/LRclrZ1Rjv,&gt;15% Off Coupon code Lenovo Drivers Update Utility + Lifetime License &amp; Fast Download Service + Lenovo Access Point… ,&gt;% Off Coupon code Lenovo Drivers Update Utility + Lifetime License &amp; Fast Download Service + Lenovo Access Point… ,gt Off Coupon code Lenovo Drivers Update Utility  Lifetime License amp Fast Download Service  Lenovo Access Point… ,"['gt', 'Off', 'Coupon', 'code', 'Lenovo', 'Drivers', 'Update', 'Utility', 'Lifetime', 'License', 'amp', 'Fast', 'Download', 'Service', 'Lenovo', 'Access', 'Point…']"
+149,"@Lenovo guys.
+1200 views today.
+We need to work together"," guys.
+1200 views today.
+We need to work together"," guys.
+1200 views today.
+We need to work together"," guys.
+ views today.
+We need to work together"," guys
+ views today
+We need to work together","['guys', 'views', 'today', 'We', 'need', 'work', 'together']"
+150,@Lenovo_in Hey Lenovo improve your software &amp; provide time to time update thanks i am using Lenovo k10 note i am no… https://t.co/FWeEEhiB7q, Hey Lenovo improve your software &amp; provide time to time update thanks i am using Lenovo k10 note i am no… https://t.co/FWeEEhiB7q, Hey Lenovo improve your software &amp; provide time to time update thanks i am using Lenovo k10 note i am no… , Hey Lenovo improve your software &amp; provide time to time update thanks i am using Lenovo k note i am no… , Hey Lenovo improve your software amp provide time to time update thanks i am using Lenovo k note i am no… ,"['Hey', 'Lenovo', 'improve', 'software', 'amp', 'provide', 'time', 'time', 'update', 'thanks', 'using', 'Lenovo', 'k', 'note', 'no…']"
+151,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+152,Keemo Foreign - LENOVO Now Playing On https://t.co/Ro9vgnxo9L,Keemo Foreign - LENOVO Now Playing On https://t.co/Ro9vgnxo9L,Keemo Foreign - LENOVO Now Playing On ,Keemo Foreign - LENOVO Now Playing On ,Keemo Foreign  LENOVO Now Playing On ,"['Keemo', 'Foreign', 'LENOVO', 'Now', 'Playing', 'On']"
+153,I'm selling Power Adapter Charger / Pengecas Laptop Lenovo Flex 14 Ideapad G40 G50 65W 20V 3.25A for RM45.00. Get i… https://t.co/C8i9o7XTUh,I'm selling Power Adapter Charger / Pengecas Laptop Lenovo Flex 14 Ideapad G40 G50 65W 20V 3.25A for RM45.00. Get i… https://t.co/C8i9o7XTUh,I'm selling Power Adapter Charger / Pengecas Laptop Lenovo Flex 14 Ideapad G40 G50 65W 20V 3.25A for RM45.00. Get i… ,I'm selling Power Adapter Charger / Pengecas Laptop Lenovo Flex  Ideapad G G W V .A for M.. Get i… ,Im selling Power Adapter Charger  Pengecas Laptop Lenovo Flex  Ideapad G G W V A for M Get i… ,"['Im', 'selling', 'Power', 'Adapter', 'Charger', 'Pengecas', 'Laptop', 'Lenovo', 'Flex', 'Ideapad', 'G', 'G', 'W', 'V', 'A', 'M', 'Get', 'i…']"
+154,Lenovo Yoga C740-14: Great mid-ranger but with spongy keys https://t.co/8q9KdHfYhr,Lenovo Yoga C740-14: Great mid-ranger but with spongy keys https://t.co/8q9KdHfYhr,Lenovo Yoga C740-14: Great mid-ranger but with spongy keys ,Lenovo Yoga C-: Great mid-ranger but with spongy keys ,Lenovo Yoga C Great midranger but with spongy keys ,"['Lenovo', 'Yoga', 'C', 'Great', 'midranger', 'spongy', 'keys']"
+155,"Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… https://t.co/BlDB13Xs9A","Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… https://t.co/BlDB13Xs9A","Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) Laptop  (13.3 inch, Platinum, 1.12 kg, With MS… ","Lenovo Yoga  Core i th Gen - ( GB/ GB SSD/Windows  Home) Laptop  (. inch, Platinum, . kg, With MS… ",Lenovo Yoga  Core i th Gen   GB GB SSDWindows  Home Laptop   inch Platinum  kg With MS… ,"['Lenovo', 'Yoga', 'Core', 'th', 'Gen', 'GB', 'GB', 'SSDWindows', 'Home', 'Laptop', 'inch', 'Platinum', 'kg', 'With', 'MS…']"
+156,@Lenovo I got 1200 views today. Let's make this happen. Sponsor me, I got 1200 views today. Let's make this happen. Sponsor me, I got 1200 views today. Let's make this happen. Sponsor me, I got  views today. Let's make this happen. Sponsor me, I got  views today Lets make this happen Sponsor me,"['I', 'got', 'views', 'today', 'Lets', 'make', 'happen', 'Sponsor']"
+157,"RT @Lenovo_in: Hey @NetflixIndia, we’ve got a 4K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDo…","RT  Hey  we’ve got a 4K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDo…","RT  Hey  we’ve got a 4K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDo…","  Hey  we’ve got a K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDo…",  Hey  we’ve got a K screen and Dolby Atmos speakers Wanna chill After you Get it Done of course GetItDo…,"['Hey', 'we’ve', 'got', 'K', 'screen', 'Dolby', 'Atmos', 'speakers', 'Wanna', 'chill', 'After', 'Get', 'Done', 'course', 'GetItDo…']"
+158,"I just dropped $1,500.00+ on a @Lenovo laptop lol. This is my single biggest purchase so far. I know it'll be worth it though.","I just dropped $1,500.00+ on a  laptop lol. This is my single biggest purchase so far. I know it'll be worth it though.","I just dropped $1,500.00+ on a  laptop lol. This is my single biggest purchase so far. I know it'll be worth it though.","I just dropped $,.+ on a  laptop lol. his is my single biggest purchase so far. I know it'll be worth it though.",I just dropped  on a  laptop lol his is my single biggest purchase so far I know itll be worth it though,"['I', 'dropped', 'laptop', 'lol', 'single', 'biggest', 'purchase', 'far', 'I', 'know', 'itll', 'worth', 'though']"
+159,"Hey @NetflixIndia, we’ve got a 4K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDone #Lenovo #Yoga","Hey  we’ve got a 4K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDone #Lenovo #Yoga","Hey  we’ve got a 4K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDone #Lenovo #Yoga","Hey  we’ve got a K screen and Dolby Atmos speakers. Wanna chill? After you Get **it Done, of course. #GetItDone #Lenovo #Yoga",Hey  we’ve got a K screen and Dolby Atmos speakers Wanna chill After you Get it Done of course GetItDone Lenovo Yoga,"['Hey', 'we’ve', 'got', 'K', 'screen', 'Dolby', 'Atmos', 'speakers', 'Wanna', 'chill', 'After', 'Get', 'Done', 'course', 'GetItDone', 'Lenovo', 'Yoga']"
+160,Lenovo Ideapad S340-14API-BSID Blue (AMD Ryzen 5-3500U - 8GB DDR4 - 512GB SSD - Integrated VGA - Windows 10 Home -… https://t.co/7HFwST5cEP,Lenovo Ideapad S340-14API-BSID Blue (AMD Ryzen 5-3500U - 8GB DDR4 - 512GB SSD - Integrated VGA - Windows 10 Home -… https://t.co/7HFwST5cEP,Lenovo Ideapad S340-14API-BSID Blue (AMD Ryzen 5-3500U - 8GB DDR4 - 512GB SSD - Integrated VGA - Windows 10 Home -… ,Lenovo Ideapad S-API-BSID Blue (AMD yzen -U - GB DD - GB SSD - Integrated VGA - Windows  Home -… ,Lenovo Ideapad SAPIBSID Blue AMD yzen U  GB DD  GB SSD  Integrated VGA  Windows  Home … ,"['Lenovo', 'Ideapad', 'SAPIBSID', 'Blue', 'AMD', 'yzen', 'U', 'GB', 'DD', 'GB', 'SSD', 'Integrated', 'VGA', 'Windows', 'Home', '…']"
+161,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+162,RT @DaniellesCave: An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,RT  An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,RT  An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,  An investigation by AP (separate to ours) examines coerced Uyghur labour at an OFILM factory in Nanchang. Xinjiang worke…,  An investigation by AP separate to ours examines coerced Uyghur labour at an OFILM factory in Nanchang Xinjiang worke…,"['An', 'investigation', 'AP', 'separate', 'examines', 'coerced', 'Uyghur', 'labour', 'OFILM', 'factory', 'Nanchang', 'Xinjiang', 'worke…']"
+163,"RT @LenovoBusiness: Stop maintaining, and start innovating with Lenovo Hybrid Cloud, powered by Intel®.","RT  Stop maintaining, and start innovating with Lenovo Hybrid Cloud, powered by Intel®.","RT  Stop maintaining, and start innovating with Lenovo Hybrid Cloud, powered by Intel®.","  Stop maintaining, and start innovating with Lenovo Hybrid Cloud, powered by Intel®.",  Stop maintaining and start innovating with Lenovo Hybrid Cloud powered by Intel®,"['Stop', 'maintaining', 'start', 'innovating', 'Lenovo', 'Hybrid', 'Cloud', 'powered', 'Intel®']"
+164,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+165,"RT @gerryshih: AP investigation: Apple, Samsung, Lenovo, Dell, HP, Huawei source from factory using coerced Uighur labor program. Latest fr…","RT  AP investigation: Apple, Samsung, Lenovo, Dell, HP, Huawei source from factory using coerced Uighur labor program. Latest fr…","RT  AP investigation: Apple, Samsung, Lenovo, Dell, HP, Huawei source from factory using coerced Uighur labor program. Latest fr…","  AP investigation: Apple, Samsung, Lenovo, Dell, HP, Huawei source from factory using coerced Uighur labor program. Latest fr…",  AP investigation Apple Samsung Lenovo Dell HP Huawei source from factory using coerced Uighur labor program Latest fr…,"['AP', 'investigation', 'Apple', 'Samsung', 'Lenovo', 'Dell', 'HP', 'Huawei', 'source', 'factory', 'using', 'coerced', 'Uighur', 'labor', 'program', 'Latest', 'fr…']"
+166,Lenovo Ideapad S145 Intel Core I5 8th Gen 15.6-inch FHD Thin and Light Laptop ( 8GB RAM / 1TB HDD / DOS / 2GB NVIDI… https://t.co/gAR2NOOYm4,Lenovo Ideapad S145 Intel Core I5 8th Gen 15.6-inch FHD Thin and Light Laptop ( 8GB RAM / 1TB HDD / DOS / 2GB NVIDI… https://t.co/gAR2NOOYm4,Lenovo Ideapad S145 Intel Core I5 8th Gen 15.6-inch FHD Thin and Light Laptop ( 8GB RAM / 1TB HDD / DOS / 2GB NVIDI… ,Lenovo Ideapad S Intel Core I th Gen .-inch FHD hin and Light Laptop ( GB AM / B HDD / DOS / GB NVIDI… ,Lenovo Ideapad S Intel Core I th Gen inch FHD hin and Light Laptop  GB AM  B HDD  DOS  GB NVIDI… ,"['Lenovo', 'Ideapad', 'S', 'Intel', 'Core', 'I', 'th', 'Gen', 'inch', 'FHD', 'hin', 'Light', 'Laptop', 'GB', 'AM', 'B', 'HDD', 'DOS', 'GB', 'NVIDI…']"
+167,I really had my parents buy me a customized lenovo thinkpad for college just so I could use it to torrent shit play… https://t.co/g0pqBd0xOd,I really had my parents buy me a customized lenovo thinkpad for college just so I could use it to torrent shit play… https://t.co/g0pqBd0xOd,I really had my parents buy me a customized lenovo thinkpad for college just so I could use it to torrent shit play… ,I really had my parents buy me a customized lenovo thinkpad for college just so I could use it to torrent shit play… ,I really had my parents buy me a customized lenovo thinkpad for college just so I could use it to torrent shit play… ,"['I', 'really', 'parents', 'buy', 'customized', 'lenovo', 'thinkpad', 'college', 'I', 'could', 'use', 'torrent', 'shit', 'play…']"
+168,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+169,"RT @nbcwashington: Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…","RT  Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…","RT  Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…","  Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…",  Over the past four years the Chinese government has detained more than a million people most of them Uighurs in inter…,"['Over', 'past', 'four', 'years', 'Chinese', 'government', 'detained', 'million', 'people', 'Uighurs', 'inter…']"
+170,"@Lenovo Name:snehalata Singh Patel
+Phone number:7767807680
+Email:sunil.aly4u@gmail.com
+Issue: I have ordered laptop… https://t.co/MAgItwANcl"," Name:snehalata Singh Patel
+Phone number:7767807680
+Email:sunil.aly4u
+Issue: I have ordered laptop… https://t.co/MAgItwANcl"," Name:snehalata Singh Patel
+Phone number:7767807680
+Email:sunil.aly4u
+Issue: I have ordered laptop… "," Name:snehalata Singh Patel
+Phone number:
+Email:sunil.alyu
+Issue: I have ordered laptop… "," Namesnehalata Singh Patel
+Phone number
+Emailsunilalyu
+Issue I have ordered laptop… ","['Namesnehalata', 'Singh', 'Patel', 'Phone', 'number', 'Emailsunilalyu', 'Issue', 'I', 'ordered', 'laptop…']"
+171,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+172,"RT @Lenovo_in: Whoever you are, whatever you may be doing; Lenovo promises you: we will help you GET **IT DONE.
+
+Lenovo Yoga S940, powered…","RT  Whoever you are, whatever you may be doing; Lenovo promises you: we will help you GET **IT DONE.
+
+Lenovo Yoga S940, powered…","RT  Whoever you are, whatever you may be doing; Lenovo promises you: we will help you GET **IT DONE.
+
+Lenovo Yoga S940, powered…","  Whoever you are, whatever you may be doing; Lenovo promises you: we will help you GE **I DONE.
+
+Lenovo Yoga S, powered…","  Whoever you are whatever you may be doing Lenovo promises you we will help you GE I DONE
+
+Lenovo Yoga S powered…","['Whoever', 'whatever', 'may', 'Lenovo', 'promises', 'help', 'GE', 'I', 'DONE', 'Lenovo', 'Yoga', 'S', 'powered…']"
+173,"@Lenovo_in 
+Purchased you March 2020 Peace of Mind Extended warranty offer yesterday.But this is what you 'terms an… https://t.co/4RGTA8EVbu"," 
+Purchased you March 2020 Peace of Mind Extended warranty offer yesterday.But this is what you 'terms an… https://t.co/4RGTA8EVbu"," 
+Purchased you March 2020 Peace of Mind Extended warranty offer yesterday.But this is what you 'terms an… "," 
+Purchased you March  Peace of Mind Extended warranty offer yesterday.But this is what you 'terms an… "," 
+Purchased you March  Peace of Mind Extended warranty offer yesterdayBut this is what you terms an… ","['Purchased', 'March', 'Peace', 'Mind', 'Extended', 'warranty', 'offer', 'yesterdayBut', 'terms', 'an…']"
+174,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+175,"RT @nbcwashington: Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…","RT  Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…","RT  Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…","  Over the past four years, the Chinese government has detained more than a million people, most of them Uighurs, in inter…",  Over the past four years the Chinese government has detained more than a million people most of them Uighurs in inter…,"['Over', 'past', 'four', 'years', 'Chinese', 'government', 'detained', 'million', 'people', 'Uighurs', 'inter…']"
+176,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+177,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+178,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+179,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+180,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+181,my fans on my i5 lenovo and then im a step to a healthier you 👌,my fans on my i5 lenovo and then im a step to a healthier you 👌,my fans on my i5 lenovo and then im a step to a healthier you 👌,my fans on my i lenovo and then im a step to a healthier you 👌,my fans on my i lenovo and then im a step to a healthier you 👌,"['fans', 'lenovo', 'im', 'step', 'healthier', '👌']"
+182,Last week I bought the laptop. but doesn't working and I'm contacted with Flipkart customer  and Lenovo technician… https://t.co/fMfD8FOvxc,Last week I bought the laptop. but doesn't working and I'm contacted with Flipkart customer  and Lenovo technician… https://t.co/fMfD8FOvxc,Last week I bought the laptop. but doesn't working and I'm contacted with Flipkart customer  and Lenovo technician… ,Last week I bought the laptop. but doesn't working and I'm contacted with Flipkart customer  and Lenovo technician… ,Last week I bought the laptop but doesnt working and Im contacted with Flipkart customer  and Lenovo technician… ,"['Last', 'week', 'I', 'bought', 'laptop', 'doesnt', 'working', 'Im', 'contacted', 'Flipkart', 'customer', 'Lenovo', 'technician…']"
+183,"RT @LenovoLegion: Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","RT  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…","  Meet the world's most high-octane esport, powered by the world's most Stylish &amp; Savage PCs. Apex Legends and Lenovo Legio…",  Meet the worlds most highoctane esport powered by the worlds most Stylish amp Savage PCs Apex Legends and Lenovo Legio…,"['Meet', 'worlds', 'highoctane', 'esport', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Legio…']"
+184,"Think Pad  
+lenovo","Think Pad  
+lenovo","Think Pad  
+lenovo","hink Pad  
+lenovo","hink Pad  
+lenovo","['hink', 'Pad', 'lenovo']"
+185,"RT @rahul610: This women's day, lets all commit to creating equal &amp; inclusive workplaces and show that we are 'Each for Equal"". A big thank…","RT  This women's day, lets all commit to creating equal &amp; inclusive workplaces and show that we are 'Each for Equal"". A big thank…","RT  This women's day, lets all commit to creating equal &amp; inclusive workplaces and show that we are 'Each for Equal"". A big thank…","  his women's day, lets all commit to creating equal &amp; inclusive workplaces and show that we are 'Each for Equal"". A big thank…",  his womens day lets all commit to creating equal amp inclusive workplaces and show that we are Each for Equal A big thank…,"['womens', 'day', 'lets', 'commit', 'creating', 'equal', 'amp', 'inclusive', 'workplaces', 'show', 'Each', 'Equal', 'A', 'big', 'thank…']"
+186,RT @Lenovo_in: Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,RT  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking &amp; Financial sector in India with our renowned speakers &amp; panelists…,  Discover how Smarter technology can transform the Banking amp Financial sector in India with our renowned speakers amp panelists…,"['Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Financial', 'sector', 'India', 'renowned', 'speakers', 'amp', 'panelists…']"
+187,@RealMed3 Hi there. Another support to assist you. Have you tried creating a new profile as per the suggestion on t… https://t.co/xNixpz6f0u, Hi there. Another support to assist you. Have you tried creating a new profile as per the suggestion on t… https://t.co/xNixpz6f0u, Hi there. Another support to assist you. Have you tried creating a new profile as per the suggestion on t… , Hi there. Another support to assist you. Have you tried creating a new profile as per the suggestion on t… , Hi there Another support to assist you Have you tried creating a new profile as per the suggestion on t… ,"['Hi', 'Another', 'support', 'assist', 'Have', 'tried', 'creating', 'new', 'profile', 'per', 'suggestion', 't…']"
+188,RT @LenovoLegion: The colors of victory!🏅 The Legion T730 shines with its customizable RGB lighting and will ensure you dominate every game…,RT  The colors of victory!🏅 The Legion T730 shines with its customizable RGB lighting and will ensure you dominate every game…,RT  The colors of victory!🏅 The Legion T730 shines with its customizable RGB lighting and will ensure you dominate every game…,  he colors of victory!🏅 he Legion  shines with its customizable GB lighting and will ensure you dominate every game…,  he colors of victory🏅 he Legion  shines with its customizable GB lighting and will ensure you dominate every game…,"['colors', 'victory🏅', 'Legion', 'shines', 'customizable', 'GB', 'lighting', 'ensure', 'dominate', 'every', 'game…']"
+189,"RT @Lenovo_in: Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","RT  Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","RT  Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","  Are financial institutions ready for tech-savvy customers?
+Discover how Smarter technology can transform the Banking &amp; Finan…","  Are financial institutions ready for techsavvy customers
+Discover how Smarter technology can transform the Banking amp Finan…","['Are', 'financial', 'institutions', 'ready', 'techsavvy', 'customers', 'Discover', 'Smarter', 'technology', 'transform', 'Banking', 'amp', 'Finan…']"
+190,"RT @dakekang: 1/ For over a year, @yananw &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","  / For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…",   For over a year  amp I chased this story about Chinas labor transfer program under which hundreds of Uighurs worki…,"['For', 'year', 'amp', 'I', 'chased', 'story', 'Chinas', 'labor', 'transfer', 'program', 'hundreds', 'Uighurs', 'worki…']"
+191,IPC-Computer battery 32Wh black suitable for Lenovo Z40-70 series https://t.co/pSNI0qJepx https://t.co/Gkv2ukoagP,IPC-Computer battery 32Wh black suitable for Lenovo Z40-70 series https://t.co/pSNI0qJepx https://t.co/Gkv2ukoagP,IPC-Computer battery 32Wh black suitable for Lenovo Z40-70 series  ,IPC-Computer battery Wh black suitable for Lenovo Z- series  ,IPCComputer battery Wh black suitable for Lenovo Z series  ,"['IPCComputer', 'battery', 'Wh', 'black', 'suitable', 'Lenovo', 'Z', 'series']"
+192,"@PDGumshoe Pure ballpark, but I'd probably say around $400-600 would get you more than you need, plus probably some… https://t.co/vrsmdn79ve"," Pure ballpark, but I'd probably say around $400-600 would get you more than you need, plus probably some… https://t.co/vrsmdn79ve"," Pure ballpark, but I'd probably say around $400-600 would get you more than you need, plus probably some… "," Pure ballpark, but I'd probably say around $- would get you more than you need, plus probably some… ", Pure ballpark but Id probably say around  would get you more than you need plus probably some… ,"['Pure', 'ballpark', 'Id', 'probably', 'say', 'around', 'would', 'get', 'need', 'plus', 'probably', 'some…']"
+193,"RT @dakekang: 1/ For over a year, @yananw &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","RT  1/ For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…","  / For over a year,  &amp; I chased this story about China's labor transfer program, under which hundreds of Uighurs worki…",   For over a year  amp I chased this story about Chinas labor transfer program under which hundreds of Uighurs worki…,"['For', 'year', 'amp', 'I', 'chased', 'story', 'Chinas', 'labor', 'transfer', 'program', 'hundreds', 'Uighurs', 'worki…']"
+194,See why we've found the .@Lenovo smart clock such a compelling #GoogleAssistant device to add to your home in our l… https://t.co/EVJdqdoMyC,See why we've found the . smart clock such a compelling #GoogleAssistant device to add to your home in our l… https://t.co/EVJdqdoMyC,See why we've found the . smart clock such a compelling #GoogleAssistant device to add to your home in our l… ,See why we've found the . smart clock such a compelling #GoogleAssistant device to add to your home in our l… ,See why weve found the  smart clock such a compelling GoogleAssistant device to add to your home in our l… ,"['See', 'weve', 'found', 'smart', 'clock', 'compelling', 'GoogleAssistant', 'device', 'add', 'home', 'l…']"
+195,"RT @dakekang: 27/ And - these workers made screens, cameras, fingerprint scanners for a supplier of Apple, Lenovo, &amp; dozens of other major…","RT  27/ And - these workers made screens, cameras, fingerprint scanners for a supplier of Apple, Lenovo, &amp; dozens of other major…","RT  27/ And - these workers made screens, cameras, fingerprint scanners for a supplier of Apple, Lenovo, &amp; dozens of other major…","  / And - these workers made screens, cameras, fingerprint scanners for a supplier of Apple, Lenovo, &amp; dozens of other major…",   And  these workers made screens cameras fingerprint scanners for a supplier of Apple Lenovo amp dozens of other major…,"['And', 'workers', 'made', 'screens', 'cameras', 'fingerprint', 'scanners', 'supplier', 'Apple', 'Lenovo', 'amp', 'dozens', 'major…']"
+196,RT @Lenovo: Experience a whole new level of immersion with the Legion Y44w and its 43.4” curved display. https://t.co/1WFoHteF5A,RT  Experience a whole new level of immersion with the Legion Y44w and its 43.4” curved display. https://t.co/1WFoHteF5A,RT  Experience a whole new level of immersion with the Legion Y44w and its 43.4” curved display. ,  Experience a whole new level of immersion with the Legion Yw and its .” curved display. ,  Experience a whole new level of immersion with the Legion Yw and its ” curved display ,"['Experience', 'whole', 'new', 'level', 'immersion', 'Legion', 'Yw', '”', 'curved', 'display']"
+197,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+198,RT @LenovoLegion: Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,RT  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the world's most Stylish &amp; Savage gaming PCs. Apex Legends and Lenovo Le…,  Welcome to an epic global competition powered by the worlds most Stylish amp Savage gaming PCs Apex Legends and Lenovo Le…,"['Welcome', 'epic', 'global', 'competition', 'powered', 'worlds', 'Stylish', 'amp', 'Savage', 'gaming', 'PCs', 'Apex', 'Legends', 'Lenovo', 'Le…']"
+199,@DavidAtLenovo @iamdavidroman @YuanqingYang @lenovo @lenovo_UKI @LenovoLegion @LenovoNews @LenovoSupport… https://t.co/wQfClGEnUQ,        https://t.co/wQfClGEnUQ,        ,        ,        ,[]
